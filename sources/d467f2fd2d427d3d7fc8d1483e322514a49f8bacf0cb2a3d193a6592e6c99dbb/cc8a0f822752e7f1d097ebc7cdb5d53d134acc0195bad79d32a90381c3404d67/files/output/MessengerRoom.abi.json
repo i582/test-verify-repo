@@ -1,0 +1,213 @@
+{
+  "abi_schema_version": "1.0",
+  "contract_name": "MessengerRoom",
+  "author": "Petr Makhnev",
+  "version": "1.0.0",
+  "description": "Plaintext two-party messenger room with message history in transaction bodies",
+  "unique_types": [
+    {
+      "kind": "void"
+    },
+    {
+      "kind": "int"
+    },
+    {
+      "kind": "slice"
+    },
+    {
+      "kind": "cell"
+    },
+    {
+      "kind": "builder"
+    },
+    {
+      "kind": "bool"
+    },
+    {
+      "kind": "coins"
+    },
+    {
+      "kind": "address"
+    },
+    {
+      "kind": "intN",
+      "n": 32
+    },
+    {
+      "kind": "uintN",
+      "n": 32
+    },
+    {
+      "kind": "intN",
+      "n": 64
+    },
+    {
+      "kind": "uintN",
+      "n": 64
+    },
+    {
+      "kind": "StructRef",
+      "struct_name": "SendMessage"
+    },
+    {
+      "kind": "string"
+    },
+    {
+      "kind": "StructRef",
+      "struct_name": "CloseRoom"
+    },
+    {
+      "kind": "StructRef",
+      "struct_name": "Storage"
+    },
+    {
+      "kind": "StructRef",
+      "struct_name": "RoomInfo"
+    }
+  ],
+  "struct_instantiations": [],
+  "alias_instantiations": [],
+  "declarations": [
+    {
+      "kind": "struct",
+      "name": "Storage",
+      "ty_idx": 15,
+      "fields": [
+        {
+          "name": "roomId",
+          "ty_idx": 9
+        },
+        {
+          "name": "participantA",
+          "ty_idx": 7
+        },
+        {
+          "name": "participantB",
+          "ty_idx": 7
+        },
+        {
+          "name": "messageCount",
+          "ty_idx": 9
+        },
+        {
+          "name": "closed",
+          "ty_idx": 5
+        }
+      ]
+    },
+    {
+      "kind": "struct",
+      "name": "RoomInfo",
+      "ty_idx": 16,
+      "fields": [
+        {
+          "name": "roomId",
+          "ty_idx": 9
+        },
+        {
+          "name": "participantA",
+          "ty_idx": 7
+        },
+        {
+          "name": "participantB",
+          "ty_idx": 7
+        },
+        {
+          "name": "messageCount",
+          "ty_idx": 9
+        },
+        {
+          "name": "closed",
+          "ty_idx": 5
+        }
+      ]
+    },
+    {
+      "kind": "struct",
+      "name": "SendMessage",
+      "ty_idx": 12,
+      "prefix": {
+        "prefix_num": 1836279553,
+        "prefix_len": 32
+      },
+      "fields": [
+        {
+          "name": "text",
+          "ty_idx": 13
+        }
+      ]
+    },
+    {
+      "kind": "struct",
+      "name": "CloseRoom",
+      "ty_idx": 14,
+      "prefix": {
+        "prefix_num": 1668051713,
+        "prefix_len": 32
+      },
+      "fields": []
+    }
+  ],
+  "storage": {
+    "storage_ty_idx": 15
+  },
+  "incoming_messages": [
+    {
+      "body_ty_idx": 12
+    },
+    {
+      "body_ty_idx": 14
+    }
+  ],
+  "incoming_external": [],
+  "outgoing_messages": [],
+  "emitted_events": [],
+  "get_methods": [
+    {
+      "tvm_method_id": 99744,
+      "name": "roomInfo",
+      "parameters": [],
+      "return_ty_idx": 16
+    },
+    {
+      "tvm_method_id": 73567,
+      "name": "isParticipant",
+      "parameters": [
+        {
+          "name": "addressToCheck",
+          "ty_idx": 7
+        }
+      ],
+      "return_ty_idx": 5
+    }
+  ],
+  "thrown_errors": [
+    {
+      "kind": "enum_member",
+      "name": "Errors.NotParticipant",
+      "err_code": 100
+    },
+    {
+      "kind": "enum_member",
+      "name": "Errors.EmptyMessage",
+      "err_code": 4097
+    },
+    {
+      "kind": "enum_member",
+      "name": "Errors.MessageTooLong",
+      "err_code": 4098
+    },
+    {
+      "kind": "enum_member",
+      "name": "Errors.RoomClosed",
+      "err_code": 4099
+    },
+    {
+      "kind": "enum_member",
+      "name": "Errors.InvalidMessage",
+      "err_code": 65535
+    }
+  ],
+  "compiler_name": "tolk",
+  "compiler_version": "1.4.2"
+}
