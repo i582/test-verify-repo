@@ -1,0 +1,32 @@
+{
+  "code_hash": "f73dea1de0a51ffdae836830e3d55505677f8be82ceda1cd05112fed3afff2f2",
+  "source_bundle_hash": "379413a33040729577bf33635acedc8bb9858fe83ccce1448a49304b77a98713",
+  "verified_at": 1784649993,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "JettonDex.pkg",
+      "content_hash": "8a4ee3ba6839266d80706aec6c615d0aed21f14d8fa88a8bc152138b05676854"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "e1d4e11de25a4095b1ec623a3df30944b165daf02ce1226e0e3a4ed5e137e994"
+    },
+    {
+      "path": "output/verifier_JettonDex.abi",
+      "content_hash": "f727f6344461d860b57221fe4cab38c46232d085aa05d23fd4dce2c8350ce57e"
+    },
+    {
+      "path": "output/verifier_JettonDex.pkg",
+      "content_hash": "8851f161ee5bcdecd40b2fffe2adae106acabb94b52ff733716bdf3b082c8b01"
+    }
+  ]
+}
