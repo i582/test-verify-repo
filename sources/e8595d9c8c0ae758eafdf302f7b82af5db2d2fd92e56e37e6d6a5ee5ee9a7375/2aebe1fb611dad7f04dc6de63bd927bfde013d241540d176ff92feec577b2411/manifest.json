@@ -1,0 +1,79 @@
+{
+  "code_hash": "e8595d9c8c0ae758eafdf302f7b82af5db2d2fd92e56e37e6d6a5ee5ee9a7375",
+  "source_bundle_hash": "2aebe1fb611dad7f04dc6de63bd927bfde013d241540d176ff92feec577b2411",
+  "verified_at": 1784649996,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.0",
+    "entrypoint": "jetton-minter.fc",
+    "params": {
+      "compiler_version": "0.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/constants.fc",
+      "content_hash": "ba178a963dfcd96a28a9fe15d04b006286858313fb6f6b157b8e8b7a79860923",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/discovery-params.fc",
+      "content_hash": "215e8d75ed135cb2a3ac0b6c33c3d99d7bfb370d2834f3b09e5e4566a2fce31b",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/jetton-utils.fc",
+      "content_hash": "ba6a1fa245b5d452626372d0087b63008a09d9fcb6c2155c48d41c4ed7849a28",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/op-codes.fc",
+      "content_hash": "826bab415a189e5ab07607ffdc8367a7b3808a44ae2dc8c67e5c636b90536113",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/params.fc",
+      "content_hash": "65925e6e45e20dbc836dbec2dfd660e874aa7f1049d187ae543b469018de9a7a",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/utils.fc",
+      "content_hash": "92c105b74ece244020c18a3f3615e3c1133c24dbb33ed7eddf309f8d0e7292f6",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "jetton-minter.fc",
+      "content_hash": "81c461e2f3ccb14435fd9ffa91144b3e03de7aa080a11af21487d3f4e3a53c99",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-wallet.fc",
+      "content_hash": "c05aaea9eb93b705625e94d6568d64ca0499d012eb384e316e025727590c2ff3",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
