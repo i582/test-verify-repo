@@ -1,0 +1,32 @@
+{
+  "code_hash": "801c996842bfbfedb2ded0d27586e8500111dcfac425783334e08acc47e53158",
+  "source_bundle_hash": "a75f8c5040fc7b9441f79754b4bd9737197848dc97f4349aebe69ef5c50ba57a",
+  "verified_at": 1784649053,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/deals_holder.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "DealsHolder_MultiDeal.pkg",
+      "content_hash": "7894782574fe185fc9ba410826f4a2526b77159f705df5315d267914cc576f43"
+    },
+    {
+      "path": "contract/contracts/deals_holder.tact",
+      "content_hash": "941298e74cec980bb4f7bcb9521d401d61e7a7922fb5e9b374b8c1887d402592"
+    },
+    {
+      "path": "output/verifier_MultiDeal.abi",
+      "content_hash": "48ab16922b3acb37e44fa1eac241b219bdc6741a100539f822b63f88037bb95e"
+    },
+    {
+      "path": "output/verifier_MultiDeal.pkg",
+      "content_hash": "2eab198e1c72b6e6aa14fac61e22f566d06fbd134944f4e03eb31415fdecba7d"
+    }
+  ]
+}
