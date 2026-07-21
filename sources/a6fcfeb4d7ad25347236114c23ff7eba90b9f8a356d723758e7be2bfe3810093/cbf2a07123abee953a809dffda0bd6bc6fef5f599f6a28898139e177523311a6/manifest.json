@@ -1,0 +1,28 @@
+{
+  "code_hash": "a6fcfeb4d7ad25347236114c23ff7eba90b9f8a356d723758e7be2bfe3810093",
+  "source_bundle_hash": "cbf2a07123abee953a809dffda0bd6bc6fef5f599f6a28898139e177523311a6",
+  "verified_at": 1784649876,
+  "compiler": {
+    "language": "tact",
+    "version": "1.0.0",
+    "entrypoint": "contract/sources/contract.tact",
+    "params": {
+      "compiler_version": "1.0.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contract/sources/contract.tact",
+      "content_hash": "7ae9f5097e008e4bcf91d0e2a5687104b63a1bfb561e2fdc60aeef465dbadabe"
+    },
+    {
+      "path": "output/verifier_QuadraticGrantTonContract.abi",
+      "content_hash": "518b2db07c75bd902748633c228ff6d373a10d959001eb82e7aa9e089c733eed"
+    },
+    {
+      "path": "output/verifier_QuadraticGrantTonContract.pkg",
+      "content_hash": "51813f81c81574d67bbd564f7ac6a7f51170e4cf98b3365a30c87e11581ef2f6"
+    }
+  ]
+}
