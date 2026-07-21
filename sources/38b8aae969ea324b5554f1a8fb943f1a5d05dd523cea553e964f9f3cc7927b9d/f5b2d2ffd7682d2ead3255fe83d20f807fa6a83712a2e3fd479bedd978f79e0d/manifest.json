@@ -1,0 +1,32 @@
+{
+  "code_hash": "38b8aae969ea324b5554f1a8fb943f1a5d05dd523cea553e964f9f3cc7927b9d",
+  "source_bundle_hash": "f5b2d2ffd7682d2ead3255fe83d20f807fa6a83712a2e3fd479bedd978f79e0d",
+  "verified_at": 1784649296,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "contracts/solomon_deal.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/solomon_deal.tact",
+      "content_hash": "ce532dbc6d0852cbe5f4c42649f6054095c4b35a6e99193730b682444887c61e"
+    },
+    {
+      "path": "output/verifier_SolomonDeal.abi",
+      "content_hash": "dcfbd2f4facd0232734d5f87e841a7ad42f3c57dcdb5613314eb2edb5dcefe3d"
+    },
+    {
+      "path": "output/verifier_SolomonDeal.pkg",
+      "content_hash": "76c8e55f3f365fa9ac0a2aad6385730e4f7d5848bb20741104990e5aff9e023b"
+    },
+    {
+      "path": "tact_SolomonDeal.pkg",
+      "content_hash": "b1aaef8eec69094ec5ec899277eccbe8cc77320af4f739e693df564569c008ca"
+    }
+  ]
+}
