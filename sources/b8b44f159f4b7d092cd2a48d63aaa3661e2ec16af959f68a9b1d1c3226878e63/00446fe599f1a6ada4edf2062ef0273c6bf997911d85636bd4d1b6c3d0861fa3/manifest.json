@@ -1,0 +1,32 @@
+{
+  "code_hash": "b8b44f159f4b7d092cd2a48d63aaa3661e2ec16af959f68a9b1d1c3226878e63",
+  "source_bundle_hash": "00446fe599f1a6ada4edf2062ef0273c6bf997911d85636bd4d1b6c3d0861fa3",
+  "verified_at": 1784649732,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.4",
+    "entrypoint": "contracts/g_d_tap_booster.tact",
+    "params": {
+      "compiler_version": "1.1.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/g_d_tap_booster.tact",
+      "content_hash": "a323dc9048b1ddf7e357f9c678864fdec017354b3c40f7b0ffd02973f493fc48"
+    },
+    {
+      "path": "output/verifier_GDTapBooster.abi",
+      "content_hash": "e106e19edd80f6371ece7360a092ca8a6e6c8339c3d51b0bded0de95ae1949c5"
+    },
+    {
+      "path": "output/verifier_GDTapBooster.pkg",
+      "content_hash": "f34cf9a47ecb1ba5a6e65555c7059d95d3ba6f5b3c34171f1b22bcecf14dbb5c"
+    },
+    {
+      "path": "tact_GDTapBooster.pkg",
+      "content_hash": "d16f730c6b936e62f08ef4bf709f05f5f7f3270c61f28f97b194cf14307719b3"
+    }
+  ]
+}
