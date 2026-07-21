@@ -1,0 +1,36 @@
+{
+  "code_hash": "c0c28c043f05af8cf1e4d73d2d5d6e3e1f753e622f2b9fd24245b4ea7f7ff009",
+  "source_bundle_hash": "4b75de6148a809a66ac4540c46cb4cd86b1e4f0191285cbd8593473314a352f8",
+  "verified_at": 1784648770,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/staking.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "StakingVault_StakingVault.pkg",
+      "content_hash": "e1d0bb27e2c8a757e0df8db8884a7b572696cae25cb5701e59f9a793257f337c"
+    },
+    {
+      "path": "contract/contracts/imports/staking.message.tact",
+      "content_hash": "45f0b21669d6d7f2516d9b1d13ce5a84bdece31f5e72ca9b28c970952a1763a1"
+    },
+    {
+      "path": "contract/contracts/staking.tact",
+      "content_hash": "88afdc5b3a8e1f92b087a39d4008913b0f799f3a539e1eb1a1a66bd79f259b23"
+    },
+    {
+      "path": "output/verifier_StakingVault.abi",
+      "content_hash": "0957a5d458889fb89f3041117b19e54aa75117ebf957ecd7c18f6cb75529c77c"
+    },
+    {
+      "path": "output/verifier_StakingVault.pkg",
+      "content_hash": "2f5f11730d3f40bb45fcb3e2329a4048f0ac7d2457a81f3d768978ccca74741d"
+    }
+  ]
+}
