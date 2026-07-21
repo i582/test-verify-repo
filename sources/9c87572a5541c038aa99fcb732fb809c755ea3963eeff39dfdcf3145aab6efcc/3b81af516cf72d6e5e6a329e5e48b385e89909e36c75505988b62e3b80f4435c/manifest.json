@@ -1,0 +1,36 @@
+{
+  "code_hash": "9c87572a5541c038aa99fcb732fb809c755ea3963eeff39dfdcf3145aab6efcc",
+  "source_bundle_hash": "3b81af516cf72d6e5e6a329e5e48b385e89909e36c75505988b62e3b80f4435c",
+  "verified_at": 1784648480,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "sources/contracts/reward_vault.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "RewardVault.pkg",
+      "content_hash": "5d07127ca5117bda7d82a4b2a21de13b9342b704bc257cc29460dc6b1f85d9e5"
+    },
+    {
+      "path": "contract/sources/contracts/messages.tact",
+      "content_hash": "4a8c5c0d27f849d8d4be6ca3d8440f735e62977f633d688ec197e328bddf9b09"
+    },
+    {
+      "path": "contract/sources/contracts/reward_vault.tact",
+      "content_hash": "7674afe756c9b0a3f423e824cf0fa9dac4acf3837eb07d845067ba80eaad9072"
+    },
+    {
+      "path": "output/verifier_RewardVault.abi",
+      "content_hash": "f21de1e489816a16bbee34a531186c5ea98c30070766b9a05436febfecd0932a"
+    },
+    {
+      "path": "output/verifier_RewardVault.pkg",
+      "content_hash": "3386329bb5e6f437338320600be8b2ac7aeefbe9730197cef11e4cf846559b72"
+    }
+  ]
+}
