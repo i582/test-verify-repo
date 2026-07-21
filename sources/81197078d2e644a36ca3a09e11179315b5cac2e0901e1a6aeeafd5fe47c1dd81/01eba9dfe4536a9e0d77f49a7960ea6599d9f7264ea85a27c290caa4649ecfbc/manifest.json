@@ -1,0 +1,48 @@
+{
+  "code_hash": "81197078d2e644a36ca3a09e11179315b5cac2e0901e1a6aeeafd5fe47c1dd81",
+  "source_bundle_hash": "01eba9dfe4536a9e0d77f49a7960ea6599d9f7264ea85a27c290caa4649ecfbc",
+  "verified_at": 1784649194,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/TrueAED/master.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TrueAED.pkg",
+      "content_hash": "a262066cdbca1c9ab43c3970a5ae5005fb0ade2bdf63aa27c20a25bb08d5bc8b"
+    },
+    {
+      "path": "contract/contracts/Jetton/master.tact",
+      "content_hash": "186544cab1c37d329d3322967167c599a6d231bf0a0e0f4a079f1b71a32feef0"
+    },
+    {
+      "path": "contract/contracts/Jetton/wallet.tact",
+      "content_hash": "18112453d024abc2354c5771306b593fcdb9d760389b85a1f5ee128e3f7f8990"
+    },
+    {
+      "path": "contract/contracts/TrueAED/master.tact",
+      "content_hash": "78f511af3d0510868576e2fcf8388dea426162c97d1342869d128bb26872cf06"
+    },
+    {
+      "path": "output/verifier_JettonWallet.abi",
+      "content_hash": "ccaccc93443f0f5b58176dc6c43cb39fdc35e8424173aef9bf85c781b19626a0"
+    },
+    {
+      "path": "output/verifier_JettonWallet.pkg",
+      "content_hash": "aab49c25915f0757aa04c2c9b4668a3a77ad3308db341b0e8f5fd91f5d0a5364"
+    },
+    {
+      "path": "output/verifier_TrueAED.abi",
+      "content_hash": "5d22f631eaa96cf416f8c1d375fb21da2483176dfcd8eb3e2e67cc88e6d53a7f"
+    },
+    {
+      "path": "output/verifier_TrueAED.pkg",
+      "content_hash": "3cc969394bf6049af50063b01ed2f59ee8416752cd054badc0d097006fd5b51c"
+    }
+  ]
+}
