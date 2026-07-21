@@ -1,0 +1,32 @@
+{
+  "code_hash": "e86533bae14ce246d754b72d20802b16ab10407eb0cee985071421279918ea96",
+  "source_bundle_hash": "cdaf3b69c136e817d596be41ad73ab103296b47249c401b4290122dd15cacbc7",
+  "verified_at": 1784649993,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "src/main.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "LotteryFortuneSun.pkg",
+      "content_hash": "69074024cddb9eb5c638eae1b0a9a070bd947fd211e228c274d62ba534b74d68"
+    },
+    {
+      "path": "contract/src/main.tact",
+      "content_hash": "e3fd3bc906b3f9544f0b07b22bc394fd14c22b0af61b6b607118773694a70042"
+    },
+    {
+      "path": "output/verifier_LotteryFortuneSun.abi",
+      "content_hash": "f3e84f84a448c37927ebed79c0b4977276e4a2b811ef6fbf469b42be1961e198"
+    },
+    {
+      "path": "output/verifier_LotteryFortuneSun.pkg",
+      "content_hash": "b944504a197ac93ca1bd011c6ec3216fcac0c5871f34e190b8f0a06a187bcf53"
+    }
+  ]
+}
