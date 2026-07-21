@@ -1,0 +1,56 @@
+{
+  "code_hash": "c5dbcc9e6de00f252b9a1cc6293bc876f33c52f9248fb26438631d0dd7d12eeb",
+  "source_bundle_hash": "8b13af0f1434d73fcf0baa75c22591ded0f281bb26524146f7de249ebb089605",
+  "verified_at": 1784650023,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/jetton_minter_feature_rich.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "JettonMinterFeatureRich_JettonMinterFeatureRich.pkg",
+      "content_hash": "54f3cf39c74a5dc771c96829127a8721030f3980b829d00676532a797ed23cbe"
+    },
+    {
+      "path": "contract/contracts/constants.tact",
+      "content_hash": "cac8e43da55d70631e93d64843a54b2dc522d87b5c431e53b484dd822a628979"
+    },
+    {
+      "path": "contract/contracts/jetton_minter_feature_rich.tact",
+      "content_hash": "f719fff909f71b5baa5f3cfb41b98dc11a23674548837232154188d93fa891ff"
+    },
+    {
+      "path": "contract/contracts/jetton_wallet_feature_rich.tact",
+      "content_hash": "5489c4983acd00f0d07ba6b10ad3a50c2f1a76b2c2cd7829d6c3429bb75808b3"
+    },
+    {
+      "path": "contract/contracts/messages.tact",
+      "content_hash": "7481749f2afca3641b4e4419e02872f9bef485491ec5cecd963fb633db1306c3"
+    },
+    {
+      "path": "contract/contracts/utils.tact",
+      "content_hash": "efe4f2bb35cfe7c30a554d9401ad7a4b3bd4ed12b4ec8d6a5d50f617d3e74088"
+    },
+    {
+      "path": "output/verifier_JettonMinterFeatureRich.abi",
+      "content_hash": "84565fe10d87a5f15ffb4183a8febc2492fe87bf824002284f286e468cb78a6c"
+    },
+    {
+      "path": "output/verifier_JettonMinterFeatureRich.pkg",
+      "content_hash": "e00b8337e01bc416e84979fa5c40fdf3220eaccdeecdd1b3934ab22bbdd7f6e9"
+    },
+    {
+      "path": "output/verifier_JettonWalletFeatureRich.abi",
+      "content_hash": "dda967b9863fb78a47433d833b8d2514813753a72504bbdd4c3c08979f2f6762"
+    },
+    {
+      "path": "output/verifier_JettonWalletFeatureRich.pkg",
+      "content_hash": "6bffd4236c4f1720838dbd201a198107b6c7f36085ebdbb7c93bf92dfa68bf84"
+    }
+  ]
+}
