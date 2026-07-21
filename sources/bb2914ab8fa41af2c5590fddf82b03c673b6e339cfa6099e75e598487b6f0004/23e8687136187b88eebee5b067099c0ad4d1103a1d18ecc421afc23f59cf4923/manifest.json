@@ -1,0 +1,44 @@
+{
+  "code_hash": "bb2914ab8fa41af2c5590fddf82b03c673b6e339cfa6099e75e598487b6f0004",
+  "source_bundle_hash": "23e8687136187b88eebee5b067099c0ad4d1103a1d18ecc421afc23f59cf4923",
+  "verified_at": 1784648550,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/mushroom_warrior_collection.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/messages.tact",
+      "content_hash": "438a95bf9b96eca982ac87ec466123772f9ac92aa245742bd7e2c0ffd5716db8"
+    },
+    {
+      "path": "contract/contracts/mushroom_warrior_collection.tact",
+      "content_hash": "53065b3fd8ff14c614b847ed3bcdddfc5dbc801231624f7d094d8c861c786287"
+    },
+    {
+      "path": "output/verifier_MushroomWarriorCollection.abi",
+      "content_hash": "6331e45b65f78a3d29ae5441a3ebf311cb51b3540420d34210576f3f7f9894d2"
+    },
+    {
+      "path": "output/verifier_MushroomWarriorCollection.pkg",
+      "content_hash": "d1cbaa76d28300635252f778ba712752f4eb4054f0cc9139ae242bcc7b1b2c67"
+    },
+    {
+      "path": "output/verifier_NftItem.abi",
+      "content_hash": "5e3af944559f6f2295798cf078a02be56fb313fbd260cdc62ac480d40eb9b5fb"
+    },
+    {
+      "path": "output/verifier_NftItem.pkg",
+      "content_hash": "a2f0a3651e5c4d49c8f7553abe98c1f6dec4ea721a7d0fca2bbec29db437ad62"
+    },
+    {
+      "path": "tact_NftItem.pkg",
+      "content_hash": "95e71d888b571520ea2d954eed7972fa49fd3f2bbeb5193dbe31da16699235d8"
+    }
+  ]
+}
