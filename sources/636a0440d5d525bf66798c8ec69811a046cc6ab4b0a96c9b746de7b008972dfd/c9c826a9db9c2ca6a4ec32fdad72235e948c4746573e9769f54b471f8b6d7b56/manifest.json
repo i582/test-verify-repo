@@ -1,0 +1,32 @@
+{
+  "code_hash": "636a0440d5d525bf66798c8ec69811a046cc6ab4b0a96c9b746de7b008972dfd",
+  "source_bundle_hash": "c9c826a9db9c2ca6a4ec32fdad72235e948c4746573e9769f54b471f8b6d7b56",
+  "verified_at": 1784649607,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "contracts/hashed_time_lock_t_o_n.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "HashedTimeLockTON.pkg",
+      "content_hash": "2181d9167469c66afda972013446539d335bb1ed195e0b8425b4dae206ba7fbf"
+    },
+    {
+      "path": "contract/contracts/hashed_time_lock_t_o_n.tact",
+      "content_hash": "963c7939d6493e730416016fc6c61d72acfea974329a7e30fdf821021fc35990"
+    },
+    {
+      "path": "output/verifier_HashedTimeLockTON.abi",
+      "content_hash": "55ebcaec68974e6f6792e58cd1f4a1a585d6d65f397e3d72b0a2d79d4c94a6cc"
+    },
+    {
+      "path": "output/verifier_HashedTimeLockTON.pkg",
+      "content_hash": "53845cd9214b8724c2e2e690cf7d245851d55dc431a400f0bf8ed09576616908"
+    }
+  ]
+}
