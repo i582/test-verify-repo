@@ -1,0 +1,32 @@
+{
+  "code_hash": "5702def2d82411160637dcc758acccfdea3c2fd0eba1be95dda421ddda4cb7a7",
+  "source_bundle_hash": "a16da446cd461a44ed07935d5f32b2183d84ee96e9cbc0b9007611aa2ee1d6bf",
+  "verified_at": 1784648225,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/orc_mine.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/orc_mine.tact",
+      "content_hash": "ed6d1bef4b90287e5affc5862ea058c6a294c423dd2eab683b53199e2f0aa073"
+    },
+    {
+      "path": "output/verifier_OrcMine.abi",
+      "content_hash": "dcc2dc372e211e64d55a1f783c023ef5a7dee291c163d6a852cf1e590ef0be0e"
+    },
+    {
+      "path": "output/verifier_OrcMine.pkg",
+      "content_hash": "c0a93cda99e90f681045f8d6dd7adf24596da987378d972cc58eebde47214418"
+    },
+    {
+      "path": "tact_OrcMine.pkg",
+      "content_hash": "6999aae1939de07af6a429de910c23e0ed90cb3cf0f12766dacb55c27a001898"
+    }
+  ]
+}
