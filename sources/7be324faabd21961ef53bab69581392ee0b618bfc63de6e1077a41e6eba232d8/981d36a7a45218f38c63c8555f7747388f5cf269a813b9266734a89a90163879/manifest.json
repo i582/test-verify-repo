@@ -1,0 +1,48 @@
+{
+  "code_hash": "7be324faabd21961ef53bab69581392ee0b618bfc63de6e1077a41e6eba232d8",
+  "source_bundle_hash": "981d36a7a45218f38c63c8555f7747388f5cf269a813b9266734a89a90163879",
+  "verified_at": 1784649097,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/USDT.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/USDT.tact",
+      "content_hash": "83831fb21512b77a99efb515ef0b728ef7434b2e474d9d1170e9006f28bd12e9"
+    },
+    {
+      "path": "contract/contracts/jetton/JettonMaster.tact",
+      "content_hash": "9cbaa2fd41d2ee262a08446de77f5d65332c7de37e9beee1e7797f0081ff8ccd"
+    },
+    {
+      "path": "contract/contracts/jetton/JettonWallet.tact",
+      "content_hash": "56cd67cc65ccd7b888cbec294f12fe14ba31c07e0aa78b23bb164038996929e5"
+    },
+    {
+      "path": "output/verifier_USDTMaster.abi",
+      "content_hash": "6d915f1c0a10df0a908e240a5f7347bf9720aab79b4153bc2f4e69a6f055018a"
+    },
+    {
+      "path": "output/verifier_USDTMaster.pkg",
+      "content_hash": "7d303a173b4968241cbff9316057b2f9a15810c66aff7620493e593b8fd84252"
+    },
+    {
+      "path": "output/verifier_USDTWallet.abi",
+      "content_hash": "b5344e42ed7c0117e48565e9aa7ce2be15cc3efc8dc8019c65db99b9529290f4"
+    },
+    {
+      "path": "output/verifier_USDTWallet.pkg",
+      "content_hash": "ac9a39c476708afcf179aeaf2937c13da201d7b55e394670f002a6dd2373cb3a"
+    },
+    {
+      "path": "tact_USDTMaster.pkg",
+      "content_hash": "6469ca9765b2103de012674449e4698063b6985fe685520f602e5bd22d050a32"
+    }
+  ]
+}
