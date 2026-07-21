@@ -1,0 +1,40 @@
+{
+  "code_hash": "ef850f2bccb241cc87944dd0a6495667292d4f77e25e65d564461a4acc037333",
+  "source_bundle_hash": "6501acd293f9e135b9783328f6018d78979e8b12aaa2ec12b51e6707cb246dab",
+  "verified_at": 1784649893,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/jetton.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/jetton.tact",
+      "content_hash": "ef2091ee80527db50c47f0373299ae4e1a386a1a52de9c223c51be63f6d2e48f"
+    },
+    {
+      "path": "output/verifier_Fest.abi",
+      "content_hash": "f7d1b574dfb3381bafde1a01f60d53a6714c7419d64c619b0912541ee98734bc"
+    },
+    {
+      "path": "output/verifier_Fest.pkg",
+      "content_hash": "fb696f2a430b91c60697240d13b8bbf40a57428eb25d79409be54e688d467709"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.abi",
+      "content_hash": "7ab98c94f31ccdcff52c9c6957a958e74c12741dcec4ebfdbb5c90de54fc7361"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.pkg",
+      "content_hash": "520f5cba1012075af07fc43a53f9307b7a51dd97b014c57361e9f90d4871ea6c"
+    },
+    {
+      "path": "tact_Fest.pkg",
+      "content_hash": "6cf1e4f12bd2cd386e8365d96b0678629e946468e905e067fb6df9345b61d636"
+    }
+  ]
+}
