@@ -1,0 +1,40 @@
+{
+  "code_hash": "e0d0d06c03ef0362f319b9faec979b111129268eca30130f4b6662ebb55b52e9",
+  "source_bundle_hash": "6423de0ba1e1971f0f33cb105a0fa97415f2fb6a81aa900675a9e08938053599",
+  "verified_at": 1784650123,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/bro_sale_jetton.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "BroSaleJetton_BroSaleJettonMaster.pkg",
+      "content_hash": "9a50559c5de4e69575f93602903491d2e0383e92397f6c67d3e3cf0ca6af9c05"
+    },
+    {
+      "path": "contract/contracts/bro_sale_jetton.tact",
+      "content_hash": "d8060e66d3446a68be5f87eee9b7b761dc8652376b171e8a64c84bb0c91afc33"
+    },
+    {
+      "path": "output/verifier_BroSaleJettonMaster.abi",
+      "content_hash": "a5ab4d53c95c69aa075810fd09d60ec56a961a13194d6004cb18c35751bb4647"
+    },
+    {
+      "path": "output/verifier_BroSaleJettonMaster.pkg",
+      "content_hash": "4fa175cb434de548cdc7c982ee844f451b50b8d80d1db2b16d5d1bb42c5b854b"
+    },
+    {
+      "path": "output/verifier_BroSaleJettonWallet.abi",
+      "content_hash": "bc6146564b199d91af7c25d0dcc4903f5808411f7246b95df5c17c105bdc7f0f"
+    },
+    {
+      "path": "output/verifier_BroSaleJettonWallet.pkg",
+      "content_hash": "43bb90f1e8cc7c8dc7081b08bf9d8c47bd36cec8fc5072bd25c45be2e074ead1"
+    }
+  ]
+}
