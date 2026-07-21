@@ -1,0 +1,32 @@
+{
+  "code_hash": "af7d09f37a138fc268cbbe15fc9d84e4dd56923fd5ddc9ba8a42b7f829786430",
+  "source_bundle_hash": "ea69c23b9818809f8fa281a6bcf18af0117c7c77a2a4ca2d40f885b5f575c3d6",
+  "verified_at": 1784649814,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/ownertry.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/ownertry.tact",
+      "content_hash": "aec1a857de25e2d2f699c5f4b6b07c6e74841b4bd71fb4fb914ec1483c6edc5d"
+    },
+    {
+      "path": "output/verifier_Ownertry.abi",
+      "content_hash": "82eaf7f63ab793611944948058c3c4d9daa3728e21eb44cd0bf538fbea3a615d"
+    },
+    {
+      "path": "output/verifier_Ownertry.pkg",
+      "content_hash": "324f4f3b85dc90affdf12c21c5005e521922e9bd75a5c4b794ce0af8d322ea0f"
+    },
+    {
+      "path": "tact_Ownertry.pkg",
+      "content_hash": "ffdc89abfabdf51e801b49cf68ce397bef825da7c952708b7017a5895026351d"
+    }
+  ]
+}
