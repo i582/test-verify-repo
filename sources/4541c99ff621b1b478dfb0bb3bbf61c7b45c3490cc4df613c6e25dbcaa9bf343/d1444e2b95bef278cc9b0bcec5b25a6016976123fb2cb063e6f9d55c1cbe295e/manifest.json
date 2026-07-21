@@ -1,0 +1,32 @@
+{
+  "code_hash": "4541c99ff621b1b478dfb0bb3bbf61c7b45c3490cc4df613c6e25dbcaa9bf343",
+  "source_bundle_hash": "d1444e2b95bef278cc9b0bcec5b25a6016976123fb2cb063e6f9d55c1cbe295e",
+  "verified_at": 1784649021,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/train.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Train.pkg",
+      "content_hash": "4822421ea942a88eeb3bed85d92210dbfd72a47d2b780d348e9cd4b3cd806d7c"
+    },
+    {
+      "path": "contract/contracts/train.tact",
+      "content_hash": "6e05f4216ee95a21e10bee784ae49ba5192bd676511d9d8cfc6ce3d2429d23cf"
+    },
+    {
+      "path": "output/verifier_Train.abi",
+      "content_hash": "13168ea206435face6f05282a6405936c3fa0802d67ca185ab056d19451f2c30"
+    },
+    {
+      "path": "output/verifier_Train.pkg",
+      "content_hash": "9eb36a02f48062dcefed4dc17be797143dc5e70808506d4f5727cf942bf6fab7"
+    }
+  ]
+}
