@@ -1,0 +1,32 @@
+{
+  "code_hash": "c7998de463a3fa6c8e3d7e64cd67f3dee393a744256d88b5b10df59bdd91a7f5",
+  "source_bundle_hash": "38b4f7c0a995e101e86355e4e8ed58bb27196156ec5c1e56f1e0f0d7d911b53e",
+  "verified_at": 1784648752,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.2",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.5.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MimiappContract.pkg",
+      "content_hash": "4a3274c85bbf999a3ed327c3450a77451ffa56f41d6458fdeb2de980ab739975"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "c654c31989093765d426046d96d37415f155e632a0f92ba6868f71f0952d3fb4"
+    },
+    {
+      "path": "output/verifier_MimiappContract.abi",
+      "content_hash": "c0887bbdc0a38c8b0c3f485c45eeb62a0efa3b989b33ea0c268139de065b036d"
+    },
+    {
+      "path": "output/verifier_MimiappContract.pkg",
+      "content_hash": "60630ed4ce7b6ba77db8d64e4c617765f1f7572bafcfbc71e762a0ee3c1acd39"
+    }
+  ]
+}
