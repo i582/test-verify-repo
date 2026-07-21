@@ -1,0 +1,40 @@
+{
+  "code_hash": "0663eb845a34a6bae0f6bda3cd449d74a581d82551b21b254b6ac20906955540",
+  "source_bundle_hash": "ab8eaf3cce1571da3f60f6961572abbcdb5907f4dabf1b8592092231f809eb61",
+  "verified_at": 1784649541,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.2",
+    "entrypoint": "contracts/bidding_platform.tact",
+    "params": {
+      "compiler_version": "1.5.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/bidding_platform.tact",
+      "content_hash": "7a58e61d41199e62c24b601028da85719f9a28301ce5ec826cd31b5aa9521d85"
+    },
+    {
+      "path": "output/verifier_BiddingPlatform.abi",
+      "content_hash": "bcaa14a502e68d1503874310a7c682021ffc4d081c55430f4efa6a182f4d3f66"
+    },
+    {
+      "path": "output/verifier_BiddingPlatform.pkg",
+      "content_hash": "e4fd96774fc8e2047a47e5d3b254d97757aaa4012632137226fcb22ecab93b6c"
+    },
+    {
+      "path": "output/verifier_ServiceChild.abi",
+      "content_hash": "d7414116517f5cb70104ddd5fcb3a85ad5797119f3b54d90fdbe132e2e52be31"
+    },
+    {
+      "path": "output/verifier_ServiceChild.pkg",
+      "content_hash": "bb18459d761ff98a3e39cab780622a33334413fa431fe8606cdb34d271095ef6"
+    },
+    {
+      "path": "tact_BiddingPlatform.pkg",
+      "content_hash": "a4242f8d615d235ea4bc077794f6d001c550ed54b44df9738d56137065024ea7"
+    }
+  ]
+}
