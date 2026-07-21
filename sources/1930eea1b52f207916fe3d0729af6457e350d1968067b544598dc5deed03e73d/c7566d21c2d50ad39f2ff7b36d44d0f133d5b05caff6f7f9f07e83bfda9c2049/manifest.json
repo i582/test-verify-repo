@@ -1,0 +1,32 @@
+{
+  "code_hash": "1930eea1b52f207916fe3d0729af6457e350d1968067b544598dc5deed03e73d",
+  "source_bundle_hash": "c7566d21c2d50ad39f2ff7b36d44d0f133d5b05caff6f7f9f07e83bfda9c2049",
+  "verified_at": 1784649144,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.0",
+    "entrypoint": "contracts/bid_test.tact",
+    "params": {
+      "compiler_version": "1.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/bid_test.tact",
+      "content_hash": "53400ac1b44f841dffa30a70f9528b44c12e7e73b243c12f5b7665bbf64db2df"
+    },
+    {
+      "path": "output/verifier_BidTest.abi",
+      "content_hash": "858c289847eb2ffd9cb2b7e2bbcc7d80e41f5be68f0f2ccd0048fca3404a8ba2"
+    },
+    {
+      "path": "output/verifier_BidTest.pkg",
+      "content_hash": "5d1e764a61eeabd88b5943890f570fc573faf1b88141a532abd8da8412d81f1d"
+    },
+    {
+      "path": "tact_BidTest.pkg",
+      "content_hash": "b8eb45bbdc0622b593071dc4af96c9cd29836c945b2ce279a28c97a6b5ee26d5"
+    }
+  ]
+}
