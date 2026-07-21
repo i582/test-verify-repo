@@ -1,0 +1,32 @@
+{
+  "code_hash": "d07c3639a6bf6de2771e17e975358a0c7963f0fd83619be342416b4636d48265",
+  "source_bundle_hash": "f9969af9d6e98779e95742fbf857107ad6603814cea47a00de36a25a9d610bcc",
+  "verified_at": 1784648571,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TonBetPlayContract.pkg",
+      "content_hash": "356b27185faf97edc239938492b5dd7b89954243a2159b1b1cd38c55d22799bc"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "c6759f98175323fb85d86e529f6794e9eef24aed733dc8aba089643abc03e91b"
+    },
+    {
+      "path": "output/verifier_TonBetPlayContract.abi",
+      "content_hash": "76dc0cfb4fca2ebcd2b0c11559b7eacd013b4afc67505344b7b8d968af3e970b"
+    },
+    {
+      "path": "output/verifier_TonBetPlayContract.pkg",
+      "content_hash": "597569738d3dd9b40a624cf9eaf74281b554c0d3e5c186aa5ca0fcf958a6ce34"
+    }
+  ]
+}
