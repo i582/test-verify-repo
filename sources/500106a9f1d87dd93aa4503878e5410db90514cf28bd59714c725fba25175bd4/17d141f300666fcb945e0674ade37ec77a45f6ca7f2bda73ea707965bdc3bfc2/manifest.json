@@ -1,0 +1,32 @@
+{
+  "code_hash": "500106a9f1d87dd93aa4503878e5410db90514cf28bd59714c725fba25175bd4",
+  "source_bundle_hash": "17d141f300666fcb945e0674ade37ec77a45f6ca7f2bda73ea707965bdc3bfc2",
+  "verified_at": 1784648206,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.4",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.6.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "_NFTMinerItemsSettings.pkg",
+      "content_hash": "17b242726f15b7b48f31c6fe87e4e142442b8120d903a959284ab4dbcffac658"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "adc5b1c040f9b098a685f75e3672274503384fda2642c8c8f7b98e3e3849d292"
+    },
+    {
+      "path": "output/verifier_NFTMinerItemsSettings.abi",
+      "content_hash": "46b010b61e4a553232af309974ed2039e6d77db6ce8eef77fcd12927986703fa"
+    },
+    {
+      "path": "output/verifier_NFTMinerItemsSettings.pkg",
+      "content_hash": "d49f0c2ee6a47d3058f30a4924b00b64ff0d27411aa611bae7179a4c2460cc5a"
+    }
+  ]
+}
