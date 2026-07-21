@@ -1,0 +1,48 @@
+{
+  "code_hash": "be58669c2285d4e3b0ef0dd01bcbd92d8b829516fda0f38745fbb9ceac642b88",
+  "source_bundle_hash": "8c13581a105a6c2740bad1d97e4cd3f7c7fbbadcc1cf125190ca11baaeeb8d12",
+  "verified_at": 1784648587,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/mosaic_deal_factory.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/messages.tact",
+      "content_hash": "09df3abcdf829e8004bc8541c3f81d99201f6e570d3b16c622acac14feaa54ac"
+    },
+    {
+      "path": "contract/contracts/mosaic_deal_contract.tact",
+      "content_hash": "569e1499aaf51a276c1eb38fa911ed42f43e84642fc218558248de667f2249f6"
+    },
+    {
+      "path": "contract/contracts/mosaic_deal_factory.tact",
+      "content_hash": "c10e5e190df17d3e98a5fb40a5812421e37478759ee01b68002bebe74d8e62e8"
+    },
+    {
+      "path": "output/verifier_MosaicDealContract.abi",
+      "content_hash": "14b6ec0b5cdc6e78c263c0e26aa12ef3cee5ac98964d310a63ac532d09f7ba00"
+    },
+    {
+      "path": "output/verifier_MosaicDealContract.pkg",
+      "content_hash": "6fa521089c7bfaf7c932ed1242140beeaf1fcf16ad174b0aa325f3cc0fe42146"
+    },
+    {
+      "path": "output/verifier_MosaicDealFactory.abi",
+      "content_hash": "5079050053c89295d2f60ad64b77ac81fcb93226143f23648c2a3c722d8bc929"
+    },
+    {
+      "path": "output/verifier_MosaicDealFactory.pkg",
+      "content_hash": "a978c2552ec99a7f10f36db68d27dff7456aada3e6459bca4320ee4c088a2a5d"
+    },
+    {
+      "path": "tact_MosaicDealFactory.pkg",
+      "content_hash": "19808b4c9eea541278e1e5bc7bb2f0e1c8d29614ae8d45c4bc5b1dfe1409242e"
+    }
+  ]
+}
