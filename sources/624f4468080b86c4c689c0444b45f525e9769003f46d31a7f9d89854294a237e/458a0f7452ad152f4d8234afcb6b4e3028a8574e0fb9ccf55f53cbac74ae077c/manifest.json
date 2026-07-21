@@ -1,0 +1,40 @@
+{
+  "code_hash": "624f4468080b86c4c689c0444b45f525e9769003f46d31a7f9d89854294a237e",
+  "source_bundle_hash": "458a0f7452ad152f4d8234afcb6b4e3028a8574e0fb9ccf55f53cbac74ae077c",
+  "verified_at": 1784649397,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "PollFactory.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "PollFactory.pkg",
+      "content_hash": "ab8ab1bf042d2c05b61024876a35821ca0235f218a7242705c7736ccb97dfbc1"
+    },
+    {
+      "path": "contract/PollFactory.tact",
+      "content_hash": "ae6c44b39a00bffb46efe63ee6d9b7a3cbf2a620167e1ec08f958f941abd6826"
+    },
+    {
+      "path": "output/verifier_Poll.abi",
+      "content_hash": "80fe749a7eddcf810d4a9c2dc48f23bd2e4743362336a4578a90f82d60338d11"
+    },
+    {
+      "path": "output/verifier_Poll.pkg",
+      "content_hash": "b2bf035c55086d636360ee89e8f410dc3e58a1bcf26163042eb5d8e63962bd0f"
+    },
+    {
+      "path": "output/verifier_PollFactory.abi",
+      "content_hash": "3f9856d2d9fc3ec1e9433b51b3004369bf32588f339c0a17b2461d25b0ce5fa4"
+    },
+    {
+      "path": "output/verifier_PollFactory.pkg",
+      "content_hash": "1a46fb86a826466e43c119cee377afca705e5140fe1c522a5fd50c7beb7b70a3"
+    }
+  ]
+}
