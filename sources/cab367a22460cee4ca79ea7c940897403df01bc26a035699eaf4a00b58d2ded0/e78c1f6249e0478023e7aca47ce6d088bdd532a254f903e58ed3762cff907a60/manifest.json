@@ -1,0 +1,32 @@
+{
+  "code_hash": "cab367a22460cee4ca79ea7c940897403df01bc26a035699eaf4a00b58d2ded0",
+  "source_bundle_hash": "e78c1f6249e0478023e7aca47ce6d088bdd532a254f903e58ed3762cff907a60",
+  "verified_at": 1784648850,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/rats.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/rats.tact",
+      "content_hash": "ed381da550f981fd092989f737155a91dbc17850a36f02ccf01f20a8a9b1b5b3"
+    },
+    {
+      "path": "output/verifier_Rats.abi",
+      "content_hash": "a207983cf166b1cc4ec4e6cdf461e2ec8ee8337893c89872305fe16ba011cccb"
+    },
+    {
+      "path": "output/verifier_Rats.pkg",
+      "content_hash": "0d9a04fc4f378c7f9fea6a9fafc3b82bb86bafc711e04f52be7eb885b1f27ec4"
+    },
+    {
+      "path": "tact_Rats.pkg",
+      "content_hash": "61c77b1826f8623ad95ea67eb4cb21f40150a8cbadb7748e67bf15b45113a21c"
+    }
+  ]
+}
