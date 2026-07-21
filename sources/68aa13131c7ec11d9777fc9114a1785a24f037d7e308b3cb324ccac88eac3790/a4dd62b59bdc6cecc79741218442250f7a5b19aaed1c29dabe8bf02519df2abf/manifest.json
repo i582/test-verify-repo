@@ -1,0 +1,32 @@
+{
+  "code_hash": "68aa13131c7ec11d9777fc9114a1785a24f037d7e308b3cb324ccac88eac3790",
+  "source_bundle_hash": "a4dd62b59bdc6cecc79741218442250f7a5b19aaed1c29dabe8bf02519df2abf",
+  "verified_at": 1784648210,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "LootBoxContract.pkg",
+      "content_hash": "3f986822f8793a97e8bdc1b6b536de1d106d8a212edf55d7442455b6b5159b6e"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "3ac28ba3119f723d5438a3d5f427c8d94925d17e9200445bba217c499bf3a172"
+    },
+    {
+      "path": "output/verifier_LootBoxContract.abi",
+      "content_hash": "88c61d4abc69ff394114da293b8c8a4ff4f4974bf7772f1b568ddffaaaf50639"
+    },
+    {
+      "path": "output/verifier_LootBoxContract.pkg",
+      "content_hash": "93f76331a7d8dcc34834865372973ba5ac866f41585c828b7b3196228e372e67"
+    }
+  ]
+}
