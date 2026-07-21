@@ -1,0 +1,32 @@
+{
+  "code_hash": "d4bac010b955d0340a77c3850091620d7dc259e13809a54f604e3833b13ab7da",
+  "source_bundle_hash": "72c3a0bef01392658ba71571978368e36870c19dd9de708912138cd35ecd8e06",
+  "verified_at": 1784649674,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/air_drop.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/air_drop.tact",
+      "content_hash": "354fce86c42b8c8ee863022abf53514de6ed33c2dde1807080f9f1462929a2c2"
+    },
+    {
+      "path": "output/verifier_AirDrop.abi",
+      "content_hash": "fe356c09b4bd6662279c2927ed2d02705e453fcdcc7356ae28fa6bb638a3e2c5"
+    },
+    {
+      "path": "output/verifier_AirDrop.pkg",
+      "content_hash": "b69b86f478f3c7f7d3adf513c8006f689f8c9ef7ea7dc1526cbdd842df9c71e6"
+    },
+    {
+      "path": "tact_AirDrop.pkg",
+      "content_hash": "d259c11c5707e7cb82d16f3f1aa777bdef5475ae5cda3c76eb7cf26dcffddfb1"
+    }
+  ]
+}
