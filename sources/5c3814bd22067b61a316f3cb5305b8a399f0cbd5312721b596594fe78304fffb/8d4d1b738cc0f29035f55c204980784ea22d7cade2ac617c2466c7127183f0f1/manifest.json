@@ -1,0 +1,32 @@
+{
+  "code_hash": "5c3814bd22067b61a316f3cb5305b8a399f0cbd5312721b596594fe78304fffb",
+  "source_bundle_hash": "8d4d1b738cc0f29035f55c204980784ea22d7cade2ac617c2466c7127183f0f1",
+  "verified_at": 1784649344,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.1",
+    "entrypoint": "contracts/bigbait.tact",
+    "params": {
+      "compiler_version": "1.4.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/bigbait.tact",
+      "content_hash": "686cf2a2badb06891acd159bd993fc91efb06daebd9d5e1a820cc27a2685e1e8"
+    },
+    {
+      "path": "output/verifier_Bigbait.abi",
+      "content_hash": "67818fad08d78e510ef45952cad09b58aea686b382198acfad88b13a4f7fa533"
+    },
+    {
+      "path": "output/verifier_Bigbait.pkg",
+      "content_hash": "9077bc7f1e5f1f9a3f9e454d76a549201580dd61a682a8ee9b3e406b8a356007"
+    },
+    {
+      "path": "tact_Bigbait.pkg",
+      "content_hash": "11ff6235d4a309940671e4624841133b5331b86609ea0c8a6f44cfeac95a4739"
+    }
+  ]
+}
