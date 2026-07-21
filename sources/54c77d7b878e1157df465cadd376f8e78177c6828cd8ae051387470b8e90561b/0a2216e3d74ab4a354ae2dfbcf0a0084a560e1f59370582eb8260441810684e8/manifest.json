@@ -1,0 +1,32 @@
+{
+  "code_hash": "54c77d7b878e1157df465cadd376f8e78177c6828cd8ae051387470b8e90561b",
+  "source_bundle_hash": "0a2216e3d74ab4a354ae2dfbcf0a0084a560e1f59370582eb8260441810684e8",
+  "verified_at": 1784649430,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/testds.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/testds.tact",
+      "content_hash": "1afa96a0d877a0b265a64d62b9d77d52dfd86e1279c3f28ff9753b88ab6eb0b7"
+    },
+    {
+      "path": "output/verifier_Testds.abi",
+      "content_hash": "f1d1428e7a8fbf07c83bc3da74f097d90b2b0d37ac9f7bee265f3a52c53331e6"
+    },
+    {
+      "path": "output/verifier_Testds.pkg",
+      "content_hash": "202d3a6b2b54ee5548ba3638ec9f4c7c0685eec25b37b62943e0c948cb406f0f"
+    },
+    {
+      "path": "tact_Testds.pkg",
+      "content_hash": "ec304a93c45e76d8d94c5620c028d0dcbc2f03f7ca3a02422c50c9d90ec8f08e"
+    }
+  ]
+}
