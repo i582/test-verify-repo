@@ -1,0 +1,32 @@
+{
+  "code_hash": "38bdd656e5c0d21c8e72f44a5a5e6e841ac03f3b3ca6d0478b92085fc718dee1",
+  "source_bundle_hash": "09fd7e92fa0df3e99bb7706528fce2ff7aa3779684c1e004042d9db1f706328d",
+  "verified_at": 1784649300,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/gamify_unified.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "GamifyUnified.pkg",
+      "content_hash": "368b271e027a450c80819396d51002e0576bf4986901ad241a8f5a4485717583"
+    },
+    {
+      "path": "contract/contracts/gamify_unified.tact",
+      "content_hash": "5ac6e71add94fab9ede63cb7216370cd6035357888603eef2164f7c4d4f55f61"
+    },
+    {
+      "path": "output/verifier_GamifyUnified.abi",
+      "content_hash": "6726912ccc95fefc6a8d0a80088a9f1f947e8a8b495dde849612f182ddb627c5"
+    },
+    {
+      "path": "output/verifier_GamifyUnified.pkg",
+      "content_hash": "256a10fbc6e080ba748c669177526aa056425cce77f88822ee9406a602e15e4e"
+    }
+  ]
+}
