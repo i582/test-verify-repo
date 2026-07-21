@@ -1,0 +1,72 @@
+{
+  "code_hash": "9036d2855e4c96c3835d34eaf1778fe3b8ac06d27d177befb005eaa2e736d13b",
+  "source_bundle_hash": "04742aa7df85d6e8680633fa92a7c1322a0d70650689640748275b22fa5dae83",
+  "verified_at": 1784649641,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "contracts/usdt/stdlib.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/faucet.fc",
+      "content_hash": "86336c5f1455f3fd4deaca4922115cd1f7888766cb3e6a585b7eefbf8171e1ee",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/usdt/gas.fc",
+      "content_hash": "3527cb3e34ecd36d9c900a57bf63462ff01c966423f9d1dd431b0ad1d5cb46a7",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/usdt/jetton-minter.fc",
+      "content_hash": "0234633feb3bf90b7fedf2de41cd3b5adc7b3176798f41dc8c10bf80cabdf2d1",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/usdt/jetton-utils.fc",
+      "content_hash": "4b5822dbe97e8a0982d31276bd4840156cafca502af90c786c5dd3aa372f343b",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/usdt/jetton-wallet.fc",
+      "content_hash": "6715dc240fd24e10dd0167afe3688105e29752fce6d2b48616f7e687943a232a",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/usdt/op-codes.fc",
+      "content_hash": "1303e3b14603733689af085881ecb0e2f9b9c8fcfae1e5ba466a13cccc976171",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "contracts/usdt/stdlib.fc",
+      "content_hash": "e48650a429628620ee0923f82a773e876e5504ca44f72ed00d108501d5e18143",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "contracts/usdt/workchain.fc",
+      "content_hash": "d47826a995421c3114d76864129071e978f331c384edb816f425553bc8665891",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
