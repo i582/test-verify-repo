@@ -1,0 +1,32 @@
+{
+  "code_hash": "89f64b7d8a6af7b1b28cb67820edf2122e9f1e046e7baa5cd965a4dbdc5c872e",
+  "source_bundle_hash": "100d8f7be6dae2f7aabec1644840f3d570f66128be06bdbafa84824c1fee7db7",
+  "verified_at": 1784649011,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/my_jetton.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MyJetton_MyJetton.pkg",
+      "content_hash": "799345ac0f8244d7529b07e97bd205c33b01a2d1e6cb25add9e9a6f2971c7d59"
+    },
+    {
+      "path": "contract/contracts/my_jetton.tact",
+      "content_hash": "d73fe970fc20afe90f5b64a98c083788c7356b992a89efb2ac796048d8fbfa2f"
+    },
+    {
+      "path": "output/verifier_MyJetton.abi",
+      "content_hash": "d29addb08cb4b1a56919bc053e186e7bbc1f6955baa0fbd3fe4ff76961a83432"
+    },
+    {
+      "path": "output/verifier_MyJetton.pkg",
+      "content_hash": "5ce483edc32c6e1b6118000c9016b179079ad41fbf864f87b7fde10ec6a142b7"
+    }
+  ]
+}
