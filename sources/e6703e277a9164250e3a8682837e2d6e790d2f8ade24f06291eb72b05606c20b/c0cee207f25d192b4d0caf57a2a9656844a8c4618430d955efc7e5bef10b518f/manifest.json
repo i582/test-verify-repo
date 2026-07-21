@@ -1,0 +1,32 @@
+{
+  "code_hash": "e6703e277a9164250e3a8682837e2d6e790d2f8ade24f06291eb72b05606c20b",
+  "source_bundle_hash": "c0cee207f25d192b4d0caf57a2a9656844a8c4618430d955efc7e5bef10b518f",
+  "verified_at": 1784649950,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/ton_splitter.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TonSplitter.pkg",
+      "content_hash": "a4212e853e23abc92de147cb49ea3f267e8cce999dca50bbe2823c1ab41ccb6e"
+    },
+    {
+      "path": "contract/contracts/ton_splitter.tact",
+      "content_hash": "6b60a9ba8b8f4c29ae57265a23a500f1402762b01547501a476d7a023f79f2e4"
+    },
+    {
+      "path": "output/verifier_TonSplitter.abi",
+      "content_hash": "b8170dacd028d34d9a9c9eda5ffad1772d5c204fccff6e2717c6cf1ff765287f"
+    },
+    {
+      "path": "output/verifier_TonSplitter.pkg",
+      "content_hash": "7fe0b8b2265e8f2dffd1b202213f4ceee959f263fd5a3097d93b935e6a2c918b"
+    }
+  ]
+}
