@@ -1,0 +1,40 @@
+{
+  "code_hash": "016b0b584d10df07efc9507df13ed68bd17cfab488224dc0b269fe8462a81041",
+  "source_bundle_hash": "6197b23d78f2e64657799dad6230fe58a1a970c7964cbb77ba8512717d979716",
+  "verified_at": 1784649527,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/token.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/token.tact",
+      "content_hash": "13b02d5d071e99fb7ebd964afa2e307502534ef7eafb0a911cdaa953395716ee"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.abi",
+      "content_hash": "bbc795b3741cfdf8b8e12411e31e069244a56977fd6f4358660ff01d7b4d57dd"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.pkg",
+      "content_hash": "80c853846e259454135e073a2e3ab0824fc8440318b927068ca74cd3cd621484"
+    },
+    {
+      "path": "output/verifier_RezaToken.abi",
+      "content_hash": "02dbeb29b96ad4e24f0ebf651f8a3b60892d6c3f84cc5188ca2fc27da3b08097"
+    },
+    {
+      "path": "output/verifier_RezaToken.pkg",
+      "content_hash": "7606ce787ddbf38d4ae4cabdce99fac8839a216f14bb358163ea778f03ff2709"
+    },
+    {
+      "path": "token_RezaToken.pkg",
+      "content_hash": "8a17b87cb5f23a27f93b02ea690bd91427278e4cfd9fe7c2506cd0804a20d6ce"
+    }
+  ]
+}
