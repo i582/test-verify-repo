@@ -1,0 +1,32 @@
+{
+  "code_hash": "0a3b4f70bae867e43a7e8f6ba3933b49d83f53c4e968f3bccdac3782bca2ef71",
+  "source_bundle_hash": "745f3ac6a9d72e64ba7a3c18daf3c4b90eac9f58a7463868a95cf97b66ee2cd7",
+  "verified_at": 1784649622,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/ton_optinet_contract.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/ton_optinet_contract.tact",
+      "content_hash": "d8ef5573122949207ee8b64c6069f0baeaccbe71c8bc0ed97e18f70127541db0"
+    },
+    {
+      "path": "output/verifier_TonOptinetContract.abi",
+      "content_hash": "ab43009c7c1fa2fdf4edffc697dff803ea1e351d3e6f434fffdea6e9f73996c6"
+    },
+    {
+      "path": "output/verifier_TonOptinetContract.pkg",
+      "content_hash": "106c97a2d7c10d89b9a53aacb8ba90aeb486fd1d42ead83ce265a4d0b07fbba1"
+    },
+    {
+      "path": "tact_TonOptinetContract.pkg",
+      "content_hash": "30e8186c69ced9aca72be7ecab2160467f1346e31f13687b35c16a417a5cdaf4"
+    }
+  ]
+}
