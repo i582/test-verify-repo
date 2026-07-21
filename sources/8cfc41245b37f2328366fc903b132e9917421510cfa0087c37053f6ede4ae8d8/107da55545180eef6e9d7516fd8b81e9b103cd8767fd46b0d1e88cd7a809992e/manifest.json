@@ -1,0 +1,40 @@
+{
+  "code_hash": "8cfc41245b37f2328366fc903b132e9917421510cfa0087c37053f6ede4ae8d8",
+  "source_bundle_hash": "107da55545180eef6e9d7516fd8b81e9b103cd8767fd46b0d1e88cd7a809992e",
+  "verified_at": 1784650296,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "contracts/aifox_jetton.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/aifox_jetton.tact",
+      "content_hash": "9cc4628ffb62bd984d08b0fbacb9a589bd3189ddbe04b07036f7f8c227ae74d7"
+    },
+    {
+      "path": "output/verifier_AifoxJetton.abi",
+      "content_hash": "28c5199f5cff78733b75de1482b5cc07e9efbb55724b0967a62a879aa7a27156"
+    },
+    {
+      "path": "output/verifier_AifoxJetton.pkg",
+      "content_hash": "76ec19086ccecea029f7f7d80caf4ecd20b91f07ee39b7274763dddd5f543218"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.abi",
+      "content_hash": "4914b8cbeedfccba45454efa43f64b7e969272ae2bf1534317513d3baa2d66f7"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.pkg",
+      "content_hash": "16ce5dec49b8f6047a9dfc25a09d02de07d461a15df408bae6c9c648af100a62"
+    },
+    {
+      "path": "tact_AifoxJetton.pkg",
+      "content_hash": "df3adc74d899abab5faba6954f66d798d42d2433c5758792c58fe19433ff0332"
+    }
+  ]
+}
