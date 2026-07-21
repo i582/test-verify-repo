@@ -1,0 +1,32 @@
+{
+  "code_hash": "f970a5bb8cc9f2ffc6db2d976dc54b4aaafcd6ce5208ed42a7bda6fe1b3a7064",
+  "source_bundle_hash": "679236eca66f075b820d69c2df7203270a62cc393224cebd22a18926e1b5fea8",
+  "verified_at": 1784649968,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/gift_auction.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/gift_auction.tact",
+      "content_hash": "a1c6e63eddb8400842df3deb9b62ad0d38bef0a73e9e7419267781e514e5eb83"
+    },
+    {
+      "path": "output/verifier_GiftAuction.abi",
+      "content_hash": "903b671d15cec7e86c3163dd5dc266f633b1984950f248c74a7ae48fa3b6c7c9"
+    },
+    {
+      "path": "output/verifier_GiftAuction.pkg",
+      "content_hash": "e19ee172a52338b961a8344178af076fcd44048eaa1ea84773b431e330a768f3"
+    },
+    {
+      "path": "tact_GiftAuction.pkg",
+      "content_hash": "4d6796cbb6aa9b7fe2f52dc954d060c98b536e50164b2e805ded243a19948470"
+    }
+  ]
+}
