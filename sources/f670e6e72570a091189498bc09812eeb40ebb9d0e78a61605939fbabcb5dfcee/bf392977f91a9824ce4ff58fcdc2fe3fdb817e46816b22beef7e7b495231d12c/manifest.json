@@ -1,0 +1,32 @@
+{
+  "code_hash": "f670e6e72570a091189498bc09812eeb40ebb9d0e78a61605939fbabcb5dfcee",
+  "source_bundle_hash": "bf392977f91a9824ce4ff58fcdc2fe3fdb817e46816b22beef7e7b495231d12c",
+  "verified_at": 1784650051,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.0",
+    "entrypoint": "contracts/prize_pool.tact",
+    "params": {
+      "compiler_version": "1.5.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/prize_pool.tact",
+      "content_hash": "a7619f6374d48efc4e55e541270cad6c9d3b017ad3c417edc0ac4c4ef2f8cdac"
+    },
+    {
+      "path": "output/verifier_PrizePool.abi",
+      "content_hash": "ec46aa4b3ce2325f88e6b8e88b1b700fcb8771798a64edb165f9cdd49baef209"
+    },
+    {
+      "path": "output/verifier_PrizePool.pkg",
+      "content_hash": "7a4f3e3ba329fde12693e18fbcfae729bae667a3df8949f7913ee1d53730bae0"
+    },
+    {
+      "path": "prize_pool_PrizePool.pkg",
+      "content_hash": "2bfaf056c6308fdc1968b78f3efe0f06d11921e5edfa38871a30d1d03f8b5408"
+    }
+  ]
+}
