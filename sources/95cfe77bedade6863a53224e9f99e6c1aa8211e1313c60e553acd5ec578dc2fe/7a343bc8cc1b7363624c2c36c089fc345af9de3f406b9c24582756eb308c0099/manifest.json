@@ -1,0 +1,32 @@
+{
+  "code_hash": "95cfe77bedade6863a53224e9f99e6c1aa8211e1313c60e553acd5ec578dc2fe",
+  "source_bundle_hash": "7a343bc8cc1b7363624c2c36c089fc345af9de3f406b9c24582756eb308c0099",
+  "verified_at": 1784662850,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/simple_counter.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/simple_counter.tact",
+      "content_hash": "1098a5fc9d2b6bba6b15b57762142a799321006fc94d1408ee31b616a0d1640e"
+    },
+    {
+      "path": "output/verifier_SimpleCounter.abi",
+      "content_hash": "2b82a7b09ccafffbf119c24610d02d6c61b058a3d9d04792e7775eb0817650bd"
+    },
+    {
+      "path": "output/verifier_SimpleCounter.pkg",
+      "content_hash": "d9b0021a245682578ca2a74e56633a3a4d3a3d14b57919f8a65afbad73a4cc8f"
+    },
+    {
+      "path": "tact_SimpleCounter.pkg",
+      "content_hash": "cc2360473d7623fe7f691e415e5c62986f339f14989f8027ada760ba0547ac57"
+    }
+  ]
+}
