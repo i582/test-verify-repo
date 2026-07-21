@@ -1,0 +1,32 @@
+{
+  "code_hash": "ddc2fc2155368c5ad131d402bb5a8d5adc6d660870b742badea3e46101472a3b",
+  "source_bundle_hash": "ba5e45d9e4dc8a8c0901873e545361f75afe2e0d5f02e984422ac66757a713d1",
+  "verified_at": 1784649741,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "contracts/referral_distribution_v2.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/referral_distribution_v2.tact",
+      "content_hash": "ce2d900857179845ff4cb0234f318192045efc63e956026f75fa66a05c089c93"
+    },
+    {
+      "path": "output/verifier_ReferralDistributionV2.abi",
+      "content_hash": "aa02a8ee0fd741557f0ca193c016f1f8a657eacc80620c8b5e8423cbf29da9ed"
+    },
+    {
+      "path": "output/verifier_ReferralDistributionV2.pkg",
+      "content_hash": "0a4049669e83707f57301221ed0bd8f6bd7699930430d575699485539adf01c0"
+    },
+    {
+      "path": "tact_ReferralDistributionV2.pkg",
+      "content_hash": "22bc3bb7727feddd1d53f7893689874e860b2b9554efa8ad06b9021cbf47dc32"
+    }
+  ]
+}
