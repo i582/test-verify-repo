@@ -1,0 +1,32 @@
+{
+  "code_hash": "c9de2b8e3419d2d51e30954005d8d4ebb4211da408e74a4d6cac3cc65ec276e2",
+  "source_bundle_hash": "23b914da3c6d7c777a506904d48ee55d81b1214429e01e212e329f6f54faca84",
+  "verified_at": 1784648792,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.0",
+    "entrypoint": "sources/contract/main.tact",
+    "params": {
+      "compiler_version": "1.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "ClaimJetton.pkg",
+      "content_hash": "efea2cde8be998067e3da32e3ade5753f169d1f51d9458f88fbe89b665caa1aa"
+    },
+    {
+      "path": "contract/sources/contract/main.tact",
+      "content_hash": "64244d18e48e74902cfef6b6d4df46c0435854893f20455b66e2a68b027436aa"
+    },
+    {
+      "path": "output/verifier_ClaimJetton.abi",
+      "content_hash": "d55ad03d7dfa467a2d6177ac1a4e41d8cbc652f0d29ea021c8284952f7a2f0ba"
+    },
+    {
+      "path": "output/verifier_ClaimJetton.pkg",
+      "content_hash": "951f44d53b0725a3ed6f3c9ada61f29532d774df0090e21bc50330f0ec3ac7b0"
+    }
+  ]
+}
