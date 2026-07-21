@@ -1,0 +1,32 @@
+{
+  "code_hash": "cb03ff11c7a23aea622a06091608f7fcbfa87a13fdd0b35ed0ab94098dcc6c80",
+  "source_bundle_hash": "f3673961bec160e86f643ab2aa7885c991166c43945f46e627fa7fa9bdeaa7e5",
+  "verified_at": 1784650082,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.2",
+    "entrypoint": "contracts/deploy_verify.tact",
+    "params": {
+      "compiler_version": "1.5.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/deploy_verify.tact",
+      "content_hash": "369f9f7d27eaca62373f2ad4e09302d8ae4f09af77d9bd036263e09d6eb81d41"
+    },
+    {
+      "path": "output/verifier_DeployVerify.abi",
+      "content_hash": "4b58abcd48c793ac2ed9f9705b7db5b3d2d1843f467fd7584cddc0d95403c3a9"
+    },
+    {
+      "path": "output/verifier_DeployVerify.pkg",
+      "content_hash": "d3608a30ec13e26dbdcff5fae984a5a837917e64c5863e4a8d7bb4676d61d81a"
+    },
+    {
+      "path": "tact_DeployVerify.pkg",
+      "content_hash": "eb99e243b6448df5ff7e1c1284ed9195b1685de2b4d32b4abe1bed4d306323bc"
+    }
+  ]
+}
