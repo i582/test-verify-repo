@@ -1,0 +1,65 @@
+{
+  "code_hash": "f83d05490af7c9cc58019488c7b253c9492d49c25d12d09383e52e81537e343a",
+  "source_bundle_hash": "69a67241103907db6af7ca319ae7265fadef2452773b3b97fa0ac3783ab7c3e2",
+  "verified_at": 1784650098,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4-newops.1",
+    "entrypoint": "stdlib.fc",
+    "params": {
+      "compiler_version": "0.4.4-newops.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "gas.fc",
+      "content_hash": "8e17032676c86281aafdd17a81b582134119cf2671f5f72c8f7789b41ad22599",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-minter.fc",
+      "content_hash": "b76ce7ad7cd0062b77d550f94b4fa75a320387cab8a78ba50cda8cc786dcc1af",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-utils.fc",
+      "content_hash": "72bf9b9c7b5ed1e51389db4f915c7f4a81b2bc219c7fad0b44d5bfa7975eda6c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-wallet.fc",
+      "content_hash": "d6405b4d8fb42c33587982ebb394e4ae5f2bad170ccee7bfb8e68957c7c35268",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "op-codes.fc",
+      "content_hash": "4c9293756e756ca9c1237582d99ec3ff97ccbea4bf8cfe33eeddcb5b3d27dab0",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "974636ef81a198a01934374dfbc4615d9b7cfaed05ea6281859898f217049b0c",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "workchain.fc",
+      "content_hash": "cc1927d6dc2339075d08cada868f238ab2e1b475974e9fad9fae284732e23a7c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
