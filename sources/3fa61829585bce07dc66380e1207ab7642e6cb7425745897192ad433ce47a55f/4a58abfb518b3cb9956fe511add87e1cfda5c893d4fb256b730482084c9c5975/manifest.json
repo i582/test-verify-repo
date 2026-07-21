@@ -1,0 +1,36 @@
+{
+  "code_hash": "3fa61829585bce07dc66380e1207ab7642e6cb7425745897192ad433ce47a55f",
+  "source_bundle_hash": "4a58abfb518b3cb9956fe511add87e1cfda5c893d4fb256b730482084c9c5975",
+  "verified_at": 1784649453,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MinterProxyContract.pkg",
+      "content_hash": "abd4c371337e1e1fcea16f6098db4580a7108c6f5f1a5c7e7d04f49c20e85619"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "c3e3f3fea2f19fa53b12d4eb73fdc081811a1abd4b24c593df63410daab8ee5c"
+    },
+    {
+      "path": "contract/sources/messages.tact",
+      "content_hash": "d99071bc9303bc1967d220950e31f4efce17d59fdaf6abf951d14d6624ca4b2b"
+    },
+    {
+      "path": "output/verifier_MinterProxyContract.abi",
+      "content_hash": "e080a068b1fab5e20cf0c35cdd18ef8b412955da904dd9c93915412fca0fb441"
+    },
+    {
+      "path": "output/verifier_MinterProxyContract.pkg",
+      "content_hash": "8a7184a6ee7c91e559766b44598a4e7aab91af4a5ec59072f2a11e0882cc9532"
+    }
+  ]
+}
