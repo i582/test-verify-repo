@@ -1,0 +1,44 @@
+{
+  "code_hash": "eb50169c39208149d7f5169ffd29d38472cebb640c1de3ecd37c443791a8e534",
+  "source_bundle_hash": "812a6a416b9b75a8e64ecfff20605c46cc6c2faeb4241c768e1e687f693aa202",
+  "verified_at": 1784648734,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "contracts/payment.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/counter.fc",
+      "content_hash": "8f2a3eac4f60e201e60b453d50bc897b82a886bd89be5b03008c0193f948aa00",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/faston.fc",
+      "content_hash": "e3deece33f51e45eaa1d4449c73b9e7b78f4a9ba5f493808f7d566ccbba53a8c",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "contracts/payment.fc",
+      "content_hash": "692ff330cb4529cc387421dbaccbe169940c738d44c7de4be64cb6e58a7317d4",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
