@@ -1,0 +1,32 @@
+{
+  "code_hash": "0029650910d695e88a293510fcc8acd3bb38b88e193f5b14052cdd52c8033622",
+  "source_bundle_hash": "63d773c5f103060c7024e76c6161cb5b5dbd4db8a4c6dd9d76d82dab8bf71e7f",
+  "verified_at": 1784649310,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "contracts/mintWar.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MintWar.pkg",
+      "content_hash": "02fcace4a4bb75c5627afb7e6c9dde2507d4ed969e271227b227b7c986bef5cf"
+    },
+    {
+      "path": "contract/contracts/mintWar.tact",
+      "content_hash": "1ab2ebb75981fc8aef4bfc68fa6bcbf8c2822880ab7d7df330bb499070c633b0"
+    },
+    {
+      "path": "output/verifier_MintWar.abi",
+      "content_hash": "5d76ab3f57125807361a37b7e047f1742978acf5d1e3a078c8944560ad5499c4"
+    },
+    {
+      "path": "output/verifier_MintWar.pkg",
+      "content_hash": "edca9b600bfe317a0a09ceb17229d7ad44784115b9673e5aa4ae886bae9232b5"
+    }
+  ]
+}
