@@ -1,0 +1,32 @@
+{
+  "code_hash": "9045ec33dabb5273716c87a4fe08824359218b095fb0e005325bc2681d8d4d75",
+  "source_bundle_hash": "a59cc059e67b30e9b599216d1c7015cb0e0b6086b6f704f6b054cfcc19038fd6",
+  "verified_at": 1784649636,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/single_bet.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/single_bet.tact",
+      "content_hash": "f3e213a1ec91a4d25ee7a0425814daa5cf0905fade7dbdaaca40648aabf86946"
+    },
+    {
+      "path": "output/verifier_SingleBet.abi",
+      "content_hash": "c6ee46f5db048abe93887736c3fb8422579e87339b68fd6503a4eaa0ca85b823"
+    },
+    {
+      "path": "output/verifier_SingleBet.pkg",
+      "content_hash": "5793c6db6ad6dfb15b01ed77cb8ef16e466467afc87d9fe979099ca28a0f1f53"
+    },
+    {
+      "path": "tact_SingleBet.pkg",
+      "content_hash": "da56176d2364c9cd7284bd67095970879d744923bf7127cf42e4cc7bd8ebd521"
+    }
+  ]
+}
