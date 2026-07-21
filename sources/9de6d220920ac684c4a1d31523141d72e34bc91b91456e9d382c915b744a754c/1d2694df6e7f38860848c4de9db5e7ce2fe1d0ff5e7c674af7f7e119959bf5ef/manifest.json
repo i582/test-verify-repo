@@ -1,0 +1,60 @@
+{
+  "code_hash": "9de6d220920ac684c4a1d31523141d72e34bc91b91456e9d382c915b744a754c",
+  "source_bundle_hash": "1d2694df6e7f38860848c4de9db5e7ce2fe1d0ff5e7c674af7f7e119959bf5ef",
+  "verified_at": 1784648475,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "code_contracts/Pyramida.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/code_contracts/Pyramida.tact",
+      "content_hash": "9bcd5ab5808cf12ba4ccc85eeec96bff923637dbcdd0316a1cd1eaaace9c7e69"
+    },
+    {
+      "path": "contract/code_contracts/constants.tact",
+      "content_hash": "6489a35d35ea1b4d0ea49e6f3ef6cfc88305b25e6b0ade4babc83c0d13c0a37f"
+    },
+    {
+      "path": "contract/code_contracts/messages.tact",
+      "content_hash": "7916d4ec8508ca28d7fbdf7cd96d1fa0a7d0e7e1d9b8f561bc9e80580c6f8ebd"
+    },
+    {
+      "path": "contract/code_contracts/structs.tact",
+      "content_hash": "49350cb30c179d1aa1ea705fe81fc8eae53abb991f3f65b7e884bfcbe1f4b152"
+    },
+    {
+      "path": "output/verifier_PRMDJettonMaster.abi",
+      "content_hash": "f8541bf0f2864b2994f3e0271e423338c9adc50f7a74f09849ee6bf516b9dec5"
+    },
+    {
+      "path": "output/verifier_PRMDJettonMaster.pkg",
+      "content_hash": "87d4796b9a87dfe6c7cc62369a1866802868d593db5b9f92fcc6efb2c510bd3f"
+    },
+    {
+      "path": "output/verifier_PRMDJettonWallet.abi",
+      "content_hash": "70952863448bae8039395c42930b9311b29c69d4f778a0ca354a218da775226c"
+    },
+    {
+      "path": "output/verifier_PRMDJettonWallet.pkg",
+      "content_hash": "bfbf573fc4425c07746f96534a2e2a226088460d2975a98f93616871ef597cdd"
+    },
+    {
+      "path": "output/verifier_Pyramida.abi",
+      "content_hash": "1c6d8f95c04d6fe18e7d6fd0c8fbd2d2e50188c8673180c711726a1b5977aaa1"
+    },
+    {
+      "path": "output/verifier_Pyramida.pkg",
+      "content_hash": "25ca1437377c43ed34c399597a56790e9b5235e259ca6d5152d221aa5edda929"
+    },
+    {
+      "path": "tact_Pyramida.pkg",
+      "content_hash": "431c051916f2a3dce7950b93420cb31ce40c537bbc7a575d4496e9ada3818a8d"
+    }
+  ]
+}
