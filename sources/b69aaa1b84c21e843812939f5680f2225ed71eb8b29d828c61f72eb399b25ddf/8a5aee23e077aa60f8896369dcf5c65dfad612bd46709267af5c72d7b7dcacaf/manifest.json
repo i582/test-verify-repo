@@ -1,0 +1,32 @@
+{
+  "code_hash": "b69aaa1b84c21e843812939f5680f2225ed71eb8b29d828c61f72eb399b25ddf",
+  "source_bundle_hash": "8a5aee23e077aa60f8896369dcf5c65dfad612bd46709267af5c72d7b7dcacaf",
+  "verified_at": 1784649762,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "f69c8a63f5e581635534a79c6d897dfd05d97cb17530b0e3bb87594532a8edd1"
+    },
+    {
+      "path": "output/verifier_Lottery.abi",
+      "content_hash": "5d65e1ea230191403073ce5fc29bb0029039a034d60e76d4576243443fdec2a6"
+    },
+    {
+      "path": "output/verifier_Lottery.pkg",
+      "content_hash": "8ae058c0fe7c24dfd44377f1b3322b9741ce77caa126fcb31ac509bdaa6461b4"
+    },
+    {
+      "path": "sample_Lottery.pkg",
+      "content_hash": "9015eacbb1cbfe6aeecd1c7fe99f5929580c3c85b52d1fb8c3c51d85d07eb8f4"
+    }
+  ]
+}
