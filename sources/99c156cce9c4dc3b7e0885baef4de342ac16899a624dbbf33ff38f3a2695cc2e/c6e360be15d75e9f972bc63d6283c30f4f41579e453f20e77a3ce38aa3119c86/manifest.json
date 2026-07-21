@@ -1,0 +1,48 @@
+{
+  "code_hash": "99c156cce9c4dc3b7e0885baef4de342ac16899a624dbbf33ff38f3a2695cc2e",
+  "source_bundle_hash": "c6e360be15d75e9f972bc63d6283c30f4f41579e453f20e77a3ce38aa3119c86",
+  "verified_at": 1784649567,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "contracts/tonup_tos_registry_v2.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/tonup_tos_registry_v2.tact",
+      "content_hash": "a7beb51576c51b27b85e2370c072d58776714898ad48ec84472265d5a25610e6"
+    },
+    {
+      "path": "contract/contracts/utils/string.tact",
+      "content_hash": "a583945dd41a1aaca4a9e1c5159d9486e41f6b6786479abafce9dcf8958cf45f"
+    },
+    {
+      "path": "contract/contracts/utils/transfer_helpers.tact",
+      "content_hash": "2dde91ba4fb70d8dba7d88515badd5d8f080fd772ca03bcf08496a285692d611"
+    },
+    {
+      "path": "output/verifier_TonupTosRegistryV2.abi",
+      "content_hash": "97f6b0ef4d1941b1b28bc385c222bff2ae1bff90642f7eeb749cda71de783ad2"
+    },
+    {
+      "path": "output/verifier_TonupTosRegistryV2.pkg",
+      "content_hash": "b37631000b850931d8f8d411d53b47866a80f84a23a198b8f43ef96ff6294af9"
+    },
+    {
+      "path": "output/verifier_TonupTosV2Child.abi",
+      "content_hash": "dbcb1df050fb4f2ccf3d8f4ba910fc9280fdbe639485b9d7802b03c299486a6b"
+    },
+    {
+      "path": "output/verifier_TonupTosV2Child.pkg",
+      "content_hash": "c1647f7c4451f15575d74679461cd06693441661e92b0cbba0ab2dc6ee1d9d51"
+    },
+    {
+      "path": "tact_TonupTosRegistryV2.pkg",
+      "content_hash": "2dca8e9fdb3c9697df984b69f7f7fc93e472a27463f635723bb9d86801793021"
+    }
+  ]
+}
