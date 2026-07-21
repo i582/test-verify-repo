@@ -1,0 +1,40 @@
+{
+  "code_hash": "13301490d09907d98452d96b5607c83e58d66ce1b74b78c85ff84904d23f8c64",
+  "source_bundle_hash": "9afb2fcf83070bad5da8db8c0ba8cd5e0debec60b8aa6a67a67a37d79eb73602",
+  "verified_at": 1784650460,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.2",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "PayoutsMaster.pkg",
+      "content_hash": "f6e88a6f579668465a3573ba4e4f5971b00b1dddcacdac2c1d44dba08f91df1b"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "4814bb37d2c52ea45f7b9b62a3585777ae42b578de74ebf593eee08fbcf7d9d6"
+    },
+    {
+      "path": "output/verifier_PayoutBeacon.abi",
+      "content_hash": "82fad5476928eed07adee829c27cb6565022662eeb4fe1feebeb4037a2a8d48a"
+    },
+    {
+      "path": "output/verifier_PayoutBeacon.pkg",
+      "content_hash": "1847b664a7a6aa8006f09f3800f4f269e788bb29d83fa3a8b11e432b30513d7c"
+    },
+    {
+      "path": "output/verifier_PayoutsMaster.abi",
+      "content_hash": "6485f820ab021adcc1b8dc3f8a85b05618a1acc89e228b85102be320adcfd5ff"
+    },
+    {
+      "path": "output/verifier_PayoutsMaster.pkg",
+      "content_hash": "313e193a3d6db0a746734c73b11d9660e8ec77304f062ca47a332ea351e872d2"
+    }
+  ]
+}
