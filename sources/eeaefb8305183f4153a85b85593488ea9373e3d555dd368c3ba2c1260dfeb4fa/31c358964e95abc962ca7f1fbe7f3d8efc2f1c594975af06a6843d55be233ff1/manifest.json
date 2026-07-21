@@ -1,0 +1,32 @@
+{
+  "code_hash": "eeaefb8305183f4153a85b85593488ea9373e3d555dd368c3ba2c1260dfeb4fa",
+  "source_bundle_hash": "31c358964e95abc962ca7f1fbe7f3d8efc2f1c594975af06a6843d55be233ff1",
+  "verified_at": 1784648781,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "sources/check-in.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "BountyBayCheckIn_BountyBayCheckIn.pkg",
+      "content_hash": "1f95076d80d3c660578de6f52e93217b962c73e4373b70f4c9c4c3e91e8a92d9"
+    },
+    {
+      "path": "contract/sources/check-in.tact",
+      "content_hash": "74500bc9db9aeb4bfff2420f64cf2b36b871184ab008bf4bd6c5cef886702daf"
+    },
+    {
+      "path": "output/verifier_BountyBayCheckIn.abi",
+      "content_hash": "408795b74d1dee614c8c551221385da10b08144b6ef03b22d1a524ea133dbc38"
+    },
+    {
+      "path": "output/verifier_BountyBayCheckIn.pkg",
+      "content_hash": "29a1d62cb5c7c8c3e8eba5ea41d7d6bcdeffd9f2bf869eb84fc81f3bd8a37aa2"
+    }
+  ]
+}
