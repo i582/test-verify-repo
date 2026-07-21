@@ -1,0 +1,32 @@
+{
+  "code_hash": "4be526863038dc6ef5643cec468798efb58e4b851b23e6b10b7681bd094bff02",
+  "source_bundle_hash": "10dc35eb77167e3e079fb32df6334eb7aff329fe943636a98cae6c6fb33656b4",
+  "verified_at": 1784648966,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/dmail_nft.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/dmail_nft.tact",
+      "content_hash": "15468deff6304639f802dc1b2438931bc92ae9866df3e37322726b1bebd2e1eb"
+    },
+    {
+      "path": "output/verifier_DmailNFT.abi",
+      "content_hash": "1da569547f9c4aa8a66a96048dd349b2b7070a1d203cdd30d653c2eef336acf0"
+    },
+    {
+      "path": "output/verifier_DmailNFT.pkg",
+      "content_hash": "4fdde76040cf71136f382732ce014d9e4f2e9fd42c86bffc9c2ef3dec548fc59"
+    },
+    {
+      "path": "tact_DmailNFT.pkg",
+      "content_hash": "66a3e3b4027816f546f6aff4e41b2d4da5692a5d8369aee3cac7ed116e67e430"
+    }
+  ]
+}
