@@ -1,0 +1,32 @@
+{
+  "code_hash": "38d4351f749b188acc42b9388ff6a00798506eddf5b8be8d6c53696d823faa06",
+  "source_bundle_hash": "f70f9a73add33ecb04e8a7a814b98cb31b80f9e8ca557aaec3b5e2c715df87f5",
+  "verified_at": 1784649301,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/test_contract.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TestContract.pkg",
+      "content_hash": "069b7909936bd2a61dee09ac9c4f86978db9413084a89601fdeaf0a5e4710f1f"
+    },
+    {
+      "path": "contract/contracts/test_contract.tact",
+      "content_hash": "a5eba349df0b1faad73f9a7b9b95c6820897a9850857a715b9019f90b882f578"
+    },
+    {
+      "path": "output/verifier_TestContract.abi",
+      "content_hash": "fa2f8477a11019587f55cae81efa58aee551bccd2a8049d1ca578b87300b5f85"
+    },
+    {
+      "path": "output/verifier_TestContract.pkg",
+      "content_hash": "3fd5b0bb119f8cb530ad0e6c0e995ce43f7815cd686f5f83c73d0ace410128c9"
+    }
+  ]
+}
