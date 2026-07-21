@@ -1,0 +1,72 @@
+{
+  "code_hash": "53a8ecef140da7028aae270d40bed19bc234e5b652ebe33d9b0b60d01a9bc8ac",
+  "source_bundle_hash": "b92df13cea6442f93c9a2caeb223386f11373102b0d3b725559cae46a77499e9",
+  "verified_at": 1784649450,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "presale.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "constants.fc",
+      "content_hash": "a427d44d704a45821ee476a60fa86dc555675b4d5bb03448197e52dbeb5da926",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "121f41f3b1ca4b071067263330407a62fc0717de3669c7bc08ba88815bb4d0f8",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "jetton/jetton-utils.fc",
+      "content_hash": "5ebc8a759e83343e4d6b62d8f293d9aeabfe8493aaaba1efd830b08414eb6eca",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton/jetton_minter.fc",
+      "content_hash": "9402f4f39facf17fa102deac16b1ff94cfec8cc1ae6c2177089da9ac88abc671",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton/jetton_wallet.fc",
+      "content_hash": "f5223cc1014b3fa0066b4a59bf33ce19887908e975fa638611ae568800015afa",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton/op-codes.fc",
+      "content_hash": "4f883f3c97e408128b90aafc5538d37654a570afbd934dbb725677cbd647ef31",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "jetton/params.fc",
+      "content_hash": "1b7be17290386a359d7fd511f8cc711cd48e425baf7a033ec09ed11ec5450570",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "presale.fc",
+      "content_hash": "09c755a5653eb3fbc7f7be05364a54ad56a17afd0eb70aa1d0bc3bec9c9f4a50",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
