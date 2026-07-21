@@ -1,0 +1,48 @@
+{
+  "code_hash": "2b5a69a1f5e5d1527051ee69429ea9cd6a94c6060f13cb992bbf70bdedacf66b",
+  "source_bundle_hash": "df95cdfb47e7a1c6db51cd6c259f6df270af0a0bbbe567580750c07ed301d075",
+  "verified_at": 1784650409,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.12",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.6.12"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/sources/common.tact",
+      "content_hash": "e95f116178688d21501ac223bad67704fc2dafef9a8d05c8ed23a2a19efe37cb"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "a3db828d3a904f036efef19e47e92dce9ff9d6e945d241633921a000281c9e19"
+    },
+    {
+      "path": "contract/sources/deal_contract.tact",
+      "content_hash": "b0c2a35ad80962fbbcf0c63e9f28810e047c12b61ed4c40ee5713058ac1c4165"
+    },
+    {
+      "path": "output/verifier_DealContract.abi",
+      "content_hash": "4938b57069995151bc7c0039830f950544c144d04b52a1a315f7add88ec6846c"
+    },
+    {
+      "path": "output/verifier_DealContract.pkg",
+      "content_hash": "e6136bfabb3a72c6cd9ee5f947ed41ca082afa4ce055706900922a8bbab2c62d"
+    },
+    {
+      "path": "output/verifier_MasterContract.abi",
+      "content_hash": "c194760f86ac892708df5f1e213f1241a49785e3d9f8ab7af4b365fa8b961b68"
+    },
+    {
+      "path": "output/verifier_MasterContract.pkg",
+      "content_hash": "92d63b5dc23226a51031c4423d7fd1e640e18c113600e0f7c4cd37f1550d0e2f"
+    },
+    {
+      "path": "sample_MasterContract.pkg",
+      "content_hash": "3d7b8f7ed3da04c5aa19949b6aeab0858e71d81b188addbfe3dac32be9177878"
+    }
+  ]
+}
