@@ -1,0 +1,48 @@
+{
+  "code_hash": "aaa4e5e36f639fbc7965df575f59686a4b80b71931296e73aa015b9a0e3cd999",
+  "source_bundle_hash": "f25478c4eb85ccf0f65687db7eaf531df62efc7f9f35926f16c98922d7d2c0a5",
+  "verified_at": 1784649798,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.10",
+    "entrypoint": "contracts/nft_collection.tact",
+    "params": {
+      "compiler_version": "1.6.10"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "NftCollection_NftCollection.pkg",
+      "content_hash": "e9cf743221ad8bd7e367dce4a2c39d7f900183c3edfcfdefd05d34de65affa6c"
+    },
+    {
+      "path": "contract/contracts/messages.tact",
+      "content_hash": "77d8cdb3dd140ee17bff40386389d81281cb552df1b85bdc87f2c76e4c5188dc"
+    },
+    {
+      "path": "contract/contracts/nft_collection.tact",
+      "content_hash": "5aef772fbb8e1a963d23c25b7a182ddefa852c2ade3c0a370abbb4224d734af5"
+    },
+    {
+      "path": "contract/contracts/nft_item.tact",
+      "content_hash": "05afff19230f48ebf2018aa4a97a8f5577605a0ca0b2a06b4cfbe7ceaefb88e3"
+    },
+    {
+      "path": "output/verifier_NftCollection.abi",
+      "content_hash": "c9146d158ee9246dcbc7c5ff3fb6d0abe51322c976191219e83029ca10404c0b"
+    },
+    {
+      "path": "output/verifier_NftCollection.pkg",
+      "content_hash": "f840f2fcb2c9e59cc31ed4b1fe4ffe4f6b1e65d5f645471d9ca22b8b9a21a7fc"
+    },
+    {
+      "path": "output/verifier_NftItem.abi",
+      "content_hash": "b651be3c825302ed25c8ee1564aa6a0b9d55ca907e9f2553829209043a1ad8e0"
+    },
+    {
+      "path": "output/verifier_NftItem.pkg",
+      "content_hash": "ec7c49ec78ec2ac7c3df5356ebe4ed542ef129ec221014d9e2feae641ae70875"
+    }
+  ]
+}
