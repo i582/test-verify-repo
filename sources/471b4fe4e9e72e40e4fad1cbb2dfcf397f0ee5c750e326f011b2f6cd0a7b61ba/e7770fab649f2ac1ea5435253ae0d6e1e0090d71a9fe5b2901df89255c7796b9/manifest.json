@@ -1,0 +1,48 @@
+{
+  "code_hash": "471b4fe4e9e72e40e4fad1cbb2dfcf397f0ee5c750e326f011b2f6cd0a7b61ba",
+  "source_bundle_hash": "e7770fab649f2ac1ea5435253ae0d6e1e0090d71a9fe5b2901df89255c7796b9",
+  "verified_at": 1784650423,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "src/main.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/src/main.tact",
+      "content_hash": "6ac59b5d7fa1384c05fbe6597e4981301300d2b381daa005795b88d01c7035fd"
+    },
+    {
+      "path": "contract/src/messages.tact",
+      "content_hash": "b5450d43c0f9f232e424e71f3c11502c040b032372a06cfb06fd9ddb07a72ed7"
+    },
+    {
+      "path": "contract/src/stake_position.tact",
+      "content_hash": "2658cd0623ab6833228d1cbda8281232addaec0e51804ce280815dacba932382"
+    },
+    {
+      "path": "esim-staking_StakingMaster.pkg",
+      "content_hash": "0e0404779a8e30da48a459aea021c6f2779c5b287c21f568ce196cd00a1b0fa6"
+    },
+    {
+      "path": "output/verifier_StakePosition.abi",
+      "content_hash": "e1a3c3162b4db0f8d42cc3489cbb8b2ec3b39519beba17d1fb9f4a7908a2aa95"
+    },
+    {
+      "path": "output/verifier_StakePosition.pkg",
+      "content_hash": "a27465f0a12d3059e753cd66031cf3d072cc7cbe1dbc9fa58dcbab4b637eeb93"
+    },
+    {
+      "path": "output/verifier_StakingMaster.abi",
+      "content_hash": "f3560d814de1b3718938ca437fdb1fea83ead0f27fd64ef9dfa91e0db730748a"
+    },
+    {
+      "path": "output/verifier_StakingMaster.pkg",
+      "content_hash": "9ee19134464b1c2c8e4a493142d56a050ad98c3e683fe1121058e1a0b1269892"
+    }
+  ]
+}
