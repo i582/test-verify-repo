@@ -1,0 +1,40 @@
+{
+  "code_hash": "77ece7fb89c2043e5fd3fdc521dabaea7354c2a345283c8b598a2231dd80fb45",
+  "source_bundle_hash": "fcb1713ac0007c779105b510993c645df1cc351b670700d389d29bf585123487",
+  "verified_at": 1784650200,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/my_jetton.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MyJetton_MyJetton.pkg",
+      "content_hash": "e7d3c7081213000287b864ce06da80ed5e1b4198af24f940ef0c9530a0fae95c"
+    },
+    {
+      "path": "contract/contracts/my_jetton.tact",
+      "content_hash": "1f6a2cfd62a37bc4b9b1a6feb7ce66696297fbad4597d51d57cf5af07cd3fc2c"
+    },
+    {
+      "path": "output/verifier_MyJetton.abi",
+      "content_hash": "794c823edbfab689bf6576d396c9efc0d05ec8690207ca43f5e6f2e89425d5d7"
+    },
+    {
+      "path": "output/verifier_MyJetton.pkg",
+      "content_hash": "e5766eeab9826d966e007062daf047773a7cbf3553f2f801e624fd304e38bc70"
+    },
+    {
+      "path": "output/verifier_MyJettonWallet.abi",
+      "content_hash": "c4ca1d3df1bb43aaa79ebfba38db34289b5c80d382b43ae63e84a730e4b2b7d2"
+    },
+    {
+      "path": "output/verifier_MyJettonWallet.pkg",
+      "content_hash": "b103f0ea1b6a3b3dbcca12b8c995885078ec60e2db09494e87b2444089840428"
+    }
+  ]
+}
