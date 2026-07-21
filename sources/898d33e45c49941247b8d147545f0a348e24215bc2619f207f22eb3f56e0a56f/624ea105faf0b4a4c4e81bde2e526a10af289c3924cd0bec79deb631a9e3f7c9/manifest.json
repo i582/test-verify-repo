@@ -1,0 +1,32 @@
+{
+  "code_hash": "898d33e45c49941247b8d147545f0a348e24215bc2619f207f22eb3f56e0a56f",
+  "source_bundle_hash": "624ea105faf0b4a4c4e81bde2e526a10af289c3924cd0bec79deb631a9e3f7c9",
+  "verified_at": 1784649014,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/ton_maze.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/ton_maze.tact",
+      "content_hash": "9230a584966302f162aef355204016ccea4934090c30eff70422094a2c6e8c27"
+    },
+    {
+      "path": "output/verifier_TonMaze.abi",
+      "content_hash": "9c462744e3bea3046609cbfd227eb2436ee66d6d3b6a9fc9f0739faa389419ac"
+    },
+    {
+      "path": "output/verifier_TonMaze.pkg",
+      "content_hash": "6eaa2b27773cc9349fc8896b43cdbe39471ac949156ff6d25498f49fdd7d2b61"
+    },
+    {
+      "path": "tact_TonMaze.pkg",
+      "content_hash": "a07764f58c0b090b9b876172f7513bfe58807aa8c75a170cc268fe0d7e2d7a26"
+    }
+  ]
+}
