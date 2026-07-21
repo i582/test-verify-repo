@@ -1,0 +1,32 @@
+{
+  "code_hash": "3a4e45b55943cfc2cdf92ea4fb72852a1b0dfc3350f87872d710c062ccc05ed0",
+  "source_bundle_hash": "cde61ff7150dfe91c2c7f5ffed27002ff9517c3f7105bd7a5daa89db6b9733ef",
+  "verified_at": 1784649418,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.2",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.5.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "alpaton-plinko_AlpaTonPlinko.pkg",
+      "content_hash": "5ff3fe9eb7f40cc646b2a24fb410e4b00a28ee5b02e27b08ea601bc9faf3c78d"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "6d5147fff659690a0cb1dc74a80893da6544d7e98c5d654761e88f2e4a9e9889"
+    },
+    {
+      "path": "output/verifier_AlpaTonPlinko.abi",
+      "content_hash": "01a878296b0de2bfaf6bff86222d2866f644df6da8f57e51167a8023c68ab1bb"
+    },
+    {
+      "path": "output/verifier_AlpaTonPlinko.pkg",
+      "content_hash": "666d92e64c392c4fc7c4365a7f61f16c9617860db57be859790b1f16315f115b"
+    }
+  ]
+}
