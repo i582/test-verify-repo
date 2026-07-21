@@ -1,0 +1,32 @@
+{
+  "code_hash": "f5d820fb8eeb5a62df9425aa787e9c362347fa50480340f75fe00be52dc1d313",
+  "source_bundle_hash": "37d5b70391f060191e2a19719a6e73a127550ec69ad576a2ea15be388667ebe9",
+  "verified_at": 1784648822,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "a3243a802da52a2e9c2ca6eaafeba2d8ecdddb1f8e4165b62d720a3a3848d98f"
+    },
+    {
+      "path": "output/verifier_Jackpot.abi",
+      "content_hash": "baa4546f3f72240309aad84d1293d7d64274b198da32afa57d8f097088bc1a15"
+    },
+    {
+      "path": "output/verifier_Jackpot.pkg",
+      "content_hash": "47d47f889a56508f12ed2b1294838b8664df22b0d58474f70a9da26b1635c6b0"
+    },
+    {
+      "path": "sample_Jackpot.pkg",
+      "content_hash": "824233a37bd10833a6b802edb1744f7b2f9c8ad75a86cb9775316cf4c3feff75"
+    }
+  ]
+}
