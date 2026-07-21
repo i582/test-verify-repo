@@ -1,0 +1,32 @@
+{
+  "code_hash": "a8b5c34d9b8718fc20c4876b1de9024a755013d90a5468c8c18b85fa9696dda7",
+  "source_bundle_hash": "917703562df46c7fffdf5ed57d7ffe4518c1fee1c9f4732e2f245f18445dda8b",
+  "verified_at": 1784649847,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.1",
+    "entrypoint": "contracts/jetton_pre_h_t_l_c.tact",
+    "params": {
+      "compiler_version": "1.4.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "HashedTimeLockTON.pkg",
+      "content_hash": "dc82673c4b193ec1024f6fda1f540ed4797b61004834870265c583e7aa76a2db"
+    },
+    {
+      "path": "contract/contracts/jetton_pre_h_t_l_c.tact",
+      "content_hash": "aff3c11550984439a12830a180e9eff37ed48dddcc26c47c2188a5b905ec0e63"
+    },
+    {
+      "path": "output/verifier_HashedTimeLockTON.abi",
+      "content_hash": "a9118af23543f0dcb2ec794a9619e2af53640143dab015748231f9754bc14b1d"
+    },
+    {
+      "path": "output/verifier_HashedTimeLockTON.pkg",
+      "content_hash": "acc620102a54b468f1a97b60b91b34840c57dda220e5ef816435a262f5a4fa3b"
+    }
+  ]
+}
