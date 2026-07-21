@@ -1,0 +1,32 @@
+{
+  "code_hash": "6df8392a284722cbfeeaf2b14b9b96282add10390104d423109fc109dee2476b",
+  "source_bundle_hash": "9dd9d6efaf3ffdb1285343059053acf891b7d6fac159a27208bc1cc8c045ba5b",
+  "verified_at": 1784649516,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/fp_dao.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "FpDao_FpDao.pkg",
+      "content_hash": "9217ab027eb54ec1b4688022a121cf7358ef3fe2b0cf25335139e54d818c7284"
+    },
+    {
+      "path": "contract/contracts/fp_dao.tact",
+      "content_hash": "cefb676fb2966e5a35d3eeee43fe3f3012817e1321ab9f50d0054496dba75a70"
+    },
+    {
+      "path": "output/verifier_FpDao.abi",
+      "content_hash": "6737cd8ae49937c11093d980e0d84f74e3e42d22233f2765234d5533d66a551d"
+    },
+    {
+      "path": "output/verifier_FpDao.pkg",
+      "content_hash": "9bd99736f0f0559104dff96eb624f3291365e123a67697de630cc6cfb684549b"
+    }
+  ]
+}
