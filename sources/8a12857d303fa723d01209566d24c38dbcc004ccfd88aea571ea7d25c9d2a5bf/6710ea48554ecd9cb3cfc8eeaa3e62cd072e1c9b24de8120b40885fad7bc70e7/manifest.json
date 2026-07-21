@@ -1,0 +1,32 @@
+{
+  "code_hash": "8a12857d303fa723d01209566d24c38dbcc004ccfd88aea571ea7d25c9d2a5bf",
+  "source_bundle_hash": "6710ea48554ecd9cb3cfc8eeaa3e62cd072e1c9b24de8120b40885fad7bc70e7",
+  "verified_at": 1784649122,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "sources/example/contract.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Receivers.pkg",
+      "content_hash": "25129fed207ef0aabd89376df690dfe9d3ea80ac2ec0afb5e7b53776a43a38a5"
+    },
+    {
+      "path": "contract/sources/example/contract.tact",
+      "content_hash": "34a6750a7599cdb6c3c1f23d8b39c7c8534d532825a628f40452a4026724e39b"
+    },
+    {
+      "path": "output/verifier_Receivers.abi",
+      "content_hash": "7a8230ee32c15f7355f91a52a048e6774084e9242c6420fe9ef6a75b1fb75eea"
+    },
+    {
+      "path": "output/verifier_Receivers.pkg",
+      "content_hash": "3b0bb2529a846bdf24572d3eb6b58b121f1a637640a425eff520f65826ada6f5"
+    }
+  ]
+}
