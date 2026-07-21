@@ -1,0 +1,40 @@
+{
+  "code_hash": "ac2c80806ecb89ad6043cbbadfa730859636bc288cf7274ac1cb256efe4debb0",
+  "source_bundle_hash": "65567980b236d7bce387bbc50f5fdca26de957d51525e1e569a9c0572a790aed",
+  "verified_at": 1784648530,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/cloud_sim_collection.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "CloudSimCollection.pkg",
+      "content_hash": "9f0d5464f7b81be169bd93b116614700f8c7d53212be5398d1f5c81b8d569d69"
+    },
+    {
+      "path": "contract/contracts/cloud_sim_collection.tact",
+      "content_hash": "85e935857eab69732f8a422f62cd33cd674f61cc91c92a6d2f6139bcbd0b880f"
+    },
+    {
+      "path": "output/verifier_CloudSimCollection.abi",
+      "content_hash": "b32f1ed84e18a447ac7710bc133a9a67f778e4147aab3d7f63a2cbc84be7d5eb"
+    },
+    {
+      "path": "output/verifier_CloudSimCollection.pkg",
+      "content_hash": "f9efad851996bc02365cecf89bbd76836eb90e1c7633c59b9bd17f1bbf38a380"
+    },
+    {
+      "path": "output/verifier_CloudSimNft.abi",
+      "content_hash": "ed9a461fbdab3e4556bbb4efffde333735311f32a729ad2fdc3a03fd480affd5"
+    },
+    {
+      "path": "output/verifier_CloudSimNft.pkg",
+      "content_hash": "71adde34cfc8ae8a4c816938b03847fac08e914ddb3c5952fc226fd534de9736"
+    }
+  ]
+}
