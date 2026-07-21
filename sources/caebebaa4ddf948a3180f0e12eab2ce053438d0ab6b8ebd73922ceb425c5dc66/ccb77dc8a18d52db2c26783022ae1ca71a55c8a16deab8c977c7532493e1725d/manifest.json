@@ -1,0 +1,36 @@
+{
+  "code_hash": "caebebaa4ddf948a3180f0e12eab2ce053438d0ab6b8ebd73922ceb425c5dc66",
+  "source_bundle_hash": "ccb77dc8a18d52db2c26783022ae1ca71a55c8a16deab8c977c7532493e1725d",
+  "verified_at": 1784648853,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "contracts/Betting.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/Betting.tact",
+      "content_hash": "da7b3426d5a79f3593d1847490679960e2b2b61d003ee88dbb540a224bf96f42"
+    },
+    {
+      "path": "contract/contracts/Messages.tact",
+      "content_hash": "dda3e6afa65b310dc92c493f0f849d1691bab31e7329ad3f62d66802e93b3e04"
+    },
+    {
+      "path": "output/verifier_Betting.abi",
+      "content_hash": "22f96ae01d55c3f1c0e30f8f1bf89647a9e06cd32a99f6122d9c902b9a765cf4"
+    },
+    {
+      "path": "output/verifier_Betting.pkg",
+      "content_hash": "e543445bf7edbc9f2da4636c4467bd421f8353e7081da0749420eee7f04793e3"
+    },
+    {
+      "path": "tact_Betting.pkg",
+      "content_hash": "1657dedbcad79397f0f5e0e84c6158ba76cb1bafe913c7b126a55b4944f4dc84"
+    }
+  ]
+}
