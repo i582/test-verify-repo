@@ -1,0 +1,79 @@
+{
+  "code_hash": "d2666f525e423a76aff8147e32a93dc7a9b41e1162677dd44de38c40ca3fc1e5",
+  "source_bundle_hash": "95b8db2b3e11d0436064dfeea8b223f93a8d053cf988a5946120648577f3b4e0",
+  "verified_at": 1784649790,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "lib/stdlib.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "jetton-master.fc",
+      "content_hash": "0cdf38d924b3b3630f6fc923f2ba82651d0354f33b9f41e9afe1c955672bb56b",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "jetton-minter-discoverable.fc",
+      "content_hash": "2c991174c8ec2cbc864fdcebb4f3670a0fc4a7da31f34c499394e481a47a8b28",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-wallet.fc",
+      "content_hash": "b345ae372080912ee8ba050feeed51ed2334054ed93952c958494196cffbef69",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "lib/discovery-params.fc",
+      "content_hash": "215e8d75ed135cb2a3ac0b6c33c3d99d7bfb370d2834f3b09e5e4566a2fce31b",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "lib/jetton-utils.fc",
+      "content_hash": "bc8a4b4f50ba92baab5511f800102ca214cd937ad57b35e8f42e5eaed4f32f6b",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "lib/op-codes.fc",
+      "content_hash": "803967bb1ab82be89ca4d9e530cd5f8b347426ab3c101c24c7377d09cfd543e0",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "lib/params.fc",
+      "content_hash": "65925e6e45e20dbc836dbec2dfd660e874aa7f1049d187ae543b469018de9a7a",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "lib/stdlib.fc",
+      "content_hash": "67b941b5fd9b900ad2b7f0259e98f8c359521f75107ade4bfc10a7676ada516d",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "multisig-code.fc",
+      "content_hash": "40449cd591b77f756617da202abb8ab3efd026b73ef04817609ea4241dea41af",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    }
+  ]
+}
