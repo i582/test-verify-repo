@@ -1,0 +1,40 @@
+{
+  "code_hash": "973a0c62205122cfe9de6c2773d7ec31aad2d8e9e26cabe41947333413f9b21b",
+  "source_bundle_hash": "08a7fa15a67ad6e513b139491ff136ea48ecf4b746b246607a678b04f26e4c9e",
+  "verified_at": 1784649603,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.4",
+    "entrypoint": "contracts/sample_jetton.tact",
+    "params": {
+      "compiler_version": "1.6.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/sample_jetton.tact",
+      "content_hash": "2f222df2462144e35d47ef7c79f9c33f8e9d92b19ccd3beebf36eef6f8344c4e"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.abi",
+      "content_hash": "409c955eeab76ce75552a3176a8eec742759c836021601855828b2e899112ace"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.pkg",
+      "content_hash": "4f79abdee4e587cfaa8d68e5e6ef6008b44d11909529e23a9038066de12c1bbb"
+    },
+    {
+      "path": "output/verifier_SampleJetton.abi",
+      "content_hash": "8145d20f8cabea75fec6efdfe6a85687a1958542d557e7ba6d1c678b3099527b"
+    },
+    {
+      "path": "output/verifier_SampleJetton.pkg",
+      "content_hash": "b53f2cefd4ae07a3000043014511a7e0301d49fa47bb5ded4a9f681eda23cbc5"
+    },
+    {
+      "path": "tact_SampleJetton.pkg",
+      "content_hash": "1969cc90e61cca4f426424bad5f2c34402999d55d5686709acdb22bf259ab6aa"
+    }
+  ]
+}
