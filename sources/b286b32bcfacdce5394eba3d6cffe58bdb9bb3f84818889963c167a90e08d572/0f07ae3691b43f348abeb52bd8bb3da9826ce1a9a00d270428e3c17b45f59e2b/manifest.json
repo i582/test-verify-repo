@@ -1,0 +1,40 @@
+{
+  "code_hash": "b286b32bcfacdce5394eba3d6cffe58bdb9bb3f84818889963c167a90e08d572",
+  "source_bundle_hash": "0f07ae3691b43f348abeb52bd8bb3da9826ce1a9a00d270428e3c17b45f59e2b",
+  "verified_at": 1784648508,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "contracts/whitelist.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Whitelist.pkg",
+      "content_hash": "571873bc1c614b9d9536a872a5e53730c83bf089054c1fb70f26b1e55b2ea77f"
+    },
+    {
+      "path": "contract/contracts/whitelist.tact",
+      "content_hash": "30acaa011499641d151fdff7abd39cc9ebf26c7df3c03fda44d922776bb9d1ca"
+    },
+    {
+      "path": "output/verifier_Whitelist.abi",
+      "content_hash": "4c1ed989c3d4b766715eb223aa256204f42ca687994581a835e82078b7269795"
+    },
+    {
+      "path": "output/verifier_Whitelist.pkg",
+      "content_hash": "f2a436d2c0de4487924e102d5061048d9348c20501b5a231da3774699636fd71"
+    },
+    {
+      "path": "output/verifier_WhitelistChildEntry.abi",
+      "content_hash": "272c7bd42c49b057ca4e0c6cd1bfb93359a0a80681734bc157c86a9546fff0c9"
+    },
+    {
+      "path": "output/verifier_WhitelistChildEntry.pkg",
+      "content_hash": "5bacf1992037cbfbe7180b239623cdad0fc4c045330cfaeea12cc886bdf7d8d3"
+    }
+  ]
+}
