@@ -1,0 +1,32 @@
+{
+  "code_hash": "ee6f291532b354a4241ee0876e5d8a547fe27f9758836a3f6c0d5f1f3c7871af",
+  "source_bundle_hash": "061e5c008c9dbf1a1c74c27cd603d3e8d2a0dcda5e1157f340df3472e1ee36ef",
+  "verified_at": 1784648784,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/QuizGame.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/QuizGame.tact",
+      "content_hash": "ba4bb2beaf31e95445982d9f4146b2dd4156b24c686a4645934946888728faab"
+    },
+    {
+      "path": "output/verifier_QuizGame.abi",
+      "content_hash": "a71fb92d5b4890b7be75bc6ff1102728d416ca2e1da969e231e4f515df1ae7d0"
+    },
+    {
+      "path": "output/verifier_QuizGame.pkg",
+      "content_hash": "b054437a62d6754cc94433f0a86887b0c65ef745bdd4f2f04b2e0180a6a4b226"
+    },
+    {
+      "path": "tact_QuizGame.pkg",
+      "content_hash": "4440186e401687c5c2ed9cf5d7d7b99125a56253a2edf3ef419b376a3c32fe5a"
+    }
+  ]
+}
