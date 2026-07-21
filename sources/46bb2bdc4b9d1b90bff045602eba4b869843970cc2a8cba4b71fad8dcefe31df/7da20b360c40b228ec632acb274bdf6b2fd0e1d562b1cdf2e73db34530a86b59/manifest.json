@@ -1,0 +1,40 @@
+{
+  "code_hash": "46bb2bdc4b9d1b90bff045602eba4b869843970cc2a8cba4b71fad8dcefe31df",
+  "source_bundle_hash": "7da20b360c40b228ec632acb274bdf6b2fd0e1d562b1cdf2e73db34530a86b59",
+  "verified_at": 1784650130,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.3",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TokenDistributionParent.pkg",
+      "content_hash": "3c445fc5c4a5d653cdd99a41c6c17fba4ed075844db66888bfafe5da01a8cb0f"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "29825733e9faabd760f8214bb2d9ea0ed19c53db63192996576efb121b5c318c"
+    },
+    {
+      "path": "output/verifier_TokenDistributionChild.abi",
+      "content_hash": "2ddc2e5bcc0183234b348110781f6e8dba47b1aa4de15dada7b989d4800f1965"
+    },
+    {
+      "path": "output/verifier_TokenDistributionChild.pkg",
+      "content_hash": "87c74cb41b19ddccd5b757f59583dbf4f493fc5beb9299b0ebe1c875fe36c6de"
+    },
+    {
+      "path": "output/verifier_TokenDistributionParent.abi",
+      "content_hash": "9bc99d770ccd0baf214be63369afd000f04ca6bc6c24debaf610d6fe556ff439"
+    },
+    {
+      "path": "output/verifier_TokenDistributionParent.pkg",
+      "content_hash": "2fa1122f50e0368505129f9792e656132ae237fb339a12b526cc65abd6c27d03"
+    }
+  ]
+}
