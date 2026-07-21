@@ -1,0 +1,32 @@
+{
+  "code_hash": "f85f6e5ea3b7106b3332e27a811fc862c3a949dfdf06daaca853bc8f67c0467d",
+  "source_bundle_hash": "898213b9f6156c701787d8cc1ca5adc204147a220c748b763e517bb264b04c59",
+  "verified_at": 1784650092,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/fake_smart2.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/fake_smart2.tact",
+      "content_hash": "d1b2786408d8a0b46641f55cf4cf684417cfbdb716c3a258e7ddf7b7e820da2b"
+    },
+    {
+      "path": "output/verifier_FakeSmart2.abi",
+      "content_hash": "a5963c4681abcdec116aebfa48bca3f1d6fd1b902f27b9f47f3bea090ce3f20c"
+    },
+    {
+      "path": "output/verifier_FakeSmart2.pkg",
+      "content_hash": "be3ab6ceba444b84cb39f9cc1504547a55f436529a8d920d511a045f88d2c918"
+    },
+    {
+      "path": "tact_FakeSmart2.pkg",
+      "content_hash": "3b088d50fd0da40518f7eebace4d51ae62b258a6a39d65cc9e975444883a19bc"
+    }
+  ]
+}
