@@ -1,0 +1,32 @@
+{
+  "code_hash": "072cac1b7f153a36c551e8b48ba84d920d16e9d8d14162552be73efa3eff4160",
+  "source_bundle_hash": "9e51d35ffb274b52172c8911015365cf15d7e0ac60310a0eea3625f8b1c986cc",
+  "verified_at": 1784649295,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "sources/splitter/contract.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "PaymentRouter.pkg",
+      "content_hash": "a2090dbe84aaf7b6b8e53076f73602716d562f07fa638354ff11d54522331c55"
+    },
+    {
+      "path": "contract/sources/splitter/contract.tact",
+      "content_hash": "b35e4fa206f923b8bec5f4609f7d7c9b12adfaef339dd1e3660199125f29f19c"
+    },
+    {
+      "path": "output/verifier_PaymentRouter.abi",
+      "content_hash": "ff7200117f132a67c749e092c39079f45fb77e510fab9d7fc93aecbfbf993363"
+    },
+    {
+      "path": "output/verifier_PaymentRouter.pkg",
+      "content_hash": "41e42c9259ec44f8222533a2d396edc48285f37b48d6124a131bda55f63d8fff"
+    }
+  ]
+}
