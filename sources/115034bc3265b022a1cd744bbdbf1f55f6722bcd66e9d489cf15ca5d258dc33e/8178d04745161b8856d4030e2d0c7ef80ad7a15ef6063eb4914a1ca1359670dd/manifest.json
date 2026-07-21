@@ -1,0 +1,32 @@
+{
+  "code_hash": "115034bc3265b022a1cd744bbdbf1f55f6722bcd66e9d489cf15ca5d258dc33e",
+  "source_bundle_hash": "8178d04745161b8856d4030e2d0c7ef80ad7a15ef6063eb4914a1ca1359670dd",
+  "verified_at": 1784648969,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/didit_web3.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "DiditWeb3_TactCounter.pkg",
+      "content_hash": "b7a3075b0c2e679d5a0ebe34e37acd9ca25de06fce2d7de18a5d3d927dd7498d"
+    },
+    {
+      "path": "contract/contracts/didit_web3.tact",
+      "content_hash": "fb7a6eccbd18df291aaa95a27ca6b24e2acfe1092da413080008baa6447d2605"
+    },
+    {
+      "path": "output/verifier_TactCounter.abi",
+      "content_hash": "5c00c69a0d07e01e26d17c582b11086d6130d6a2d8ea64eb59bac2817cbcd569"
+    },
+    {
+      "path": "output/verifier_TactCounter.pkg",
+      "content_hash": "746b6539bb87c1f464d275bc490a27910e6804b06826fe9894a03a573e002c36"
+    }
+  ]
+}
