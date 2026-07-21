@@ -1,0 +1,40 @@
+{
+  "code_hash": "e48190c1f5c278b601b390cf8154f07e7eecdfd88cc169bd60c2bdebcf92fb7f",
+  "source_bundle_hash": "cd0f54557699c106f94c865993ff356da3a0ecc8cd34a967f91200e45a22e40d",
+  "verified_at": 1784648858,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/bonding_jetton.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "BondingJetton_BondingJettonWallet.pkg",
+      "content_hash": "08115630507dd08761cd91fdf068ecae21d1a25c83c76ec686d5671c9286e6a6"
+    },
+    {
+      "path": "contract/contracts/bonding_jetton.tact",
+      "content_hash": "eb474e66201393e9d6dc7e3819b045c4b9e2a75c9dfa3f3ce8be207bce900619"
+    },
+    {
+      "path": "output/verifier_BondingJetton.abi",
+      "content_hash": "fc7da80abf6b51fc1825587aa4d719c877ab1f57dcc586454cdca38b3a31870d"
+    },
+    {
+      "path": "output/verifier_BondingJetton.pkg",
+      "content_hash": "1f3f26fab170e10eda1a50bfc399cf34caee26d07482ad55008b2979e8eca4a0"
+    },
+    {
+      "path": "output/verifier_BondingJettonWallet.abi",
+      "content_hash": "7f264d701d61fb09d47bb6502867933d15e0f43adf8f340236fa5337178ca2c7"
+    },
+    {
+      "path": "output/verifier_BondingJettonWallet.pkg",
+      "content_hash": "a81fd5e48ab2f48cea2648a9183fbf480f439adae258c5fe4c18e410cdf24be3"
+    }
+  ]
+}
