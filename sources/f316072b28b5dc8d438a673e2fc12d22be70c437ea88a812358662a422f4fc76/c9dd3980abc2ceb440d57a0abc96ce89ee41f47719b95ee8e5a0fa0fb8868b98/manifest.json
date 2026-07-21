@@ -1,0 +1,32 @@
+{
+  "code_hash": "f316072b28b5dc8d438a673e2fc12d22be70c437ea88a812358662a422f4fc76",
+  "source_bundle_hash": "c9dd3980abc2ceb440d57a0abc96ce89ee41f47719b95ee8e5a0fa0fb8868b98",
+  "verified_at": 1784648731,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/pyramid.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Pyramid_Pyramid.pkg",
+      "content_hash": "04990dbccba323a62a3093b5f6a231799a0f43351eb7c3685d3f2462d495f9fe"
+    },
+    {
+      "path": "contract/contracts/pyramid.tact",
+      "content_hash": "c1c2911249a31e45bd5c7988b8412659dd17d47979a7a401235ea5a4148797d0"
+    },
+    {
+      "path": "output/verifier_Pyramid.abi",
+      "content_hash": "40681dfefa55b3083b2a43088020551113161a53744258f8aec68ee2edb0798e"
+    },
+    {
+      "path": "output/verifier_Pyramid.pkg",
+      "content_hash": "5c377917c4e3cbb19c4c046da847710b6c199b703fa19ec436ad7b0b62b140ab"
+    }
+  ]
+}
