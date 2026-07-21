@@ -1,0 +1,40 @@
+{
+  "code_hash": "76ba3a36aa2a432153b14fb291893d3b532563f1c481326ee778f9aafc1bc6b3",
+  "source_bundle_hash": "234339989227edb582edd6c383d3faa20f8fc46b030a260ca952d53f7057b595",
+  "verified_at": 1784650334,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "sources/LotteryContract07.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "LotteryStartTactContract.pkg",
+      "content_hash": "8ef913d0d664eb53949cb24f40521d2f064422f0fac05f8beddd6c6f756e92f5"
+    },
+    {
+      "path": "contract/sources/LotteryContract07.tact",
+      "content_hash": "5c189897946f501d904fddb8c4082d773e966b1409136a5c5ada7aa19d55561e"
+    },
+    {
+      "path": "output/verifier_LotteryPlayTactContract.abi",
+      "content_hash": "4e09e09be654a8c7366d885dcd4be1dc1284c2359466a6b2d8e03859cdeb5b56"
+    },
+    {
+      "path": "output/verifier_LotteryPlayTactContract.pkg",
+      "content_hash": "9eb883d230b487320e9b7047aa099ef03ac416fe5b997dc9a7912fb0297c5696"
+    },
+    {
+      "path": "output/verifier_LotteryStartTactContract.abi",
+      "content_hash": "43823a83489d911cb758f10df7cca40c834994b66b195bbce5160c4ed0748955"
+    },
+    {
+      "path": "output/verifier_LotteryStartTactContract.pkg",
+      "content_hash": "e38289bef26e5e8af0d2562d241f5d6325a15993c05777c81da887156c0225cf"
+    }
+  ]
+}
