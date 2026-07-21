@@ -1,0 +1,32 @@
+{
+  "code_hash": "0d9128a42f7c206230b3f12af3715d28dc3a56eaec25ad62bb9d8ec4e7688cf1",
+  "source_bundle_hash": "5ea7888baab0f8de451ea5e424132fd6db247061ed1c87aea70042ef3063b44b",
+  "verified_at": 1784662832,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/mock/dict_mock.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/mock/dict_mock.tact",
+      "content_hash": "67d7313468b6a89a07d721421940301e0597fd36347f170d482d2d4a565f37af"
+    },
+    {
+      "path": "output/verifier_DictMock.abi",
+      "content_hash": "e9f974abad84adfb4a03ac5bf324c961b19a2e51c1ca4eb3378fc27c269bc1bf"
+    },
+    {
+      "path": "output/verifier_DictMock.pkg",
+      "content_hash": "1bb85ea06dbafa7d9b6d8dca083a1523c96d2de6e8030fc174bc0d497a79004c"
+    },
+    {
+      "path": "tact_DictMock.pkg",
+      "content_hash": "c71ce5adeff40899c905fef1ffb9c05e1e15d2780745b13331654b605f9ed0f7"
+    }
+  ]
+}
