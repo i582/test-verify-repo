@@ -1,0 +1,32 @@
+{
+  "code_hash": "6e173d1609317b539d559564ef196c7c8b3e1be4ad3df498a2b931635b261674",
+  "source_bundle_hash": "f55a6264336416b8b241abb115513d3de284a1782d648084b1f4e2a183456470",
+  "verified_at": 1784649316,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/megano.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Megano_Megano.pkg",
+      "content_hash": "f0eec5948cdb423baebe313fe4496ce6fa0618517b7db04910ae94645060cfba"
+    },
+    {
+      "path": "contract/contracts/megano.tact",
+      "content_hash": "489a5d08ee60d053a05ec56c8ccc75fe3a8779a9d5b0ff04e37ab99754d467d0"
+    },
+    {
+      "path": "output/verifier_Megano.abi",
+      "content_hash": "5aa0f5f3680f2542e4418bf5668bb8422d72999bd416a6afa38cfd802186af36"
+    },
+    {
+      "path": "output/verifier_Megano.pkg",
+      "content_hash": "e9bad3ae39dd630302b6527a2f9fbfac03fea35cce09faa7d89084f13cde1ae3"
+    }
+  ]
+}
