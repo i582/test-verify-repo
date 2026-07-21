@@ -1,0 +1,32 @@
+{
+  "code_hash": "fbd1849e4b57d95ea38122e0f3c64b01fed23c3ffa8554290bebc87c9e778074",
+  "source_bundle_hash": "85e3d9410eec20bd92722df657f7e3a37950970c04dd3b98be68ae5d8aa1f354",
+  "verified_at": 1784648874,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/coin_flip.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "CoinFlip.pkg",
+      "content_hash": "95273a91518e1324d1bc26c7f85f5aed75a76796691ed0563e1b94a833cfbe3c"
+    },
+    {
+      "path": "contract/contracts/coin_flip.tact",
+      "content_hash": "45a21252244baccd5736555f94663ab8f2c8ef5f2e9f93c1319913cb4ed27692"
+    },
+    {
+      "path": "output/verifier_CoinFlip.abi",
+      "content_hash": "2993dc12531aa127fe63c70c6ab94a10cac7a0dc45e6269f525243cce42eb4d9"
+    },
+    {
+      "path": "output/verifier_CoinFlip.pkg",
+      "content_hash": "19241a90cb6e83e401511b0d36c9844ba3026175b4b822c38959f930ae749ab1"
+    }
+  ]
+}
