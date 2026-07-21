@@ -1,0 +1,32 @@
+{
+  "code_hash": "3a1afdc9ce09874ba8c7acfe3f5633e69a3b4b760d6076a82896a6d5a091716e",
+  "source_bundle_hash": "f01c0281c287e0bf890190f4c02063260f97f78bf8d33c5f616a33f6e6df88a6",
+  "verified_at": 1784649421,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/vouch_contract.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "VouchContract_VouchContract.pkg",
+      "content_hash": "05e5390b25f819ae2620354f127672a79b0c049e3222ab9457f276bb2b58ba85"
+    },
+    {
+      "path": "contract/contracts/vouch_contract.tact",
+      "content_hash": "574d0b9ce4c1420ec89f01a774df8ef094456a674a50ada1641d2c6df1376b44"
+    },
+    {
+      "path": "output/verifier_VouchContract.abi",
+      "content_hash": "08c8a9e97139f6f41ad7be7fdd09d2a02a96a4789d36e7b516deff4b458fa761"
+    },
+    {
+      "path": "output/verifier_VouchContract.pkg",
+      "content_hash": "9fdb2e38c0eb974bfa87e130c46ae6cce89a2396061c8bf7754853f5fd1dfa19"
+    }
+  ]
+}
