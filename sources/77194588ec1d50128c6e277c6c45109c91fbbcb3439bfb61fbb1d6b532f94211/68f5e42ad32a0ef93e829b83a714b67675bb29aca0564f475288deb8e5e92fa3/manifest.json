@@ -1,0 +1,72 @@
+{
+  "code_hash": "77194588ec1d50128c6e277c6c45109c91fbbcb3439bfb61fbb1d6b532f94211",
+  "source_bundle_hash": "68f5e42ad32a0ef93e829b83a714b67675bb29aca0564f475288deb8e5e92fa3",
+  "verified_at": 1784650201,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "nft-item.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "nft-item-editable-v2.fc",
+      "content_hash": "1f753f52e1e932c99af485524007cca59ec4161bffb353bf467e02e56bc00ab7",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "nft-item-v2.fc",
+      "content_hash": "fed6e374a873903e883b6ef7a125ebfaf8af026af6e5bd85583b11a0e8600c3e",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "nft-item.fc",
+      "content_hash": "7f4f3b65a47ffccf37a0c4a0a68f48ef06bfc71dcb969756dc2978ec3549ec28",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "op-codes.fc",
+      "content_hash": "a3d3b6dbae3516b8b50d5297f5549614714f3dbb7696112965d821c20f5fdd23",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "params.fc",
+      "content_hash": "8fdf7406e3069b4162b6c39f83630ab17051d15affcc58d85e7f8a8fc6e14096",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "sbt-item.fc",
+      "content_hash": "77d7b3545dea883ff53ffcb8aa8dbb660b50951313229b722b0375b6ee6c194f",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "sbt-single.fc",
+      "content_hash": "2a93821294760275503ec1b67b561872590445f098c84f792ab7bc69989af7a3",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "4817eb246209e31ff39f829cb2bfd7a0b0c5262387cb62ac2e5c8473f0c0881c",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
