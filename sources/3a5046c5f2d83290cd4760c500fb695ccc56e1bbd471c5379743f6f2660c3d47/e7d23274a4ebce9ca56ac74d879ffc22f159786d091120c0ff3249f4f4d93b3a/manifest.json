@@ -1,0 +1,65 @@
+{
+  "code_hash": "3a5046c5f2d83290cd4760c500fb695ccc56e1bbd471c5379743f6f2660c3d47",
+  "source_bundle_hash": "e7d23274a4ebce9ca56ac74d879ffc22f159786d091120c0ff3249f4f4d93b3a",
+  "verified_at": 1784649416,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "output/tact_TestContract.code.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "77e7f1294a426c7e134e47437342b500cda27af88704e6779f716660431067c7",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "output/tact_TestContract.code.fc",
+      "content_hash": "053ec877e1563a79d42140a33c401583e44ba8c46de6792f3faf97d4a0b87563",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "output/tact_TestContract.constants.fc",
+      "content_hash": "5d966fb75438fc9fa2c2013302cdda62170f6dc47e13787a7576dcfb99a9b6ad",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "output/tact_TestContract.headers.fc",
+      "content_hash": "17f603cbc8b86915511f2039afc7d3fafe73eb37a2a366748e7b97afdbeecd17",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "output/tact_TestContract.pkg",
+      "content_hash": "6bab0df47e8112383fda6dbf75e4ca04c63654a097b1b4ee684cabd938dac5ee",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "output/tact_TestContract.stdlib.fc",
+      "content_hash": "4c50fef266607cd105a5e41902423f71ec5c770b94de3e72e914dd9b7ed5dc9e",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "output/tact_TestContract.storage.fc",
+      "content_hash": "ed953ef0722616ce4544e1785724b29134289f5842480920c1496bf298850dbd",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    }
+  ]
+}
