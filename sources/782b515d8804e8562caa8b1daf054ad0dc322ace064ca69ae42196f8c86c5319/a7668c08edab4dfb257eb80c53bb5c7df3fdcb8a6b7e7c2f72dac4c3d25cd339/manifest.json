@@ -1,0 +1,32 @@
+{
+  "code_hash": "782b515d8804e8562caa8b1daf054ad0dc322ace064ca69ae42196f8c86c5319",
+  "source_bundle_hash": "a7668c08edab4dfb257eb80c53bb5c7df3fdcb8a6b7e7c2f72dac4c3d25cd339",
+  "verified_at": 1784650444,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "sources/file_saver.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "DataSaver.pkg",
+      "content_hash": "e7bb853b4f5aa9effe06a371e0bb6816dba6a8423641fc327f846afe6b2efd8d"
+    },
+    {
+      "path": "contract/sources/file_saver.tact",
+      "content_hash": "dbb8bb660be810ac860e89f1a70595e03d49e15728dd39559239808ec46b061b"
+    },
+    {
+      "path": "output/verifier_DataSaver.abi",
+      "content_hash": "a02b9ea69524e282e0340843671c423be8eda717e4922b35201e67d372f313a0"
+    },
+    {
+      "path": "output/verifier_DataSaver.pkg",
+      "content_hash": "32d933e0eb3d01d5ea451a956599ebfae62689c110fb80fe068af6e0b735ee4c"
+    }
+  ]
+}
