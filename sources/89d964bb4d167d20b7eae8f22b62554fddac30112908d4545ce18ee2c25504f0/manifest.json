@@ -1,0 +1,30 @@
+{
+  "code_hash": "89d964bb4d167d20b7eae8f22b62554fddac30112908d4545ce18ee2c25504f0",
+  "source_bundle_hash": "a639c3f7f16213de073297aa31e5aa5c97386d429b352ad54986658ee0b79237",
+  "verified_at": 1784758960,
+  "compiler": {
+    "language": "func",
+    "version": "0.2.0",
+    "entrypoint": "wallet_v3r2.fc",
+    "params": {
+      "compiler_version": "0.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "stdlib.fc",
+      "content_hash": "4d967399e9ec078959884816e6977f56dd90316c62f79f99dd36c438d51615eb",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "wallet_v3r2.fc",
+      "content_hash": "420d61d20ccdf1d0d9a96b32bfeb1ab32ed9c775dba76a4bc34d92c131aeb60b",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
