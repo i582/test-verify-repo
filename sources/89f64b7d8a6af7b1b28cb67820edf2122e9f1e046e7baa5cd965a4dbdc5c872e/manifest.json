@@ -1,0 +1,40 @@
+{
+  "code_hash": "89f64b7d8a6af7b1b28cb67820edf2122e9f1e046e7baa5cd965a4dbdc5c872e",
+  "source_bundle_hash": "5c7214a3a652e22daa2234630afa58966c6de65422430eaf83784489b225e231",
+  "verified_at": 1784758957,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/my_jetton.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MyJetton_MyJetton.pkg",
+      "content_hash": "799345ac0f8244d7529b07e97bd205c33b01a2d1e6cb25add9e9a6f2971c7d59"
+    },
+    {
+      "path": "contract/contracts/my_jetton.tact",
+      "content_hash": "d73fe970fc20afe90f5b64a98c083788c7356b992a89efb2ac796048d8fbfa2f"
+    },
+    {
+      "path": "output/MyJetton.abi.json",
+      "content_hash": "81943b9d4cf37014baa0f7da0c64c7a5e61fe2c38e75b1c522916a2a0b93c5dc"
+    },
+    {
+      "path": "output/MyJetton.types.tolk",
+      "content_hash": "bc86d72c36d08c20a763d4db4eccab9b9d3bb160181f5e80a2a54361805c1061"
+    },
+    {
+      "path": "output/verifier_MyJetton.abi",
+      "content_hash": "d29addb08cb4b1a56919bc053e186e7bbc1f6955baa0fbd3fe4ff76961a83432"
+    },
+    {
+      "path": "output/verifier_MyJetton.pkg",
+      "content_hash": "5ce483edc32c6e1b6118000c9016b179079ad41fbf864f87b7fde10ec6a142b7"
+    }
+  ]
+}
