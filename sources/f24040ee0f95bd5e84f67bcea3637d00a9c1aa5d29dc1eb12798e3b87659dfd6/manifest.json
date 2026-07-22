@@ -1,0 +1,58 @@
+{
+  "code_hash": "f24040ee0f95bd5e84f67bcea3637d00a9c1aa5d29dc1eb12798e3b87659dfd6",
+  "source_bundle_hash": "3eb93eecf714d983d9982369e1e22bbd00fc81f1e5437d45a529f74cc29f4f1c",
+  "verified_at": 1784758654,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "contracts/scroo_g.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/imports/constants.fc",
+      "content_hash": "ba178a963dfcd96a28a9fe15d04b006286858313fb6f6b157b8e8b7a79860923",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/op-codes.fc",
+      "content_hash": "a159bb132e752f4a0108bb8dbea620d7154b7939101093713bb2bda7217826c6",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/params.fc",
+      "content_hash": "c5f91f0b191ee9a02a36980883c38679c6a0d6e55eb4c5405f7f7417663e210b",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "b81a96fe2cb4a6a880b5b361d64fe2020feae99ae36a1782a9e9a6002feacce8",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/utils.fc",
+      "content_hash": "8e4f6d05d9cbebcb05c801e9ae89f1645e2e594e4fdc1ea521bfd52a54a8bee9",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/scroo_g.fc",
+      "content_hash": "1e6f92a58ce32e11c9ee6200e1b868f6a8f1f739b6ab76cb1dd50623e3c61146",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
