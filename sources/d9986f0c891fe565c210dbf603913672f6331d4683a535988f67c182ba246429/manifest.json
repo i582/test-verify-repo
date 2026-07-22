@@ -1,0 +1,30 @@
+{
+  "code_hash": "d9986f0c891fe565c210dbf603913672f6331d4683a535988f67c182ba246429",
+  "source_bundle_hash": "9297154905786c3f9684fb840e2f9d78e994fd6cbb3721efba5e25319b6b1c03",
+  "verified_at": 1784762665,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4-newops.1",
+    "entrypoint": "contracts/verifier.fc",
+    "params": {
+      "compiler_version": "0.4.4-newops.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "8aceeac1b4525d9148c6f64fb5567f4a913c2450ac42943c607e02d68fceaa65",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "contracts/verifier.fc",
+      "content_hash": "d2a09fac5bce8bbee5534092ca47df90b3022fae4bddb5f1b2dd28aaa4e7060e",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
