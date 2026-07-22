@@ -1,0 +1,65 @@
+{
+  "code_hash": "4e4de8282eaa9a025f2e9071562f15f49e0b3cdb975fcc0720d0c7a91c80f1ed",
+  "source_bundle_hash": "56633f998b9a498ef6d7561996edb865882f29e89a44ada3fdc40695506215d6",
+  "verified_at": 1784758810,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "main.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "commands.fc",
+      "content_hash": "3e1135d71da0daaed9234cee5984aa68ef6f30a3968e599f6ae17add56ee6808",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "constants.fc",
+      "content_hash": "ec2dee6ca19a617727c856705fc378854657626559eb252394d97632e65ba689",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "main.fc",
+      "content_hash": "f48636b0d19fd70ee7d845f39cd25a6f9d9f344ff5e38872a6811a0d43e44150",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "safe_math.fc",
+      "content_hash": "337d03436ac0f2b644b3a6839aa214f880b47b45d593f2c23a64dce1303764eb",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "security.fc",
+      "content_hash": "29a779d86e01ca7102d505a3bb1d908cea567ea9871d05c38209d86b24331cad",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "598793a67b45f22fa51b76897d1078ff43e6508418208fec08380cd0fe691bd4",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "utils.fc",
+      "content_hash": "4c917d4c9d43185f7b97e27d816ce05359d1156c744adbcf884f494785bebe12",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
