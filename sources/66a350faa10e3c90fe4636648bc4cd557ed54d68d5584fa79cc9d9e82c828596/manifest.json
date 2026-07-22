@@ -1,0 +1,44 @@
+{
+  "code_hash": "66a350faa10e3c90fe4636648bc4cd557ed54d68d5584fa79cc9d9e82c828596",
+  "source_bundle_hash": "63d8e64d26e998d2d4bcca7b5ae7a07a24064c8e04f033007cfb058e2db4e944",
+  "verified_at": 1784756950,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.3",
+    "entrypoint": "imports/stdlib.fc",
+    "params": {
+      "compiler_version": "0.4.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "helper.fc",
+      "content_hash": "4dccd79e57777153e092781443e40bcb3f640be27dc32eaa6324e32f545d608c",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "multi_cheque.fc",
+      "content_hash": "7cdcc61055d454cd93388c711f20bfa4a57d5c34f15d00845670736d0e39539c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "one_time_cheque.fc",
+      "content_hash": "d596abe078b23486168273150fa66602aa1b5f1217fa8493735e191bca1f9753",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
