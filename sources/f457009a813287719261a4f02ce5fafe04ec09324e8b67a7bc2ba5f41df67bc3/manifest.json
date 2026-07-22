@@ -1,0 +1,40 @@
+{
+  "code_hash": "f457009a813287719261a4f02ce5fafe04ec09324e8b67a7bc2ba5f41df67bc3",
+  "source_bundle_hash": "3bd8f542ba277660917ae52ec9386a95e3b02841d00ce8e9c64060574ec16aa1",
+  "verified_at": 1784758485,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "sources/splitter/contract.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "PaymentRouter.pkg",
+      "content_hash": "38f0336297236d3ca3576f7c69a473da33b281251477b88923f99988d3bd6c6a"
+    },
+    {
+      "path": "contract/sources/splitter/contract.tact",
+      "content_hash": "7f979dfdb140c5a6120de5d4ce8d7fb6078e3872e55caf17e60fda2759eda45a"
+    },
+    {
+      "path": "output/PaymentRouter.abi.json",
+      "content_hash": "bbb0addbd8b889968396b3fc8e3d2f0b716bd416777a79290668abf4d969fdf2"
+    },
+    {
+      "path": "output/PaymentRouter.types.tolk",
+      "content_hash": "0445937acb29103607536f8ea4a51e7a0b8aefdb7d78aceabab1dae96ef35833"
+    },
+    {
+      "path": "output/verifier_PaymentRouter.abi",
+      "content_hash": "b9b40490a95ecd31918af0ca03810f5c1fa0c9129e3d25109da7f0f3c2cd8cc9"
+    },
+    {
+      "path": "output/verifier_PaymentRouter.pkg",
+      "content_hash": "682c5344cc27a9bea591fe08950f70e3a8cf997fc6ee594af1babffe19b4508f"
+    }
+  ]
+}
