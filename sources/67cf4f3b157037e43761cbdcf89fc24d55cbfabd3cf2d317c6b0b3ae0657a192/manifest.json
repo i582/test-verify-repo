@@ -1,0 +1,56 @@
+{
+  "code_hash": "67cf4f3b157037e43761cbdcf89fc24d55cbfabd3cf2d317c6b0b3ae0657a192",
+  "source_bundle_hash": "19985762d7c14a4df9946685fbea6575ebcc05cd39d571966ebb11492ded14de",
+  "verified_at": 1784757244,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.4",
+    "entrypoint": "contracts/jetton_example.tact",
+    "params": {
+      "compiler_version": "1.1.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/jetton_example.tact",
+      "content_hash": "13dfd327e26353d150eaf6e7a5708e2386a898c5b97268f4ca3bbaedc532bbc7"
+    },
+    {
+      "path": "contract/contracts/packages/token/jetton/JettonMaster.tact",
+      "content_hash": "f01410efdc39b105bffec26c8ee9702d060c5a00842959df8d81a187eef2a309"
+    },
+    {
+      "path": "contract/contracts/packages/token/jetton/JettonWallet.tact",
+      "content_hash": "5d8d36cd051ee5b86202bd7b3d4fe16e7aee97e3c6b86792e948d281984cd868"
+    },
+    {
+      "path": "output/ExampleJettonMaster.abi.json",
+      "content_hash": "58bcd31314b924f03c9f85d6290b89ffe47b422f83b23c8091b1e1672b76c574"
+    },
+    {
+      "path": "output/ExampleJettonMaster.types.tolk",
+      "content_hash": "16d2acfffb1e8109ddcf9c2b7dd617c7657b154eb7007da20091fe04c1fe6abe"
+    },
+    {
+      "path": "output/verifier_ExampleJettonMaster.abi",
+      "content_hash": "2ab630b2ee8f57e613e1482970d7a8b4efaf2c83d8fe3bc0b90063ea76fc8a14"
+    },
+    {
+      "path": "output/verifier_ExampleJettonMaster.pkg",
+      "content_hash": "1aa0f0ef42b718e05d54ebee3dee2fea25ad14ae3d9450ffd899a8a711ba63e5"
+    },
+    {
+      "path": "output/verifier_ExampleJettonWallet.abi",
+      "content_hash": "cabb64302792918e962f3744665a1716ca86e857e4be748fbf70fb19409f8fbb"
+    },
+    {
+      "path": "output/verifier_ExampleJettonWallet.pkg",
+      "content_hash": "618bc1469eb4f1a830f6051781d40651fec1c525448181713fd1b5b82da10e9a"
+    },
+    {
+      "path": "tact_ExampleJettonMaster.pkg",
+      "content_hash": "ddc4c0db248ea4a0f23cc506670c0f3fde808ce95bacca9f1ce10c928c21b33f"
+    }
+  ]
+}
