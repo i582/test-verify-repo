@@ -1,0 +1,40 @@
+{
+  "code_hash": "45a26971ab3e6520bb0e8020ba85c5ad550f200c4fb87baaf4d349fee127d185",
+  "source_bundle_hash": "d6dd17765ccc6aa63098ed78a620ccc49b9c27bccbb41a4e32268dd9f5ebceb3",
+  "verified_at": 1784758979,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "sources/SpinGameContract.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "SpinWheel.pkg",
+      "content_hash": "f207bb42b86da1b593218773f5f0cc41e78ee154364b3367c06437fcc25182e5"
+    },
+    {
+      "path": "contract/sources/SpinGameContract.tact",
+      "content_hash": "6b96ef04acbf442bd31b1244d61af7ab31c5cdb2914aac6c68fddea0a27c5487"
+    },
+    {
+      "path": "output/SpinWheel.abi.json",
+      "content_hash": "dff64ec204733e586c8b1e05b002ea04178563c74ca5b0b16ca33afd1a98855c"
+    },
+    {
+      "path": "output/SpinWheel.types.tolk",
+      "content_hash": "b252ab3a0c6d74cbde8bf8047812f456e10d3bcab90d6113dc67bcf333147e7f"
+    },
+    {
+      "path": "output/verifier_SpinWheel.abi",
+      "content_hash": "d2a396aa127700714fb8e59462739f3558626945545e690103e1202bc84922e0"
+    },
+    {
+      "path": "output/verifier_SpinWheel.pkg",
+      "content_hash": "51662d76d03651e8b9f3228d8aa56a67ec11d1ca1d76f5c0225e4c4e891d9d28"
+    }
+  ]
+}
