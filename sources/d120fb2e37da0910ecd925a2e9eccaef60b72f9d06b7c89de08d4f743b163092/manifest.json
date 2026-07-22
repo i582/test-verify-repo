@@ -1,0 +1,65 @@
+{
+  "code_hash": "d120fb2e37da0910ecd925a2e9eccaef60b72f9d06b7c89de08d4f743b163092",
+  "source_bundle_hash": "0974e19fb8b284023129f0588a3d7263dca4314be1e771515ee6e6137a46e38b",
+  "verified_at": 1784757779,
+  "compiler": {
+    "language": "func",
+    "version": "0.3.0",
+    "entrypoint": "jetton-wallet.fc",
+    "params": {
+      "compiler_version": "0.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/constants.fc",
+      "content_hash": "ba178a963dfcd96a28a9fe15d04b006286858313fb6f6b157b8e8b7a79860923",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/jetton-utils.fc",
+      "content_hash": "b1d8903e7603df934088b8d934bf3f6663ab6b0fc385d9e9268fd8c2a559fc56",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/op-codes.fc",
+      "content_hash": "b9a2f038f09f020c0d3fd13dcd6fa9838716b49f479edc60eaee7f27883e8079",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/params.fc",
+      "content_hash": "65925e6e45e20dbc836dbec2dfd660e874aa7f1049d187ae543b469018de9a7a",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "bd7ddceb84f2c711cdd0bbe44b6608d1c51a663bb1178c6172d7c1a12b1ba894",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/utils.fc",
+      "content_hash": "92c105b74ece244020c18a3f3615e3c1133c24dbb33ed7eddf309f8d0e7292f6",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "jetton-wallet.fc",
+      "content_hash": "2114e517442e0f8a3b07ec64d9904b3d0377ba6211eb1d9be9dd97f643cae910",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
