@@ -1,0 +1,40 @@
+{
+  "code_hash": "3d79bcb3693bf146476da138f9d839d0a68aa488ae9e5c98206aaf74728b9261",
+  "source_bundle_hash": "eed477d02c0f98d6baa59dd59808aaf8b636553043de26eb95ac0fed4a5a237c",
+  "verified_at": 1784757212,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TestContract.pkg",
+      "content_hash": "6111c197fe563fccdb03bde96f7c4e0e3659edc8d3d8fd262ed2c00afac1150c"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "6bff042e17a7f6a5154338857721c4c88df588b2381663a02e98b7c6be0afba0"
+    },
+    {
+      "path": "output/TestContract.abi.json",
+      "content_hash": "0a7d641c1d29e81c1ddc7a8df4c2af2d39b6401800c3f9c14dbb6ab6b94b9e0b"
+    },
+    {
+      "path": "output/TestContract.types.tolk",
+      "content_hash": "6167d9f1040e9ba4a6b8e438dc8a2eed19ff7be3948f42789c519e13b8fb259b"
+    },
+    {
+      "path": "output/verifier_TestContract.abi",
+      "content_hash": "051efe17301ce7621ba53b89eb435ae7e0bf58e1fe7e49c4f41c716a03499a4a"
+    },
+    {
+      "path": "output/verifier_TestContract.pkg",
+      "content_hash": "f8c8f6ca1a28014e2e053c2596f342584c02f8ef85afddf8d3ba41b75baf7743"
+    }
+  ]
+}
