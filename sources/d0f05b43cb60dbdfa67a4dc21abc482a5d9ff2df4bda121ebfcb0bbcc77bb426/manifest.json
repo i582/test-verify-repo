@@ -1,0 +1,40 @@
+{
+  "code_hash": "d0f05b43cb60dbdfa67a4dc21abc482a5d9ff2df4bda121ebfcb0bbcc77bb426",
+  "source_bundle_hash": "e2c08951a2b4d97d03c92bc120d2dda744f7279d3cf8198c75c773b4107a7787",
+  "verified_at": 1784757613,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.0",
+    "entrypoint": "sources/contract/main.tact",
+    "params": {
+      "compiler_version": "1.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "ClaimJetton.pkg",
+      "content_hash": "3d5a10f1222ba13aed98d392b80f4070db9bef8c46daca7a99159a1bd2c1554f"
+    },
+    {
+      "path": "contract/sources/contract/main.tact",
+      "content_hash": "1b726bc3c96334ce8ac17e014d06297e7b7133083a1fa1b245c02d8463af02b2"
+    },
+    {
+      "path": "output/ClaimJetton.abi.json",
+      "content_hash": "e1cb924171ab54b0420598965c0142e1cfcb2f8c79c77718c732dcbe9a3fc74d"
+    },
+    {
+      "path": "output/ClaimJetton.types.tolk",
+      "content_hash": "ff8fb30885dbbe830ff2a72bd45b209c1300a5f491721bfb71c3aca1b6d8f13b"
+    },
+    {
+      "path": "output/verifier_ClaimJetton.abi",
+      "content_hash": "642e7dd9c979a3d7776a54b1d83b2c9dd1bb82d82e71af1eeef8770a87583360"
+    },
+    {
+      "path": "output/verifier_ClaimJetton.pkg",
+      "content_hash": "89bbfc8e1150a2739c747bbb64c64f02966dc46c85752ca57124cde7d2e73309"
+    }
+  ]
+}
