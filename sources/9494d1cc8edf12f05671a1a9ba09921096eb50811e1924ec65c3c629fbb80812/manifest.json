@@ -1,0 +1,30 @@
+{
+  "code_hash": "9494d1cc8edf12f05671a1a9ba09921096eb50811e1924ec65c3c629fbb80812",
+  "source_bundle_hash": "5110e9ea9b96b922a2ebff12f542124bd80f62665f72c97b5f80bd4d6d919a26",
+  "verified_at": 1784757288,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "highload-wallet-v2.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "highload-wallet-v2.fc",
+      "content_hash": "62ab079ce89e1a2869545881a73d73c71663a5f6dd97ae03ca46b92fa78e8478",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "b37afe1bab81e33687cd2128531f9873882f3f5da540f4ff51108a354d697842",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
