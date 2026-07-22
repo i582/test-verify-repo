@@ -1,0 +1,40 @@
+{
+  "code_hash": "c0d36b33d41e134c838a0e9de0b947d6adc8cf68e1de2fd951c330f278c17d1f",
+  "source_bundle_hash": "c9d2d190d6b8efd2d136af11ad9335785b0871a8fcbea0652237448ae5a70733",
+  "verified_at": 1784758573,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/lottery_game.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/lottery_game.tact",
+      "content_hash": "c96951009427dc0029c58b3acd1dc2de1ed13bdd84675d0e977c6358b7c0bbda"
+    },
+    {
+      "path": "output/LotteryGame.abi.json",
+      "content_hash": "491aa42f7f7c360ff93dd435dc76c220ab3e8f459e62915dd624afa1835338bf"
+    },
+    {
+      "path": "output/LotteryGame.types.tolk",
+      "content_hash": "ee9448771321f49eac48db92f4f74ab819bbb84424f521ceb93d936f644052d2"
+    },
+    {
+      "path": "output/verifier_LotteryGame.abi",
+      "content_hash": "6db3bb6c4002d15c7a40c98146b3a7b7b66aa10f904017291c702e4c9fde54bd"
+    },
+    {
+      "path": "output/verifier_LotteryGame.pkg",
+      "content_hash": "8477db071c1dce4796f7e0ddcf080bc82999a9f957c6c54f42dcce0e49351a2f"
+    },
+    {
+      "path": "tact_LotteryGame.pkg",
+      "content_hash": "2df4f9801c207ff31213c01e9637a38f5c54f033d4a68beb17e7e956dd80d569"
+    }
+  ]
+}
