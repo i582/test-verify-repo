@@ -1,0 +1,40 @@
+{
+  "code_hash": "115034bc3265b022a1cd744bbdbf1f55f6722bcd66e9d489cf15ca5d258dc33e",
+  "source_bundle_hash": "3523ba6445700e7b9d690fb5ea0bf83a8bd68ba6deab7b71962a74967fd0df88",
+  "verified_at": 1784758890,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/didit_web3.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "DiditWeb3_TactCounter.pkg",
+      "content_hash": "b7a3075b0c2e679d5a0ebe34e37acd9ca25de06fce2d7de18a5d3d927dd7498d"
+    },
+    {
+      "path": "contract/contracts/didit_web3.tact",
+      "content_hash": "fb7a6eccbd18df291aaa95a27ca6b24e2acfe1092da413080008baa6447d2605"
+    },
+    {
+      "path": "output/TactCounter.abi.json",
+      "content_hash": "1808d6ed3df66a6d6f910b26df3eaa24304d33774a480b08ff3102f3e08fa302"
+    },
+    {
+      "path": "output/TactCounter.types.tolk",
+      "content_hash": "cabdc5c394033ce0903fb147239ff3348ef3442096e0fdc47ee5e66ea5e81528"
+    },
+    {
+      "path": "output/verifier_TactCounter.abi",
+      "content_hash": "5c00c69a0d07e01e26d17c582b11086d6130d6a2d8ea64eb59bac2817cbcd569"
+    },
+    {
+      "path": "output/verifier_TactCounter.pkg",
+      "content_hash": "746b6539bb87c1f464d275bc490a27910e6804b06826fe9894a03a573e002c36"
+    }
+  ]
+}
