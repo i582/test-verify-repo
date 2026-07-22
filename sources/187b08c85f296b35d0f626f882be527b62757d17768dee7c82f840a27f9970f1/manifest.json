@@ -1,0 +1,40 @@
+{
+  "code_hash": "187b08c85f296b35d0f626f882be527b62757d17768dee7c82f840a27f9970f1",
+  "source_bundle_hash": "e612235a561c48cca226e0f90be514610a9268775a1babf8c9db0c6f6546e857",
+  "verified_at": 1784758832,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/dz_ton_v3.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "DzTonV3_DzTonV3.pkg",
+      "content_hash": "e36fb38c9a130b252274ad8603d5f5dcbaf32824ceac18a7916040669cc8b3b9"
+    },
+    {
+      "path": "contract/contracts/dz_ton_v3.tact",
+      "content_hash": "c966227a4c05c33fe76dcb4799c802c8a3218bb7dcfee95178178effcd0b74c9"
+    },
+    {
+      "path": "output/DzTonV3.abi.json",
+      "content_hash": "9091e813851b605dea350d0d3be222f0a02a8abc0d1f3ef30b6f9077c286a838"
+    },
+    {
+      "path": "output/DzTonV3.types.tolk",
+      "content_hash": "ef5695e882f9918a0abb55cd4ed890cbe90f3f9861ee219e85407899cc89b909"
+    },
+    {
+      "path": "output/verifier_DzTonV3.abi",
+      "content_hash": "7cd703f5f3b5cb720a47b632df2f7c82e1d671b25db60e1f93eb630a33468098"
+    },
+    {
+      "path": "output/verifier_DzTonV3.pkg",
+      "content_hash": "c88917517719031f8fab0c2ae9a0e18cee87c545aee3f4bc59f5bbf32dcfb469"
+    }
+  ]
+}
