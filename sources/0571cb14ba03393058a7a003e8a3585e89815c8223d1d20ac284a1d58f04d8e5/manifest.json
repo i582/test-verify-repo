@@ -1,0 +1,30 @@
+{
+  "code_hash": "0571cb14ba03393058a7a003e8a3585e89815c8223d1d20ac284a1d58f04d8e5",
+  "source_bundle_hash": "b6bb28fac6ebd4096aa640b94ab6c3c2228061a7661fae4f80afa8949c3fdd1c",
+  "verified_at": 1784757402,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6-wasmfix.0",
+    "entrypoint": "p2_p.fc",
+    "params": {
+      "compiler_version": "0.4.6-wasmfix.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "eb41ef16c421b0c885e06abc2371129ec78a13bbce16bb8dfe9770085cb41266",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "p2_p.fc",
+      "content_hash": "fd4b5aa954f8c1ca29380ffdb65186ae7b5ab68f22c74ed3cf6f532cc4fc2734",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
