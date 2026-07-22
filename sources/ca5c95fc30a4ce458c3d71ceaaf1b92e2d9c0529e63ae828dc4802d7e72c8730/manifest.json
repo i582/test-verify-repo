@@ -1,0 +1,40 @@
+{
+  "code_hash": "ca5c95fc30a4ce458c3d71ceaaf1b92e2d9c0529e63ae828dc4802d7e72c8730",
+  "source_bundle_hash": "ef6aa74f81ffedc2159cc3aabf1b89aa63abf5c7046d0728ba1daf76a33ac195",
+  "verified_at": 1784758695,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.0",
+    "entrypoint": "sources/wallet.tact",
+    "params": {
+      "compiler_version": "1.5.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TokenWallet.pkg",
+      "content_hash": "2f6f04575a4da701d230c2168f2afe76824da401f934ffd5102fc093b97914bb"
+    },
+    {
+      "path": "contract/sources/wallet.tact",
+      "content_hash": "963caa67983cc37b24ed00391b670c8dfdb36b3ecb9c391ca4a5bb24fec9ce37"
+    },
+    {
+      "path": "output/TokenWallet.abi.json",
+      "content_hash": "16459b6ff3189d4d68e8677679c440d98d42010e19c8d668a306a05f6efe2e5c"
+    },
+    {
+      "path": "output/TokenWallet.types.tolk",
+      "content_hash": "10ee5e2538d7b538fec8dd270a5fecf1974a16e12703ece444940f40ccf0fcb5"
+    },
+    {
+      "path": "output/verifier_TokenWallet.abi",
+      "content_hash": "02e6c5da69cc67a8eda64aa1e2e5584272e7d9504fff46559076034ecec9cbaf"
+    },
+    {
+      "path": "output/verifier_TokenWallet.pkg",
+      "content_hash": "a54de484863ac03a7ca1cbaf905320cabbd8df51402c54c2485d3bd57ff27b93"
+    }
+  ]
+}
