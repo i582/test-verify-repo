@@ -1,0 +1,40 @@
+{
+  "code_hash": "bc781939f29820182bf48a2fafb2eec468975b87f6bdd331734fae0ab5a37888",
+  "source_bundle_hash": "1b1d82b11209f12a79517089b1d0b14118035bafcb0e70cbbecf0563f7367e74",
+  "verified_at": 1784757833,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/gift_auction.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/gift_auction.tact",
+      "content_hash": "621972eda113f92f5b70f97db9dafdb3463d2ad3f69e4ad067e1df1fce4ea4a0"
+    },
+    {
+      "path": "output/GiftAuction.abi.json",
+      "content_hash": "538889e83f6d23adec0fc9825dc6d92adc2e7cd92227f0c3136bc84de5796f3f"
+    },
+    {
+      "path": "output/GiftAuction.types.tolk",
+      "content_hash": "3db633f5ebafb69f936d540cf5fc4350524ecd0431d7954968c41988f8c6fcaa"
+    },
+    {
+      "path": "output/verifier_GiftAuction.abi",
+      "content_hash": "60647c8228df743215e1d961e082be0d94d6e8971fd0ff5ab4b00ac0ae4aec0d"
+    },
+    {
+      "path": "output/verifier_GiftAuction.pkg",
+      "content_hash": "7886dfc62ca569b18d99383cef8ee9660f4869db63002b47c7f6436d5b2520d2"
+    },
+    {
+      "path": "tact_GiftAuction.pkg",
+      "content_hash": "abd224b0464ea7fbfb0241c80130af2a821197696df224407ed236342f97f31f"
+    }
+  ]
+}
