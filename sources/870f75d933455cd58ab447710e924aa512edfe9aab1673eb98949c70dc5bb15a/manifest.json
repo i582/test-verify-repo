@@ -1,0 +1,30 @@
+{
+  "code_hash": "870f75d933455cd58ab447710e924aa512edfe9aab1673eb98949c70dc5bb15a",
+  "source_bundle_hash": "f9c33c28fe2d558df733afbff473284853d3436629b720ec76549080edf8e6f6",
+  "verified_at": 1784758998,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "Jetton_JettonMinter.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Jetton_JettonMinter.fc",
+      "content_hash": "2a6be19438358e3a694ad4af9af186f18906c98a3bb2e755b928f95bd8d03822",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "a560d0fcb08f303b07863a1a28663fec3ab305ee3f79b1fb1935afa73a321243",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
