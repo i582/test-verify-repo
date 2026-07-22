@@ -1,0 +1,36 @@
+{
+  "code_hash": "d93fe61cb1363a2555e179454b425c0e265831fef15771fc7376aec43dd4c3ce",
+  "source_bundle_hash": "d9bbaf0bb742376c11fa4d0a3410b112f77632ea66774b6ed3fa4f7f61d423b3",
+  "verified_at": 1784762670,
+  "compiler": {
+    "language": "tact",
+    "version": "1.0.0",
+    "entrypoint": "contract/Users/manylovv/code/ton-blueprint/contracts/my_contract.tact",
+    "params": {
+      "compiler_version": "1.0.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contract/Users/manylovv/code/ton-blueprint/contracts/my_contract.tact",
+      "content_hash": "67e1bcc57d4e3f830aa1195723ffdcb72be84f6819d1db242d9e7ff5215622bc"
+    },
+    {
+      "path": "output/MyContract.abi.json",
+      "content_hash": "93d90b62c0bfbe06a391d5300d740dbb3baeb097b8d4eba6d17155396f297aec"
+    },
+    {
+      "path": "output/MyContract.types.tolk",
+      "content_hash": "c272f478d26892e6eea3d1c99ec34e8eddbb2d47ba26ace20316a859a079eb94"
+    },
+    {
+      "path": "output/verifier_MyContract.abi",
+      "content_hash": "6de69ca5b135c7f09a8a719d8636bfb9ba683acfe649714f6117d4785d1ce774"
+    },
+    {
+      "path": "output/verifier_MyContract.pkg",
+      "content_hash": "9807ae7af90a76e699021eb0ab450412cf367001bb915c138902a9c425686fb5"
+    }
+  ]
+}
