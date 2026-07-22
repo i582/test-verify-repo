@@ -1,0 +1,30 @@
+{
+  "code_hash": "e39704e4d609b93e65d9b27e1df448d215214772ec048eb0111eb2ada96a3f26",
+  "source_bundle_hash": "6ae078cc1ec6160bcfc65e616d2576d3a9a9ebbee031ab10ee766ed5f2e6348d",
+  "verified_at": 1784758677,
+  "compiler": {
+    "language": "func",
+    "version": "0.3.0",
+    "entrypoint": "main.fc",
+    "params": {
+      "compiler_version": "0.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "main.fc",
+      "content_hash": "ce276ab9ca528b6a37cbedbda91ba427b50aa9d59e6334957e4835f614aba52f",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "4d967399e9ec078959884816e6977f56dd90316c62f79f99dd36c438d51615eb",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
