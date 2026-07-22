@@ -1,0 +1,40 @@
+{
+  "code_hash": "f51a7a4ea1f5b91883838649de2f81b19ec0b2ef278152ee18219e462be23854",
+  "source_bundle_hash": "98d04a0da2ff4eb3342dfa013fdbbf1a8346734ca9f827784fb08cd3889c2975",
+  "verified_at": 1784758663,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "sources/contract/main.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "UXUYSwapContract.pkg",
+      "content_hash": "eac9071bdb169b0665f756dc4cde01fd85564034296bd26cf6d8eaaf870d9752"
+    },
+    {
+      "path": "contract/sources/contract/main.tact",
+      "content_hash": "d8abe704f69eee5a001e3b5450c7796dc5c79efefdf77c3531c01604474515af"
+    },
+    {
+      "path": "output/UXUYSwapContract.abi.json",
+      "content_hash": "55f53cfa3d6817b174b3b1f7633b230d8b1ef23bda8021d93b260c8ad13008c9"
+    },
+    {
+      "path": "output/UXUYSwapContract.types.tolk",
+      "content_hash": "2ab1ccc93dab288a2d48ab3e7849c524510cec4f13d0337bc00a36e742da9e4d"
+    },
+    {
+      "path": "output/verifier_UXUYSwapContract.abi",
+      "content_hash": "05a1d3686be69afaa33fe1ee2514625f605c8728c100b20d11fba809927b85a7"
+    },
+    {
+      "path": "output/verifier_UXUYSwapContract.pkg",
+      "content_hash": "e884078120bef1e33054abb2c4f9da6934524024d96af8489fa3b5baccebcada"
+    }
+  ]
+}
