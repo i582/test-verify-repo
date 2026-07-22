@@ -1,0 +1,48 @@
+{
+  "code_hash": "a2bb71f5877ea782cdbf96671c1eab2f57ca2f8a6ecf3503deaa911f99be775f",
+  "source_bundle_hash": "34da649b45dd257386b23253544e9ed08ddf5164a3432b65af3227bc34494166",
+  "verified_at": 1784757741,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/gramx.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/gramx.tact",
+      "content_hash": "3eb1f7e64e0b90b872d453abb667586e71a32105b0dfe1c1fdf6fee4f82ff986"
+    },
+    {
+      "path": "output/GramxToken.abi.json",
+      "content_hash": "172516be4d78953e048b4b224b7243160b4862c1bd96074f81eb97aab3f9d4cc"
+    },
+    {
+      "path": "output/GramxToken.types.tolk",
+      "content_hash": "18b2b6964e38667799a26c778471f9c04d01ca5eb00d28b93ce4dc92532e584e"
+    },
+    {
+      "path": "output/verifier_GramxToken.abi",
+      "content_hash": "84eea2fc7610c6b726976b1106105c58963c12a4b05ca331d678262ad0060333"
+    },
+    {
+      "path": "output/verifier_GramxToken.pkg",
+      "content_hash": "b46387fa7fc992c273c0a98cea41e51db7c0595769fd240f718463c5a835f4c9"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.abi",
+      "content_hash": "64d4f3c16c4fd9f91d855c4a368140af55ef8f02721ce889cae358c6ba15b67b"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.pkg",
+      "content_hash": "d45aee9a765fe4a9a48be5d055bf09686a481752ee56370e5ad2c0b1946b831b"
+    },
+    {
+      "path": "tact_GramxToken.pkg",
+      "content_hash": "f571243a12e7993cdf3ce23ac4aa66c9110dd074e4d359f55865ca3bbf9e9df3"
+    }
+  ]
+}
