@@ -1,0 +1,30 @@
+{
+  "code_hash": "4e8bc34a5d904830af8617a01fb6d2c0ae5eef3512f7d9010a032796ac3f1a81",
+  "source_bundle_hash": "de0f0ccf11a6b909c20303572c4f9ff5f5db9325e3c44c2e950e551d782dd676",
+  "verified_at": 1784758817,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "coin_flip.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "coin_flip.fc",
+      "content_hash": "17e3f0eb5a0f9fb13a24a83e3ed845348ab3a4c98c8f667152d78bb0623dfa41",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
