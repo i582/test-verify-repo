@@ -1,0 +1,48 @@
+{
+  "code_hash": "f3fe68f30802372ab90b38db628327b556bbc0349bee1c63e73d2324a2f1dbaf",
+  "source_bundle_hash": "c68db446e4f72920b89086f817d950c0f76a63f91226b804d9f083ffbcaeae6a",
+  "verified_at": 1784758506,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "src/main.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/src/main.tact",
+      "content_hash": "7126e5d3ecc914e3076e51b41c11f36b19e29837c7739eb87efd3a1b0721d7f3"
+    },
+    {
+      "path": "output/TaxJettonMaster.abi.json",
+      "content_hash": "615959500e4fa7d2e0ab9caf87ba3001400eef9ddfc82a3d1c46353759e31c80"
+    },
+    {
+      "path": "output/TaxJettonMaster.types.tolk",
+      "content_hash": "3aa3c9ee61a37a632dd7be334b11e82113e7cf6da2c1088d7a4e115a9514c3f5"
+    },
+    {
+      "path": "output/verifier_TaxJettonMaster.abi",
+      "content_hash": "84f58bc50faecc428ff0f721d7c80dcae5ff641275881538260b4faebcf2fb58"
+    },
+    {
+      "path": "output/verifier_TaxJettonMaster.pkg",
+      "content_hash": "aa545d1ddba13c740cf11f85e49de63a8674e3ebcbb86fcb5a80010ef407b072"
+    },
+    {
+      "path": "output/verifier_TaxJettonWallet.abi",
+      "content_hash": "b8b6f8c86176213a5e8d345a1d1cc8ecd2db96b546e1c32b61127d25a59f69e1"
+    },
+    {
+      "path": "output/verifier_TaxJettonWallet.pkg",
+      "content_hash": "a5e739e2955108182d1527405efb017c8af4de41ac862e3e5f7c0c053946e023"
+    },
+    {
+      "path": "tax-jetton_TaxJettonMaster.pkg",
+      "content_hash": "2fb621cd2a9708dec7fc384b4592d7722dfd4a1cb414911af4c425c796a61157"
+    }
+  ]
+}
