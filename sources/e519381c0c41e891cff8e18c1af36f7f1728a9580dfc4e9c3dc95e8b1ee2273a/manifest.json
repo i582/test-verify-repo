@@ -1,0 +1,48 @@
+{
+  "code_hash": "e519381c0c41e891cff8e18c1af36f7f1728a9580dfc4e9c3dc95e8b1ee2273a",
+  "source_bundle_hash": "bca71e53bfc5f5b22b96304237fd9e7cb8418b7e9a04651ffa53ef650e02fc42",
+  "verified_at": 1784757885,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "PollFactory.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "PollFactory.pkg",
+      "content_hash": "c37f1c60592753a56e86f87061f6438e2cb31ea04d77e6e888eff96d676ea3c0"
+    },
+    {
+      "path": "contract/PollFactory.tact",
+      "content_hash": "50749e1aa9630e0a095b547cea38514671789112e88adc5da1c081f3a35e9148"
+    },
+    {
+      "path": "output/PollFactory.abi.json",
+      "content_hash": "0f0141635b9fc52652ef2f3577a99bb6538b9f428ff4c59fe7a250be6235b28d"
+    },
+    {
+      "path": "output/PollFactory.types.tolk",
+      "content_hash": "91c55e8d0e32e13617cde13cfc943e97b42759c5b7b0849e835cd98deea035f1"
+    },
+    {
+      "path": "output/verifier_Poll.abi",
+      "content_hash": "bd513ab55211c2a1a74c446802a958ed08ad1633b641bf690ba320c513e77f03"
+    },
+    {
+      "path": "output/verifier_Poll.pkg",
+      "content_hash": "4b63de57e3b198be6f2c27a5cc006550b4d7a40077e01e415d98afef1d2ac6e3"
+    },
+    {
+      "path": "output/verifier_PollFactory.abi",
+      "content_hash": "2961384ce495766b2bb5c2e607342e25c72938b5a6da9f8c6adeeb99d84c928c"
+    },
+    {
+      "path": "output/verifier_PollFactory.pkg",
+      "content_hash": "c4f8b2b519b83217addb204283ab0c61b59d01217546b558fe8363918193b291"
+    }
+  ]
+}
