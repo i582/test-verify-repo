@@ -1,0 +1,40 @@
+{
+  "code_hash": "93f873347f14f9f7ed70b00f4d0ddd6491f3f65e87339c4cabec621c6c1d19e3",
+  "source_bundle_hash": "c5eeb194ea76dd8abcc0a7355882d2ba9dc04c49189073d3abc006c60b838d9d",
+  "verified_at": 1784757269,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.0",
+    "entrypoint": "sources/CurrencyConverter.tact",
+    "params": {
+      "compiler_version": "1.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "CurrencyConverter.pkg",
+      "content_hash": "8c30946e571c26216a8177dc1b4556603f266e85ada65fb0dbf77ed304e8519c"
+    },
+    {
+      "path": "contract/sources/CurrencyConverter.tact",
+      "content_hash": "49f2530dc6efe612333db781053a975c0d6ef5a602149d550f9f054c8b692cda"
+    },
+    {
+      "path": "output/CurrencyConverter.abi.json",
+      "content_hash": "a9c6a1be60fbbfa30a4b87d946cbafe70be8341398ce6fbf90b2d4b75edeba4a"
+    },
+    {
+      "path": "output/CurrencyConverter.types.tolk",
+      "content_hash": "2c25ad3cf6ec4d48606934ae5c76beebfc6ddf979ac5c2427ae02c8802733060"
+    },
+    {
+      "path": "output/verifier_CurrencyConverter.abi",
+      "content_hash": "ef3a9984e1daf095118803770d460d20379e38a0b509486caf238d0694cafcb0"
+    },
+    {
+      "path": "output/verifier_CurrencyConverter.pkg",
+      "content_hash": "94a3a0d6a0fb022aeb457c6b8474ac88466f1cd220c9dd74238555ed60a4f141"
+    }
+  ]
+}
