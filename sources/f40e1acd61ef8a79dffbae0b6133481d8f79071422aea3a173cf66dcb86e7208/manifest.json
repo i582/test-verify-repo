@@ -1,0 +1,40 @@
+{
+  "code_hash": "f40e1acd61ef8a79dffbae0b6133481d8f79071422aea3a173cf66dcb86e7208",
+  "source_bundle_hash": "5b4a8a53167935863b022d9105c2a81def1c6aa7fbe9682a6cabaea2c6cd860c",
+  "verified_at": 1784758491,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.2",
+    "entrypoint": "contracts/forst_incr.tact",
+    "params": {
+      "compiler_version": "1.5.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/forst_incr.tact",
+      "content_hash": "c7657dd887575f94612eb2519d03d498b40c1394127fe09a7ff9764ce711fc5e"
+    },
+    {
+      "path": "output/ForstIncr.abi.json",
+      "content_hash": "a87bad89024c8b65d1932b5db42a5b9ce55b802946a54c3a8fdce3f84a64b764"
+    },
+    {
+      "path": "output/ForstIncr.types.tolk",
+      "content_hash": "5d4f544ec16b8153e5178d3342cdd22cae0f630ce4390c8203614baabb0bb550"
+    },
+    {
+      "path": "output/verifier_ForstIncr.abi",
+      "content_hash": "f91deb1c3b406ace9ff7902007d2af88cf569e9d023403f21c3e0d5e5dd28fb0"
+    },
+    {
+      "path": "output/verifier_ForstIncr.pkg",
+      "content_hash": "24f0ed82cf38388c1ac4e443966e279680f32cdb878e8f32d5ffc57546d9022a"
+    },
+    {
+      "path": "tact_ForstIncr.pkg",
+      "content_hash": "daa1b7ee1826310abd2c775d92d76123b5e5d25316d1bf648347b7f4a39ffd3d"
+    }
+  ]
+}
