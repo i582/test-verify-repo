@@ -1,0 +1,40 @@
+{
+  "code_hash": "e45efb0cb40f64ac705fd56964d7422d2d559776e33d59a06af404078d8ad931",
+  "source_bundle_hash": "e7536a37ad38d4f49dbe94fb398e85e5d01903e5d908ff93a69c3076c1a0e4f9",
+  "verified_at": 1784758717,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.3",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "LotteryContract.pkg",
+      "content_hash": "9d650786156e6e33686c5bb046db82d5ee8f267230db11400019afcb9d71c9a8"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "a9bb3a41240ad3399f35962bc2e1ae2f0f53eeaba985b754367398c17701106a"
+    },
+    {
+      "path": "output/LotteryContract.abi.json",
+      "content_hash": "6df9101b3138b0d8f4b7c7ff9f216e953a98069b937b3c526f22351912bcbc42"
+    },
+    {
+      "path": "output/LotteryContract.types.tolk",
+      "content_hash": "a4d02796543100aca6f63e60d4301e6bf46c9c95c7a4aa04ebf95e9267de9232"
+    },
+    {
+      "path": "output/verifier_LotteryContract.abi",
+      "content_hash": "64d38f084df54a28d7b9583b6461ee48c3efa2a00dad7168e08c45a733ff3f08"
+    },
+    {
+      "path": "output/verifier_LotteryContract.pkg",
+      "content_hash": "2bbfdf19c9883a3bd8fa7204d315c1ab1e6e8ee371538603cb921b051a3e01bc"
+    }
+  ]
+}
