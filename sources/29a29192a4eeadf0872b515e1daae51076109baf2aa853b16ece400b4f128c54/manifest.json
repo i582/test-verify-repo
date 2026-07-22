@@ -1,0 +1,72 @@
+{
+  "code_hash": "29a29192a4eeadf0872b515e1daae51076109baf2aa853b16ece400b4f128c54",
+  "source_bundle_hash": "29107017fd33bfafad061c728cfc2fca7aa73b0e53852c16a8ada0080c88b999",
+  "verified_at": 1784758916,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4-newops.1",
+    "entrypoint": "contracts/custom-jetton/jetton_minter.fc",
+    "params": {
+      "compiler_version": "0.4.4-newops.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/custom-jetton/jetton-utils.fc",
+      "content_hash": "7df35934c2de1f491dd2cb8b9740a802958c22d0746173bd7188835f121420a8",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/custom-jetton/jetton_minter.fc",
+      "content_hash": "1efb5ba9d8e018fd6ec659ca2e8e1546e1b3035ec8ef3371779e54968999f35d",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/custom-jetton/op-codes.fc",
+      "content_hash": "4a42d1b4ed736bfdaeccb5f8dd5b7c137dd44948b8b415f9b7ce7178507acd9f",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/errors.fc",
+      "content_hash": "ea10360088884a067f8e2b4a1b0b16450541e74c028e26f67b8989fab00ad48c",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/gas.fc",
+      "content_hash": "421305e024a1daad028e209aab7d3c530583ab092566f50646be99dd19a23491",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "77bbb6d203823fe8358f1eae01329d54f8ed955d8b9f4958e1b31acd95bf65fd",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/utils.fc",
+      "content_hash": "dda16190e2abf6dfdf4ba4a70b4f484e62326b501fb2251334624856330d454c",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/workchain.fc",
+      "content_hash": "e615f08e6eb8509ea8323c9aa3ff248320b9f9ac4a04908143c3b416c3d58e7a",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
