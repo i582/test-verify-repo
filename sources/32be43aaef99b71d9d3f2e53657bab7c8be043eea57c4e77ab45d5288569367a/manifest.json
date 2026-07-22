@@ -1,0 +1,40 @@
+{
+  "code_hash": "32be43aaef99b71d9d3f2e53657bab7c8be043eea57c4e77ab45d5288569367a",
+  "source_bundle_hash": "4e06a7b74ba49b4160a39ef46d66eb3dfba6425c7506b4b375f760624c115212",
+  "verified_at": 1784757133,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.2",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "bonding_BondingContract.pkg",
+      "content_hash": "dfe9859dd6ddda47fc2ba998ccfe12d7e6ce3ac04cdeb6dde44b60803683685f"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "4a650e1cddd4dc03e4d074f6a83fe5d7d242bbf06af70150262144d6ef1fb80e"
+    },
+    {
+      "path": "output/BondingContract.abi.json",
+      "content_hash": "03f8a2a2fd710be6167fd6351cc8ce12139e39acc114ce159c8b3ad3f510aad2"
+    },
+    {
+      "path": "output/BondingContract.types.tolk",
+      "content_hash": "dc435d1ea917c89b9bc462002509bc5b1d60857a866e002e31435ee72aeee0a8"
+    },
+    {
+      "path": "output/verifier_BondingContract.abi",
+      "content_hash": "0913ac203685c1abc98c8c0eac9342a907db8067f2aa970c5fd769ace5dfc9f3"
+    },
+    {
+      "path": "output/verifier_BondingContract.pkg",
+      "content_hash": "8e254e1bf8b82038923d3162a26ca6be62bf253ec24f349ca2902b00b718be0b"
+    }
+  ]
+}
