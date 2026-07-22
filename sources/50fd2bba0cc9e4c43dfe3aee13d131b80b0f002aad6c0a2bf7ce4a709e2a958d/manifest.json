@@ -1,0 +1,65 @@
+{
+  "code_hash": "50fd2bba0cc9e4c43dfe3aee13d131b80b0f002aad6c0a2bf7ce4a709e2a958d",
+  "source_bundle_hash": "a5d277af52174028607c39c0e7454d852b03699a39c52264eb64f671dfd3fb8d",
+  "verified_at": 1784756969,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "launch_pool.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "error_codes.fc",
+      "content_hash": "99fed78c66b2251e539fd678d9c8466e0a4377a0812dfc4a6e5d68b8bfc4fce8",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "launch_pool.fc",
+      "content_hash": "d519269f8084fd7cfd04c7e2aac22506826ea59537c9af4f0afa6ab91c369a28",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "launchpad_utils.fc",
+      "content_hash": "41576c313cb02bfc6b9a17225e289db4272d7a561cd2fd815f7ca7a4c5c6889e",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "messages.fc",
+      "content_hash": "5bf31b1f436ce8c5747df54a46a1c993be81e0caa357869f8d39c6ab9fef126a",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "op_codes.fc",
+      "content_hash": "5343b02d31ef9a8d9b583810a5a368373ac76e487c03ce65e6dd7cfef5bf5bba",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "params.fc",
+      "content_hash": "f9d1f798ccd21a59edd3ab3e697f92ab750bc574c7f13eb3b148cc2f7a659c37",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
