@@ -1,0 +1,51 @@
+{
+  "code_hash": "0b83b85daef06e54c21ed4200d17a7d25c7424c3074ae72f278fd842758bfa44",
+  "source_bundle_hash": "cc99b359dbc025276e24f4182c0da5486bc4915d92eebb91027881961093dc1a",
+  "verified_at": 1784757254,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "contracts/jetton-wallet.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/jetton-utils.fc",
+      "content_hash": "f825c69d4660f04267b2b0f2372d65819ac9c90b7bf828910bfc16a1bdcd9b19",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/jetton-wallet.fc",
+      "content_hash": "4a20ee0ea3aeec9bc627d4b7f7b318956f45fa399d2cb28214819e1d669bb570",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/op-codes.fc",
+      "content_hash": "803967bb1ab82be89ca4d9e530cd5f8b347426ab3c101c24c7377d09cfd543e0",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/params.fc",
+      "content_hash": "65925e6e45e20dbc836dbec2dfd660e874aa7f1049d187ae543b469018de9a7a",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
