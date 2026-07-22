@@ -1,0 +1,44 @@
+{
+  "code_hash": "9d52e868e55897c6b63d1b12736febc146177e60176a2e464a9cc88f7f0bd2d7",
+  "source_bundle_hash": "2654165d80e3d9e49f84a72eeac5f3170aebf3e21977d7089f213cd86267a93e",
+  "verified_at": 1784757444,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "ClockInChallengeV3.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/ClockInChallengeV3.tact",
+      "content_hash": "bd8b4bab135f3d7dbd5ba4978d9b64efcc058066afba07e02c4448e764fd8201"
+    },
+    {
+      "path": "contract/upgradeTrait.tact",
+      "content_hash": "327467f9956bbb0c50f7534bee9dfd83affc6d08cbe50ab31e5ab488ad122ed3"
+    },
+    {
+      "path": "contract_ClockInChallenge.pkg",
+      "content_hash": "97fd0dd6f36fbf3e99a4dd0abf12e8a5dfe02913e225b8606cdfb445520ba71b"
+    },
+    {
+      "path": "output/ClockInChallenge.abi.json",
+      "content_hash": "e9b4f5ecb8808451b43f14e73c52d43e3ab64a11953f9b027facf8067748d5d7"
+    },
+    {
+      "path": "output/ClockInChallenge.types.tolk",
+      "content_hash": "e4ecdcaa016f70b0f515d362b4ba8db23dbd32ac8965f3f3d1b5225b1405fc54"
+    },
+    {
+      "path": "output/verifier_ClockInChallenge.abi",
+      "content_hash": "17aa93c2cf94da4ebb4d0d121b4c611b7f6ce56f627eb665c7ff633f47fd8a91"
+    },
+    {
+      "path": "output/verifier_ClockInChallenge.pkg",
+      "content_hash": "d30a281099aa6ada3a3e838468da95dcaaf044579cb9f20b786a0d344ad1265a"
+    }
+  ]
+}
