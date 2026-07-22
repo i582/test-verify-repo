@@ -1,0 +1,65 @@
+{
+  "code_hash": "fe4615c400d5b284b16430ba22aa90d1966758e8b13299ea0b17d7d3f8c9110b",
+  "source_bundle_hash": "840f8b53b1e0d5e997fb7545d0dc31f002032eb920ef262e2303d9f228de9258",
+  "verified_at": 1784758727,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "contracts/nft/nft-collection.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/imports/error-codes.fc",
+      "content_hash": "51bdd350b46a465ed7ed4fe8ec45e13e84976f79f041b9535ca4ff59cedacd78",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/messages.fc",
+      "content_hash": "a408dd6ae2c8450538fda9b9e342e7d162d7d494ac0e5eb624f03a17f021ac0a",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/params.fc",
+      "content_hash": "6fc1b2729be06107388ed039b6af6db91a5b225fa25a645d63f125d7f05fff75",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "85b6c6ae859672e3316968590014adeefb8b16c506b545060b2e6e564b134716",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/nft/error-codes.fc",
+      "content_hash": "801fb51de97cb07d27bb8f449a5b1f49b1d3b48aadaec0add9a57b9bc5db59e4",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/nft/nft-collection.fc",
+      "content_hash": "0051df04af78755122f7f78ae425873b26eb4f6a992d13735877eb5ea3975385",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/nft/op-codes.fc",
+      "content_hash": "b6d2f01bc0169b6cef38ecfdf802ced6337cd15f784410af730f32ef4b15b79f",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
