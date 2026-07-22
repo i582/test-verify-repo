@@ -1,0 +1,44 @@
+{
+  "code_hash": "0c4383012f05a04ae4efc3158b812358306e1c16036ea16bfcf13bd3a5a5dcca",
+  "source_bundle_hash": "33a2e86ab3132da753265ca0f81dee13cba828822d626fa054de06bb713d7bc7",
+  "verified_at": 1784762126,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "contracts/jetton_master.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/imports/jetton_utils.fc",
+      "content_hash": "ba6a1fa245b5d452626372d0087b63008a09d9fcb6c2155c48d41c4ed7849a28",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/params.fc",
+      "content_hash": "65925e6e45e20dbc836dbec2dfd660e874aa7f1049d187ae543b469018de9a7a",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "c0481d16abaf3e9fdb77e2a8f04705d6980c33927bf9ca0b6e994836514124cf",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/jetton_master.fc",
+      "content_hash": "81239e5e03f0837e12f59597d2f4b7baeaf870d1851bb7350a0526c744688f15",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
