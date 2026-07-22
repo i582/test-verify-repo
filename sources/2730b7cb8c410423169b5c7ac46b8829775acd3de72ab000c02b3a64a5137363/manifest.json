@@ -1,0 +1,40 @@
+{
+  "code_hash": "2730b7cb8c410423169b5c7ac46b8829775acd3de72ab000c02b3a64a5137363",
+  "source_bundle_hash": "edcc973c95908c66dbb83319bdd8ab80f3cf322afec73d6b8198054ad5493322",
+  "verified_at": 1784758856,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.1",
+    "entrypoint": "contracts/jetton_pre_h_t_l_c.tact",
+    "params": {
+      "compiler_version": "1.4.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "LayerswapV8Jetton.pkg",
+      "content_hash": "fd339f958f47f8902bd75e6696a4d28f4e635e753c54cd319b9a295ca9983f81"
+    },
+    {
+      "path": "contract/contracts/jetton_pre_h_t_l_c.tact",
+      "content_hash": "2fba4af667845aa49ca0b1293dfac54e31d34f7557ac457b04189013b5c533a9"
+    },
+    {
+      "path": "output/LayerswapV8Jetton.abi.json",
+      "content_hash": "57c01a8af6472e504fd7ad8b94bd3651aafdd54fe2c8176aa5d7837dcb3d5d69"
+    },
+    {
+      "path": "output/LayerswapV8Jetton.types.tolk",
+      "content_hash": "10a208eb521b0b885a47015e1d304c5dccc062838867c2b2573a6263fc2c80bd"
+    },
+    {
+      "path": "output/verifier_LayerswapV8Jetton.abi",
+      "content_hash": "457d310fc75851a114730c10bffec9c6e3449d40a7b62c43ab4ca3a7e94bae3b"
+    },
+    {
+      "path": "output/verifier_LayerswapV8Jetton.pkg",
+      "content_hash": "90d0503a5971496b8f658a7a61bc3ac6da67d9bcf3f4dcb5812bd84d76abf0ae"
+    }
+  ]
+}
