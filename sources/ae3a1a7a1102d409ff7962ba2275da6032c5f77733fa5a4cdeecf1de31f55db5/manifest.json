@@ -1,0 +1,72 @@
+{
+  "code_hash": "ae3a1a7a1102d409ff7962ba2275da6032c5f77733fa5a4cdeecf1de31f55db5",
+  "source_bundle_hash": "892884fe263936fedd6cbc83133a86206b9c4da5869f21d6df7949219f7223cf",
+  "verified_at": 1784762934,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "new_token.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "constants.fc",
+      "content_hash": "bb36f77b6ec2b29a37758eba2b9eeb4e0894c2491e278764708ba6a1ec4871e1",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "discovery-params.fc",
+      "content_hash": "84960df6d03d1e68b73f561f297bfd8ce877c53d301c212a6bbf76bb33fe50e5",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "jetton-utils.fc",
+      "content_hash": "01298c5455040ae67be6390072666d887010d9557e23367ac8fc0cf68e70520f",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "new_token.fc",
+      "content_hash": "5ae0a6c66e675b02e706214b8bce060d6fac0d1ea6b41f5708904e0ff745e852",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "op-codes.fc",
+      "content_hash": "455139cd364dc6ce9bf37b0cd2aa0fbcce32478cd927dc8c4ccf37f97a0bb040",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "params.fc",
+      "content_hash": "4f8b4b538365835af9ed79439a38ac83037273559f9b53ca7ef1129e9873ef34",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "8aceeac1b4525d9148c6f64fb5567f4a913c2450ac42943c607e02d68fceaa65",
+      "include_in_command": false,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "utils.fc",
+      "content_hash": "d9417e17632e088471b56f8a83b4d17189c17d9b789acbfe92c1786f8c732038",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    }
+  ]
+}
