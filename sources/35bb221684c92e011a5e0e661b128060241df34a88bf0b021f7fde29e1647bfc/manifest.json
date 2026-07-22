@@ -1,0 +1,40 @@
+{
+  "code_hash": "35bb221684c92e011a5e0e661b128060241df34a88bf0b021f7fde29e1647bfc",
+  "source_bundle_hash": "9d92b566294b0a70db0efa111f60a5541ceb8dafb57fc0ad98dd8804c68ceb8d",
+  "verified_at": 1784757150,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/newbie.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/newbie.tact",
+      "content_hash": "77e944b4ffd9ebf8b96654911c2d8a9ac7ca65ba1c994b313e74c4b78378d7ee"
+    },
+    {
+      "path": "output/Newbie.abi.json",
+      "content_hash": "5e206dec9fac97ba71caa2c15c2470fa2f774f71d16d1b45600ed1a37456e3f8"
+    },
+    {
+      "path": "output/Newbie.types.tolk",
+      "content_hash": "89cbcdf3e771fb19418816b903a10295dd42f4ade8584d90ca7926446bd729f5"
+    },
+    {
+      "path": "output/verifier_Newbie.abi",
+      "content_hash": "8229d3d5bb4295bbb51935cfc29208aa0440c27031d21f8b4be4aa3a958b82f0"
+    },
+    {
+      "path": "output/verifier_Newbie.pkg",
+      "content_hash": "580f0c02f487052fe75bd676ba86ac521f4121cce778fba9a123dd7aa57f8184"
+    },
+    {
+      "path": "tact_Newbie.pkg",
+      "content_hash": "ee712fb132f57316aa609f834bef011e317d4d8662f0171b0b373b360f439a46"
+    }
+  ]
+}
