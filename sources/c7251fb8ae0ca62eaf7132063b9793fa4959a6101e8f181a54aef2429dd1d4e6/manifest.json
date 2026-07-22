@@ -1,0 +1,44 @@
+{
+  "code_hash": "c7251fb8ae0ca62eaf7132063b9793fa4959a6101e8f181a54aef2429dd1d4e6",
+  "source_bundle_hash": "ca8cce9e8858a5d0af529b6cbf8a8188cdbf03f99727bda78e1f4e1a471c7509",
+  "verified_at": 1784758540,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.7",
+    "entrypoint": "contracts/s_p_i_n_e_r.tact",
+    "params": {
+      "compiler_version": "1.6.7"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/messages.tact",
+      "content_hash": "3be4b4f4bf55891bbaa3e47d0118023e9dc7808e0c151a2adf51b93343de7b35"
+    },
+    {
+      "path": "contract/contracts/s_p_i_n_e_r.tact",
+      "content_hash": "2df7e0ad5d8be44b2be2f9af016d1fe883e317a746422f62c260cae8517ce81f"
+    },
+    {
+      "path": "output/SPINER.abi.json",
+      "content_hash": "83b8c28baff2f05007860fe0d1397145e12bef01e9a599a02fd2083839418b1c"
+    },
+    {
+      "path": "output/SPINER.types.tolk",
+      "content_hash": "a35e46f2ce80271d4efcdca3e178c64329bd042c8dae99609be331b54e6df119"
+    },
+    {
+      "path": "output/verifier_SPINER.abi",
+      "content_hash": "0a7d0b7cc36ec0e33c1e4f18b83cd6a7dad542811778de450d65678c010378bb"
+    },
+    {
+      "path": "output/verifier_SPINER.pkg",
+      "content_hash": "1dd3b6103b04746bce0beba5cb6c3c71238b7bad3afa104c98146207a11766d5"
+    },
+    {
+      "path": "tact_SPINER.pkg",
+      "content_hash": "ca181f77b3a817e89014aa61cccf9ba727b8125306028b492ea124f8745c63d8"
+    }
+  ]
+}
