@@ -1,0 +1,44 @@
+{
+  "code_hash": "27f4b37fa64afa058cdfc9bedfdb8905c0012371393573d522f7fb1f3e935728",
+  "source_bundle_hash": "2e236fe0769b57359c011a1cf2fa279761139a51da458ceed841fc4b63c8ad9e",
+  "verified_at": 1784758862,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "fluida.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "error-codes.fc",
+      "content_hash": "7be2dc1964cf5a7b43613cf3d58d60886a41537bf247c440173e842a65525294",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "fluida.fc",
+      "content_hash": "08bd1c98b22e000c8eaa6ad1a4fe23c68d7a1031c9425a9d19c1822fe2dad4ae",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "helpers.fc",
+      "content_hash": "9e026eaf94a9963bd1a7bc31e9b4412620ad4b39e6f130f4267450401320a862",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "8f42ab2d921984f354ee0d85544a446f3df7264d6bdf8555f1b2ddd427e1e925",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
