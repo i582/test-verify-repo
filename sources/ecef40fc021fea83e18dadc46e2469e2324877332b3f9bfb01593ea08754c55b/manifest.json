@@ -1,0 +1,30 @@
+{
+  "code_hash": "ecef40fc021fea83e18dadc46e2469e2324877332b3f9bfb01593ea08754c55b",
+  "source_bundle_hash": "8d3e90fe4673dc6e0037929a16d6983bbbba0c0281503662f2235d0d8b886e9f",
+  "verified_at": 1784758808,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "daily-checkin.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "daily-checkin.fc",
+      "content_hash": "2387b74437ff5a69a92f35e206c6e54f986c3443a4d0a8878c14179f890899a0",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "67b941b5fd9b900ad2b7f0259e98f8c359521f75107ade4bfc10a7676ada516d",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
