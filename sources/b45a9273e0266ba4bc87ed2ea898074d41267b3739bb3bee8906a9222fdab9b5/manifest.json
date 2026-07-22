@@ -1,0 +1,52 @@
+{
+  "code_hash": "b45a9273e0266ba4bc87ed2ea898074d41267b3739bb3bee8906a9222fdab9b5",
+  "source_bundle_hash": "a713a6f69c1ed80ada23c9564a87910e68c141042fa1049ce9755518fd90f2e0",
+  "verified_at": 1784757694,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/OakenCollection.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "OakenCollection_OakenCollection.pkg",
+      "content_hash": "fd53b9ba3728ef40d38fe2dbc9e94d0c40a09aaf35cccd98409623bfa78d3652"
+    },
+    {
+      "path": "contract/contracts/OakenCollection.tact",
+      "content_hash": "8f7f6bc808c8101e8ba347b7150c6e45b7fe3a7f2d10cee45f3684d060cfa326"
+    },
+    {
+      "path": "contract/contracts/OakenItem.tact",
+      "content_hash": "b4dfa48ed6e4ba8e226d54011cd7f150d7db36e239fdd9615ed0e2927c7566db"
+    },
+    {
+      "path": "output/OakenCollection.abi.json",
+      "content_hash": "9730bfc86a40fc24e38438e617ca922130cc16e41f1c1cf2955b915d04899813"
+    },
+    {
+      "path": "output/OakenCollection.types.tolk",
+      "content_hash": "a33111c697425aad3de707ffd3bd0761c4d19c6638c332cf2a5283d1b77d5963"
+    },
+    {
+      "path": "output/verifier_OakenCollection.abi",
+      "content_hash": "3a810c8e996dbb11d8f8bb6e7d72f3a0fdb20809b41bf63e522565131ce595fb"
+    },
+    {
+      "path": "output/verifier_OakenCollection.pkg",
+      "content_hash": "96d75cac826bf9eb937d99023f9050af60717187897a0d83b4389363866c8735"
+    },
+    {
+      "path": "output/verifier_OakenItem.abi",
+      "content_hash": "b37d21e34b1356bc8b9be3e37d60d640f80259a3139d120bc3c236e0fe62949b"
+    },
+    {
+      "path": "output/verifier_OakenItem.pkg",
+      "content_hash": "75a39a4ad40d96bd52a9997a828219e1a56c76b484448356723cb8070f87a224"
+    }
+  ]
+}
