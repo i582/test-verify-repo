@@ -1,0 +1,65 @@
+{
+  "code_hash": "bc2dabab1903c7fe9234aea86b30af05cf24cd70123e5ab1e15c786830baf53f",
+  "source_bundle_hash": "714f1134c5ee8d11f1d0d124e26935ca1d704a292d1a5d1a1be38bceebee88fc",
+  "verified_at": 1784757834,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "main.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "binary_commands.fc",
+      "content_hash": "4a16f7d5cec792ab3add622da4b852080444cc52a7278a670647331e921063e9",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "constants.fc",
+      "content_hash": "ec2dee6ca19a617727c856705fc378854657626559eb252394d97632e65ba689",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "main.fc",
+      "content_hash": "8d2760e1e369818e44e50d8f8b44f35fcb9c1376e410ec7dda47823f8f810bca",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "safe_math.fc",
+      "content_hash": "337d03436ac0f2b644b3a6839aa214f880b47b45d593f2c23a64dce1303764eb",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "security.fc",
+      "content_hash": "29a779d86e01ca7102d505a3bb1d908cea567ea9871d05c38209d86b24331cad",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "8cc6cf09df7594dcd444205d0cbbcae5cc74fd250a700210f8e507034caa2e40",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "utils.fc",
+      "content_hash": "4c917d4c9d43185f7b97e27d816ce05359d1156c744adbcf884f494785bebe12",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
