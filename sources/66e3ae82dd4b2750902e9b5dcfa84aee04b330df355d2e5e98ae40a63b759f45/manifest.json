@@ -1,0 +1,56 @@
+{
+  "code_hash": "66e3ae82dd4b2750902e9b5dcfa84aee04b330df355d2e5e98ae40a63b759f45",
+  "source_bundle_hash": "f7165ab76043cf39dfe570ad5e269a28061cd73e38e297195942b13ea8d4b791",
+  "verified_at": 1784756955,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/lucky_bank.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/lucky_bank.tact",
+      "content_hash": "c8208b5e1e3125483452b4e458c84ad390d6fc56119795ddccd7ea81cc5e8c87"
+    },
+    {
+      "path": "contract/contracts/lucky_wallet.tact",
+      "content_hash": "68b0938084cc8b75e9841890a43816c0af8ee43e78d074ff6c29c9d19443a079"
+    },
+    {
+      "path": "contract/contracts/message.tact",
+      "content_hash": "a473b41d336c4c6b5d1a3343be40619e4f73f48cfbaf42eb28175ed4ed75934f"
+    },
+    {
+      "path": "output/LuckyBank.abi.json",
+      "content_hash": "52b1c087298b7dc9b01376d817b78b8b359c1501eee0e80a3b0b879ad427036e"
+    },
+    {
+      "path": "output/LuckyBank.types.tolk",
+      "content_hash": "8adb4ed22f75c1aa467351cdfdb65e3506f5d6ef96ff4ec105d59abf0fc169eb"
+    },
+    {
+      "path": "output/verifier_LuckyBank.abi",
+      "content_hash": "152421efc73bc56aea415e6cee911f273b1c0e534742aa33cfdf7527bf032d35"
+    },
+    {
+      "path": "output/verifier_LuckyBank.pkg",
+      "content_hash": "d6d33724f6966c5e0e1ac6b540cb4c22d1bf1e021ffd75d0e39629e2959ce032"
+    },
+    {
+      "path": "output/verifier_LuckyWallet.abi",
+      "content_hash": "3014fe5036e7aa25209bd92448999f09b332e5440208c5729dbaf7d32f4db1b3"
+    },
+    {
+      "path": "output/verifier_LuckyWallet.pkg",
+      "content_hash": "38dd92c9de670fdef61aee407b5bc651af0fd4b9cd64eff6f991cf4cb3ac664e"
+    },
+    {
+      "path": "tact_LuckyBank.pkg",
+      "content_hash": "70c79ed84757ac4b3432960774924c4554988c4caa8eb045a296badc9d994f56"
+    }
+  ]
+}
