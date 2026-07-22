@@ -1,0 +1,52 @@
+{
+  "code_hash": "bb99fb2d50a7c927bd7c3060c3362fb601d1970fe9249e7b551747860695b7fd",
+  "source_bundle_hash": "625362ec429efb520f7be34c24cf746c1bdbf9c30cca3b2468782078c13dcfe2",
+  "verified_at": 1784757583,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/tact/storage_proxy.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/tact/protocol/actions.tact",
+      "content_hash": "7d37fdf83ee1b73ff22a903abc6558b3586f88068baee5546d15d2475055df7d"
+    },
+    {
+      "path": "contract/contracts/tact/protocol/opcodes.tact",
+      "content_hash": "f87f02005051ec30227caccdf503bcceaeeada0fb530e9a7c2bdceca0d347c89"
+    },
+    {
+      "path": "contract/contracts/tact/protocol/types.tact",
+      "content_hash": "3ad14ecc68df84250c0648c4deda918408c02dab67490f2aa46e326b8fe23cd4"
+    },
+    {
+      "path": "contract/contracts/tact/storage_proxy.tact",
+      "content_hash": "5f6048e9435e792e18aa7344e0e3618e89428384d80915e96fbc1ce7e3b0dfef"
+    },
+    {
+      "path": "output/StorageProxy.abi.json",
+      "content_hash": "e25a462b30c2ba38bc0e4b06c0de9c3e1c03d2b0ff50f9861d545a4c7206098b"
+    },
+    {
+      "path": "output/StorageProxy.types.tolk",
+      "content_hash": "aaee136512d3b5482d75b349e69f4aaf840e7132c44653cf01a9a68eab4755b2"
+    },
+    {
+      "path": "output/verifier_StorageProxy.abi",
+      "content_hash": "ca26dc3043d3e899cd536dbb2cd430e48efbc27c693dd560e882241ea0d71ea0"
+    },
+    {
+      "path": "output/verifier_StorageProxy.pkg",
+      "content_hash": "42e410b198e8ab3812d53bbf1b7046726b4e8c361f00cb9332b340b5ff7104b7"
+    },
+    {
+      "path": "tact_StorageProxy.pkg",
+      "content_hash": "b0b8e1c4aefe92c630ce1794e924709eef1bdbfdf14e91fd987017580c54c7d5"
+    }
+  ]
+}
