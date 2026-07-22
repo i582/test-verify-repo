@@ -1,0 +1,48 @@
+{
+  "code_hash": "e429736aeb3443fb220a5fd0bef7cf755f88153f29b29cf7b7d821e656a042c6",
+  "source_bundle_hash": "865c92799947ca3fb08c3c0e73c81d1a1d40fc5ba159f0298a140dc66e3bd9f7",
+  "verified_at": 1784758709,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.0",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "OneArmedBandit.pkg",
+      "content_hash": "332d7a69abc8be7fdb771bfaea62c76471e6c8191098f9d2cc807ae43520922f"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "9e08a00d503d20e269e58fb58f05ca84c0f63b483aaa2be56419783e2f4e7cc5"
+    },
+    {
+      "path": "output/OneArmedBandit.abi.json",
+      "content_hash": "303fc85554aa7c459aaee71fd3bf3df43ef1f49518cf62cfbe3a0d9f2b780822"
+    },
+    {
+      "path": "output/OneArmedBandit.types.tolk",
+      "content_hash": "efd6c2b280dd6e44338d25e35d34911f942f35b36e1a8b8ad25b08cf5ad3239d"
+    },
+    {
+      "path": "output/verifier_OneArmedBandit.abi",
+      "content_hash": "3e41a350d993406d60f0eb0fded731a28315c44921473e9a95ba1f3ad77bf40c"
+    },
+    {
+      "path": "output/verifier_OneArmedBandit.pkg",
+      "content_hash": "d82b7ae861996ef5f5a56e37dfb7faef8014d6e868002074a18e65901b05b58f"
+    },
+    {
+      "path": "output/verifier_Spin.abi",
+      "content_hash": "a077e3580c27806b909612d42869522a4766c2be887b6cd85ed7a26d8f2197e6"
+    },
+    {
+      "path": "output/verifier_Spin.pkg",
+      "content_hash": "345543d811098761ea64a69b526a703b0e2c999bfd51cfca9c4b5616f55f6e5d"
+    }
+  ]
+}
