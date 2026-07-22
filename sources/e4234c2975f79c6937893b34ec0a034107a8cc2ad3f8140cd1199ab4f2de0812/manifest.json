@@ -1,0 +1,40 @@
+{
+  "code_hash": "e4234c2975f79c6937893b34ec0a034107a8cc2ad3f8140cd1199ab4f2de0812",
+  "source_bundle_hash": "40b00f55da663e1e6241e585ce206bbc5ebad7fb0387a336bff3d884a03c4e1e",
+  "verified_at": 1784758713,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.0",
+    "entrypoint": "contracts/router.tact",
+    "params": {
+      "compiler_version": "1.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/router.tact",
+      "content_hash": "0463dcd4faa100ee877452055be5c39b69114d240f249a16e6e0cbbc97e93cfc"
+    },
+    {
+      "path": "output/Router.abi.json",
+      "content_hash": "f4a4f36033b036b55eb809d928cacff90db495fda9e1d79fbb20fba66e44b1e8"
+    },
+    {
+      "path": "output/Router.types.tolk",
+      "content_hash": "d8b97eab695a9653614baa243d2c242c55f5d544f53fbdb1c3d9398de2996701"
+    },
+    {
+      "path": "output/verifier_Router.abi",
+      "content_hash": "319fd0a381c825d88ad0c562c424b83331643c35425f1142fbbe98a4546911de"
+    },
+    {
+      "path": "output/verifier_Router.pkg",
+      "content_hash": "8656e787879f15737d01498b792750792b0bb082202d0b9be0d1140f134abd73"
+    },
+    {
+      "path": "tact_Router.pkg",
+      "content_hash": "3cf5fb2de3273e3bbcce912e023061ac5df67cf1f2ff7eadd560f607d958ae03"
+    }
+  ]
+}
