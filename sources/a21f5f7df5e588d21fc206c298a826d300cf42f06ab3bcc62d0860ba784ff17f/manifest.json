@@ -1,0 +1,40 @@
+{
+  "code_hash": "a21f5f7df5e588d21fc206c298a826d300cf42f06ab3bcc62d0860ba784ff17f",
+  "source_bundle_hash": "0124bfdc120e8d1c535e12c378fb240fa5014ff89099b72d2970c7bea1f8967d",
+  "verified_at": 1784757722,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/dex/amm_pool.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "AmmPool_AmmPool.pkg",
+      "content_hash": "38e8f2d8377b1d5906580c42fb30c2f64bf6f46950aef4e413de2e5ca6ca83a3"
+    },
+    {
+      "path": "contract/contracts/dex/amm_pool.tact",
+      "content_hash": "c20489e652bafa378bdd0bda1bcc9f1db58dd881e3c86b6cc901e0348f3a51f5"
+    },
+    {
+      "path": "output/AmmPool.abi.json",
+      "content_hash": "3559ee69652202fc098ea72a3fc72fb2110380b9c1b31e61487034a30d0bb556"
+    },
+    {
+      "path": "output/AmmPool.types.tolk",
+      "content_hash": "f54266b5faa4734353a75a81ef92efd06041cf7c451a35126ee3af50ce8646d0"
+    },
+    {
+      "path": "output/verifier_AmmPool.abi",
+      "content_hash": "80c787924077796b358c45af366a2cef1ec8dbb0e1692ab33c2c0b0a926d33dd"
+    },
+    {
+      "path": "output/verifier_AmmPool.pkg",
+      "content_hash": "062dee33c6919fd7af72e7d9252a43e2c770886dbbaa2e46140147ccfa331b68"
+    }
+  ]
+}
