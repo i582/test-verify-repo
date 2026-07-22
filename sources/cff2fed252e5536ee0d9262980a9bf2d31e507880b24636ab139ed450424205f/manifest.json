@@ -1,0 +1,48 @@
+{
+  "code_hash": "cff2fed252e5536ee0d9262980a9bf2d31e507880b24636ab139ed450424205f",
+  "source_bundle_hash": "691e2bbcd944f2d3e2ad8e316e468b4a87251cec8bea56b9188fb4a3fe6a0b1b",
+  "verified_at": 1784758680,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "contracts/AnzoEscrowJettonOfferUpdated.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/AnzoEscrowJettonOfferUpdated.tact",
+      "content_hash": "73f7e9c43a827af59bb2cf374680ec3c0dd822d3add9ad9b2e59b88a0fa1f3bb"
+    },
+    {
+      "path": "contract/contracts/common/jetton-common-structs.tact",
+      "content_hash": "e68ea2cedd3fff0480d7628462b98d6000adcf2b9d0d042be5b6509e49668585"
+    },
+    {
+      "path": "contract/contracts/common/jetton-utils.tact",
+      "content_hash": "3fc2b17a835a180b6c17708cb8d01a48d4b15e9585d87a55fcfdc56a3c0d9e71"
+    },
+    {
+      "path": "output/AnzoEscrowJettonOffer.abi.json",
+      "content_hash": "7a90eb141f0bc02eae30881330ba659ecf6e9ab7734b8a3a0216645435bd6166"
+    },
+    {
+      "path": "output/AnzoEscrowJettonOffer.types.tolk",
+      "content_hash": "4d09540f2e3f818efd3b36e15df76fd29bb8a43f9fec2eae99a6b1b42cb45cdb"
+    },
+    {
+      "path": "output/verifier_AnzoEscrowJettonOffer.abi",
+      "content_hash": "e94688cacf40bf827419bb8b77a72b3a3fea7017068881d7e4a1b416640f107a"
+    },
+    {
+      "path": "output/verifier_AnzoEscrowJettonOffer.pkg",
+      "content_hash": "4457152d0fd990519670d8b84ef4059ed3c1244f800fa9b29838ea78884a8a43"
+    },
+    {
+      "path": "tact_AnzoEscrowJettonOffer.pkg",
+      "content_hash": "a987bf41600a756c7b06b88ae819647ea281bc6d352fe66faa3a84aa22e5b370"
+    }
+  ]
+}
