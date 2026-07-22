@@ -1,0 +1,37 @@
+{
+  "code_hash": "ac498fc3c594b302d0e3ea812971e070d7e5376e0e7031d9f3663c42d3f0a687",
+  "source_bundle_hash": "284ce1f1dde2788cf3565504f89e057daea4069c6596b15a2011e8971a48db29",
+  "verified_at": 1784762686,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "verifier-registry.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/params.fc",
+      "content_hash": "65925e6e45e20dbc836dbec2dfd660e874aa7f1049d187ae543b469018de9a7a",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "8f42ab2d921984f354ee0d85544a446f3df7264d6bdf8555f1b2ddd427e1e925",
+      "include_in_command": false,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "verifier-registry.fc",
+      "content_hash": "478f8b3d961c2273254e00c72ef7369d91a664050f024599802f102911e0c8db",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
