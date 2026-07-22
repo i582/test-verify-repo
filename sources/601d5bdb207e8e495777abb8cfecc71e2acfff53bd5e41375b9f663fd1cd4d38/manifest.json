@@ -1,0 +1,40 @@
+{
+  "code_hash": "601d5bdb207e8e495777abb8cfecc71e2acfff53bd5e41375b9f663fd1cd4d38",
+  "source_bundle_hash": "d8a06ec953cfda9934272b4fab0cc0f8d2799a797f00b57f2c29af7f79aafdbc",
+  "verified_at": 1784757320,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.1",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.3.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MessageVerifier.pkg",
+      "content_hash": "4e52d8a3038e945de908e4de05850b3d0249f5f07f0731c34cb259512c6bd540"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "25786fcc1cba5fad34e3d0650aba0030aa2a88035080c850d2f012b626cc6783"
+    },
+    {
+      "path": "output/MessageVerifier.abi.json",
+      "content_hash": "017e248f5e6bd61813dd70d5368c055ad4cac6d4a2d17eac896ef0aaea32c9d5"
+    },
+    {
+      "path": "output/MessageVerifier.types.tolk",
+      "content_hash": "3463e327f18a6e9a4344c72eba18b4d8b02b3701e8235627e798e815d38a9547"
+    },
+    {
+      "path": "output/verifier_MessageVerifier.abi",
+      "content_hash": "6f772587ef71ccbf44e0ac8e044a8557aec0969936db3771de36cc87cbecfe14"
+    },
+    {
+      "path": "output/verifier_MessageVerifier.pkg",
+      "content_hash": "c57bb421f32f4bfbe57e75f81deaa92d56207255a7a57c235e9ced4325e48cab"
+    }
+  ]
+}
