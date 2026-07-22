@@ -1,0 +1,44 @@
+{
+  "code_hash": "df7bcf6ded2ce241631bf45174555d0fc2571f7c1f1902863a71af7755c9d16d",
+  "source_bundle_hash": "02743456baf0d803af7f0eec91919cccae104d1a8ad6aae02b700a2016c86b95",
+  "verified_at": 1784762801,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "offer-contract.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "func/opcodes.fc",
+      "content_hash": "5648099952f06024b3513b0a0fc5b548eccf9f9e2b873df3841332593ee461dd",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "func/stdlib-ext.fc",
+      "content_hash": "4087272c0cc1462869ab35fdbe1ae163e2ff29836a52fc96abf906f507daea22",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "offer-contract.fc",
+      "content_hash": "62aa8551ddb648ad690046babf9265cfd15db92ec8924e0fb00c63a53f2c162f",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "793eb8865fba65a4f7b549b845594d95112228cb42944ef4f9c10b5aaad84ff7",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
