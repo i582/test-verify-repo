@@ -1,0 +1,65 @@
+{
+  "code_hash": "d661cb2d2f3c764f383bb506586b681fec6896fc355515b4cba40676030f3349",
+  "source_bundle_hash": "9179d2ce0691c2f8af282086dbe6daa3ad93600048d9698e93f61c308edfdb83",
+  "verified_at": 1784762896,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.0",
+    "entrypoint": "bank.fc",
+    "params": {
+      "compiler_version": "0.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "bank.fc",
+      "content_hash": "ad5c38713ab59eb629c91493cb79ef3ecb937bfa8382a34e513848164a37bf9a",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/op-codes.fc",
+      "content_hash": "60d461bf5d089d35c21b5c12c1a9333603978058de344c08ff761ef0c0093d9c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/order-utils.fc",
+      "content_hash": "ec348afebe6911a13682e8a607be31ec42022473f51ee12332fbb53d08c9db6c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/params.fc",
+      "content_hash": "65925e6e45e20dbc836dbec2dfd660e874aa7f1049d187ae543b469018de9a7a",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "order.fc",
+      "content_hash": "30e8383196783946d8b5c030071853ec053f13b70e0a1f0ca0572b774fab8828",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "shadow.fc",
+      "content_hash": "d3d73dd394079dd03cfbd0fcd253ccf7e47937d644fec391699f1870937e40f5",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
