@@ -1,0 +1,44 @@
+{
+  "code_hash": "fe05b9f31a4c200ef51036d05a7ce05fd4b024716c4a8bcbc56c603302e1e3a9",
+  "source_bundle_hash": "c4be0e7fbd4dfdb010864a0b752226b5628fae66197ae7cec4bef26176eff8f3",
+  "verified_at": 1784758723,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.2",
+    "entrypoint": "contracts/metadata.tact",
+    "params": {
+      "compiler_version": "1.1.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/messages/metadata-messages.tact",
+      "content_hash": "b46775b620a206b6adff9e5ed26d314a0ce7f332ec11fada57f18c2fce686223"
+    },
+    {
+      "path": "contract/contracts/metadata.tact",
+      "content_hash": "c807eda361a4faeb6d2cb081c63a866f09d7c5e66e34fa3dd16c449df3403f69"
+    },
+    {
+      "path": "output/Metadata.abi.json",
+      "content_hash": "6cc326197f8015d1ff7e4334d30c23627bd025e87babbaa93811ee606979878b"
+    },
+    {
+      "path": "output/Metadata.types.tolk",
+      "content_hash": "2213dd086d6340dd751eacb3fdac4585ee8a7dc23edf20ca8acb69c3ba8774a4"
+    },
+    {
+      "path": "output/verifier_Metadata.abi",
+      "content_hash": "b9a2a6d1258a6152c879252d6924c3eb47b3fd4e50aa76875765a091bb6e033f"
+    },
+    {
+      "path": "output/verifier_Metadata.pkg",
+      "content_hash": "6f6f487d56995b1b9565a566e82809270ad7355d57b6478848073911fcee2262"
+    },
+    {
+      "path": "ton-vote_Metadata.pkg",
+      "content_hash": "f8364522971632b2de26fcdf49277060db5f91f8bb54e4c1064271f13b02ddd5"
+    }
+  ]
+}
