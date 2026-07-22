@@ -1,0 +1,79 @@
+{
+  "code_hash": "c74c2ca7311c8c6edcacacc06c319b8c5b4a7be7cc00e7b4ffb7bf78514ce6bf",
+  "source_bundle_hash": "c70d7334b568d28417cdcfc08cb52eed5688f50def84a3f24f321d01606a6039",
+  "verified_at": 1784763054,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6-wasmfix.0",
+    "entrypoint": "jetton_minter.fc",
+    "params": {
+      "compiler_version": "0.4.6-wasmfix.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/ccl_utils.fc",
+      "content_hash": "fd103609c86d29e4a012e798a32fce57827ec3eae72a57703ec73be1ac29bcdd",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/jetton_gas.fc",
+      "content_hash": "f3066c83dca52049474859132b3cb293ed21a8639d82e617ec057ce1afa6e7f4",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/jetton_utils.fc",
+      "content_hash": "233f6651353653012153dd201a4048bac4c2c57d3c2ff386d301ffa0835c20a4",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/messages.fc",
+      "content_hash": "8a9895a1c38a426213d3d3b6960c882311e3eeab2e9a77a2cbd779d0544eb02e",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/precompiled_gas_const/ccl_gas_utils.fc",
+      "content_hash": "f8d4bc7eb95ba27a331354ac148edb0f5105397be0bf7cb3d38fdbf145267985",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/precompiled_gas_const/jetton_gas_utils.fc",
+      "content_hash": "52ec64bd45dfaeeb1a5484521abce4e3cb740997fe24057cf76e212936e1e549",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "0430ee5ff3cf25c8dbe4e739f37fd265fc6384d6b08cec6802b3f7e64f7dcd58",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/utils.fc",
+      "content_hash": "cb8f5ef4bd9635603ef013a82b1f6b152c56f2b4a422445d0dee82743c855d25",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton_minter.fc",
+      "content_hash": "f906160a90e9da81cbd5d4c0750688ca5f6bc6dd6dd7d03c442c400e978d9dc9",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
