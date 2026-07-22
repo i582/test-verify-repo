@@ -1,0 +1,51 @@
+{
+  "code_hash": "be4d2edf629225034afe056ed5d98fd3cec5aa317ec443b78d6584937d98a657",
+  "source_bundle_hash": "91eb94d4f1e34c0d98307e9475e48008645e2de947f7fe66dce116a8ea206bea",
+  "verified_at": 1784757627,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.3",
+    "entrypoint": "jetton_minter.fc",
+    "params": {
+      "compiler_version": "0.4.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/jetton-utils.fc",
+      "content_hash": "c2ebc7a3dd8bdf124a93dc15a4a326c0c73cb28b8fff93637a0b7277f0567df7",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/op-codes.fc",
+      "content_hash": "b9a2f038f09f020c0d3fd13dcd6fa9838716b49f479edc60eaee7f27883e8079",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/params.fc",
+      "content_hash": "a2168a76a901818b715a1d8e00341f2885867bd03cd5b32ff2d06cc32beb91e9",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "jetton_minter.fc",
+      "content_hash": "4dcbf8e2dd3e2b2859e835353ae729d115a22de5989af15831364a06e09e696c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
