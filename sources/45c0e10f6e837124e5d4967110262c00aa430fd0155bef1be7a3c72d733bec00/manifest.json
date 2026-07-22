@@ -1,0 +1,37 @@
+{
+  "code_hash": "45c0e10f6e837124e5d4967110262c00aa430fd0155bef1be7a3c72d733bec00",
+  "source_bundle_hash": "a539e71bcce13382a85a8551f8f3dba85e7366861c013d0991203c54ee045344",
+  "verified_at": 1784758977,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.3",
+    "entrypoint": "lottery.fc",
+    "params": {
+      "compiler_version": "0.4.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "libs/stdlib.fc",
+      "content_hash": "189dc2176185de4244bae80d5fdf085fd32adf17d9055cd9effb04fd5a9069c4",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "libs/utils.fc",
+      "content_hash": "52d950559d7c04f8e6fb9e47420cea8bb0bef2fff412847a15fa230ac7bc458c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "lottery.fc",
+      "content_hash": "bdb8d94157c236c4b99e7c7fa89a3b65cf343d9109306e2c7e3a88c6771e0f11",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
