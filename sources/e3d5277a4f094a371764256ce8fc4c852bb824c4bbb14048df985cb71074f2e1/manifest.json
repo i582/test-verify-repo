@@ -1,0 +1,72 @@
+{
+  "code_hash": "e3d5277a4f094a371764256ce8fc4c852bb824c4bbb14048df985cb71074f2e1",
+  "source_bundle_hash": "6cbbf9a963e8c13391be2a96f7879fa3bca267db7780d889307385754e8f19df",
+  "verified_at": 1784758672,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "contracts/nft/nft-collection.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contracts/imports/error-codes.fc",
+      "content_hash": "51bdd350b46a465ed7ed4fe8ec45e13e84976f79f041b9535ca4ff59cedacd78",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/messages.fc",
+      "content_hash": "a408dd6ae2c8450538fda9b9e342e7d162d7d494ac0e5eb624f03a17f021ac0a",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/op-codes.fc",
+      "content_hash": "2472a7df5284c49028e68866a0d1652e5cdc962ecb38a0f859836139be430eb6",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/params.fc",
+      "content_hash": "6fc1b2729be06107388ed039b6af6db91a5b225fa25a645d63f125d7f05fff75",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/imports/stdlib.fc",
+      "content_hash": "85b6c6ae859672e3316968590014adeefb8b16c506b545060b2e6e564b134716",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/nft/error-codes.fc",
+      "content_hash": "801fb51de97cb07d27bb8f449a5b1f49b1d3b48aadaec0add9a57b9bc5db59e4",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/nft/nft-collection.fc",
+      "content_hash": "e47198e790c3a39cef5888c69898e36a8377aba736ec4f7e6360a0f745e91795",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "contracts/nft/op-codes.fc",
+      "content_hash": "f241559d44c2019bd7de930091ccdfe965ece7cd75c6b54922be29f364b72f6a",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
