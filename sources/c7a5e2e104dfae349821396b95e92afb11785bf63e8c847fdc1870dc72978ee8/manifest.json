@@ -1,0 +1,48 @@
+{
+  "code_hash": "c7a5e2e104dfae349821396b95e92afb11785bf63e8c847fdc1870dc72978ee8",
+  "source_bundle_hash": "3eeaf1e6c3e4205ebae2906701b80fbee6add645d3c3c4cb2e959090264f2ba5",
+  "verified_at": 1784758553,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/skate_gateway.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/asm/cell_ext.tact",
+      "content_hash": "fbb1cb31eac7052d479b3b7c8b04015d6f780952554404bbd73de25e41e5c507"
+    },
+    {
+      "path": "contract/contracts/skate_gateway.tact",
+      "content_hash": "64d45e269015fbd0e5b5aac0d956f070d4ff4ba4e608409f89dddbbc2c92f0d9"
+    },
+    {
+      "path": "contract/contracts/traits/skate/ISkate.tact",
+      "content_hash": "5a9459a096430f879a62500961defc6cdf50ef3b22b337dc70e9faa83f9b8ec6"
+    },
+    {
+      "path": "output/SkateGateway.abi.json",
+      "content_hash": "207106678df784bf5d76c0e49a762c5585f83064465995e5d96f95dc22abe6ec"
+    },
+    {
+      "path": "output/SkateGateway.types.tolk",
+      "content_hash": "eb529ecd78a4629d9e4f06ab609fac8b359f26d14483be7af38a959816d46a14"
+    },
+    {
+      "path": "output/verifier_SkateGateway.abi",
+      "content_hash": "238f055e8136abeba03c49c71f7272d76d0dbbdc8ea3b6fa0ae6cccb1e861553"
+    },
+    {
+      "path": "output/verifier_SkateGateway.pkg",
+      "content_hash": "24fc3eb3be23d63691b553669206f80b6978675c91ff9dabe6d2925b6affc9bf"
+    },
+    {
+      "path": "tact_SkateGateway.pkg",
+      "content_hash": "fa0d08d7d85d96aa91f28fed32ce42cd041929ad751605153e7a0f5e02ac973c"
+    }
+  ]
+}
