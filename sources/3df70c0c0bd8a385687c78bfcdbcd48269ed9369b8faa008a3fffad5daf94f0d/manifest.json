@@ -1,0 +1,40 @@
+{
+  "code_hash": "3df70c0c0bd8a385687c78bfcdbcd48269ed9369b8faa008a3fffad5daf94f0d",
+  "source_bundle_hash": "b2f58f9a9a97462fd700a4a925ee77233f3adf13e19bbeb89c7b077f3b7fd66f",
+  "verified_at": 1784757221,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.1",
+    "entrypoint": "contracts/text.tact",
+    "params": {
+      "compiler_version": "1.4.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Text.pkg",
+      "content_hash": "38fcdb0e16d937ab43ba81d759b3405cd5923d702b58dd25bbaa4dc655adef73"
+    },
+    {
+      "path": "contract/contracts/text.tact",
+      "content_hash": "0872b152bdb4800a5dc50783b4b4549f6ec8d7622ce6f58947e97721877eaa8d"
+    },
+    {
+      "path": "output/Text.abi.json",
+      "content_hash": "03847a9625e0a4b44d7880a27316c04bee8c86f7157e9925698fdf37a6c8878f"
+    },
+    {
+      "path": "output/Text.types.tolk",
+      "content_hash": "c52db7815a21049e2c295869091e8b4be25fc2b30193a1bed09d93a89bb4ac98"
+    },
+    {
+      "path": "output/verifier_Text.abi",
+      "content_hash": "539dacd5e770bfa3197d643d9a3bc580dd01510d1518dc64da30670ba053d8d1"
+    },
+    {
+      "path": "output/verifier_Text.pkg",
+      "content_hash": "fdedaefe218bf4539d96ab2814666ba7ba084572541ced85a61fd68df4b835c9"
+    }
+  ]
+}
