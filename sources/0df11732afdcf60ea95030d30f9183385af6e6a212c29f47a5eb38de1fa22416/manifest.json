@@ -1,0 +1,40 @@
+{
+  "code_hash": "0df11732afdcf60ea95030d30f9183385af6e6a212c29f47a5eb38de1fa22416",
+  "source_bundle_hash": "9b72e430e01a7e9b91b6dcc61be7ae80715a2acb5fca87d4a773b036f2f94d7f",
+  "verified_at": 1784756884,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "src/main.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "LotteryFortuneSun.pkg",
+      "content_hash": "3989d88730b4cd9dd27f89ba78711f6b31b8fbfdd881f66c08d316288df4b544"
+    },
+    {
+      "path": "contract/src/main.tact",
+      "content_hash": "590d63b03d5a284a76e81f0b804178d1a555c2d57176793fe908e1cdac14ce80"
+    },
+    {
+      "path": "output/LotteryFortuneSun.abi.json",
+      "content_hash": "8d5e65474dcd2c6b7c029aaf31c8816185cd6b1a408ceae2d9e6c47a026ac75b"
+    },
+    {
+      "path": "output/LotteryFortuneSun.types.tolk",
+      "content_hash": "858ec663c86ccbf5b75aaa369a938588e165b1381e7502fe74e442a8d38c46e6"
+    },
+    {
+      "path": "output/verifier_LotteryFortuneSun.abi",
+      "content_hash": "d9480d368535aeb1acfc11a6b53460cb66205bb4a6d0196b586be7054e279a80"
+    },
+    {
+      "path": "output/verifier_LotteryFortuneSun.pkg",
+      "content_hash": "4dfd6c7fad7c7da58c647a38664fee256c444203a3876823b85fe2e5f14041c0"
+    }
+  ]
+}
