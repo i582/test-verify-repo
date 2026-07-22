@@ -1,0 +1,40 @@
+{
+  "code_hash": "c61ec48f5988f45a21f5175da1e4ffc37796fbdb078c1599e2ff97e0b21e2a4d",
+  "source_bundle_hash": "83f76ddfa636586b3069bf9fe7e57f6af6fabec5b2cb0eea67d673211484ca0e",
+  "verified_at": 1784758785,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "sources/storage.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "Storage.pkg",
+      "content_hash": "1e690ef663d3559e952051e8430a81eee145881cac546b6b8bda2f6541a231b5"
+    },
+    {
+      "path": "contract/sources/storage.tact",
+      "content_hash": "e6f526d388abe2a89ac04d569f9f9d7560db11039add97d1fab4082b40e6e5f7"
+    },
+    {
+      "path": "output/Storage.abi.json",
+      "content_hash": "0329b57aa3e3d2f81beedacc46d0e3f81090e96f3103f81e77385c240890ff91"
+    },
+    {
+      "path": "output/Storage.types.tolk",
+      "content_hash": "abddbd1245f5270515469643d781e40bb9f0ab1a2d491459561cb3397df9120c"
+    },
+    {
+      "path": "output/verifier_Storage.abi",
+      "content_hash": "902d4b9319c9af892b7b8c20d615aa952baf96a8106827e73587b0b39b84f2d5"
+    },
+    {
+      "path": "output/verifier_Storage.pkg",
+      "content_hash": "6ea1d144d7064edcf595da89ba1f2bf502cac57ea845e9f0256f9f8100f3fec5"
+    }
+  ]
+}
