@@ -1,0 +1,51 @@
+{
+  "code_hash": "ec13884c4cff2f61ba9a90cbb3ca36219a1ad185bf2f6220b4541765a14e040d",
+  "source_bundle_hash": "fbc5a45c1c32107dcaeb38645c7a5403abf4a4366212b653ae239cb79286e924",
+  "verified_at": 1784758802,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "bridge.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "bridge.fc",
+      "content_hash": "28f5ee1c1d56c0a19063f07c91a4e3dcdff0e9ba7d50fe425faee34a6fa5cf28",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "76e37e26821d9a63f407aa65c17391322e9e389ba68677709c63b73e0762a4ed",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "utils/jetton-utils.fc",
+      "content_hash": "b11ecca262f7b816b80ac7f97687e1cbbff785e2f68d6e1c707613de24d122a1",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "utils/op-codes.fc",
+      "content_hash": "f32104299c0f95a13303565df6901d3f4b0e0e7094adeb0c4c56949595551e13",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "utils/workchain.fc",
+      "content_hash": "9361990480c4642a10a15deb4e3597075052873d584c2ab1cb953e4ae22964c0",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
