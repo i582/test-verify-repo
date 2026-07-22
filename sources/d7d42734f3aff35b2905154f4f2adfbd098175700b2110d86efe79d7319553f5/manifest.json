@@ -1,0 +1,30 @@
+{
+  "code_hash": "d7d42734f3aff35b2905154f4f2adfbd098175700b2110d86efe79d7319553f5",
+  "source_bundle_hash": "52056874a4a825c225906cb6e22c7ab8aa02d3e7670ab31f3d7e7df50dd9142b",
+  "verified_at": 1784757594,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6-wasmfix.0",
+    "entrypoint": "usdt_disburse.fc",
+    "params": {
+      "compiler_version": "0.4.6-wasmfix.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "c89ed4650e333896513036fa7a0ded70c90e5599e4ab527f21715a0b45142119",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "usdt_disburse.fc",
+      "content_hash": "d2cea87ae29842538e94d0875ce6953e513ac0f6188b307cd00a581aaaec8028",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
