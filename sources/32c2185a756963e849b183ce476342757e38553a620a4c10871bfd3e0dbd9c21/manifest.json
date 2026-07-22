@@ -1,0 +1,40 @@
+{
+  "code_hash": "32c2185a756963e849b183ce476342757e38553a620a4c10871bfd3e0dbd9c21",
+  "source_bundle_hash": "7756ec22f78b6db70f7baa0874574e77bf39f0d89d861effea8ac4e81f0d2d9d",
+  "verified_at": 1784757126,
+  "compiler": {
+    "language": "tact",
+    "version": "1.3.0",
+    "entrypoint": "contracts/simplepj.tact",
+    "params": {
+      "compiler_version": "1.3.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/simplepj.tact",
+      "content_hash": "8ca066453cb4f1eeb4542fdf50bd94a56fff5c8ff9c45d6fda63dadb7f8be398"
+    },
+    {
+      "path": "output/Simplepj.abi.json",
+      "content_hash": "9a13f9b2ccddfda4eb909e042c1b9330d274c4bc3493024670fdf9468c0c9797"
+    },
+    {
+      "path": "output/Simplepj.types.tolk",
+      "content_hash": "da66e2b1f0c8a4c242a538fd71c766c6a355ef28a4fdc7d961941cfb1466471d"
+    },
+    {
+      "path": "output/verifier_Simplepj.abi",
+      "content_hash": "05f908656ced06b7730651392903da134413c6fbcca928926ace672deee42f8c"
+    },
+    {
+      "path": "output/verifier_Simplepj.pkg",
+      "content_hash": "edf904bacdaefeb8ee42af009a89ad597cdfd89ddcb0a488579b648a57221086"
+    },
+    {
+      "path": "tact_Simplepj.pkg",
+      "content_hash": "d29ecc29f8c056e615444ca6ea34fa90ce14ac60121f8f8edff21e893594f137"
+    }
+  ]
+}
