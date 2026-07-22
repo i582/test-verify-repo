@@ -1,0 +1,72 @@
+{
+  "code_hash": "93dcad96c6d9923e43b9e4df704bdbe365dde4f24c4098062674d2d36cea629c",
+  "source_bundle_hash": "10b9983da73d31b3c70e29b9fae1145e5d134d6d661c046cb4a94d10253f9a0c",
+  "verified_at": 1784762423,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4-newops.1",
+    "entrypoint": "jetton-minter.fc",
+    "params": {
+      "compiler_version": "0.4.4-newops.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "gas.fc",
+      "content_hash": "3527cb3e34ecd36d9c900a57bf63462ff01c966423f9d1dd431b0ad1d5cb46a7",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "helpers/librarian.func",
+      "content_hash": "ba2f316726d9a5b7d3545110491a37ffe8ca3e384b7bf72571232e2d914337d1",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-minter.fc",
+      "content_hash": "1a664475495f2ba3c6ed0efbaced221bcec079fe15741c0e13c4000a79f59d3f",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-utils.fc",
+      "content_hash": "14c77b2deb97133c294b2ed4cc39e383bd90ad741f4bdd495f63535dc3653141",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "jetton-wallet.fc",
+      "content_hash": "c462be8b61e0e65eafe9cf6023e2db7a9d03b93cb93f606454b4771d1aeecc25",
+      "include_in_command": false,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "op-codes.fc",
+      "content_hash": "2bb092a4030fefa93db62963d36949b0449a2122b2ecf193f1609ae948978d92",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "003246e6de12e46e43a4896c9197a7efcec722fc8e4a5427e24703d6f30cc2db",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    },
+    {
+      "path": "workchain.fc",
+      "content_hash": "cc1927d6dc2339075d08cada868f238ab2e1b475974e9fad9fae284732e23a7c",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    }
+  ]
+}
