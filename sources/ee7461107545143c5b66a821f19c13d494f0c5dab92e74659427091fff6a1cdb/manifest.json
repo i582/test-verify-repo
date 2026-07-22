@@ -1,0 +1,56 @@
+{
+  "code_hash": "ee7461107545143c5b66a821f19c13d494f0c5dab92e74659427091fff6a1cdb",
+  "source_bundle_hash": "105db55284a990bd372fd08955af5b5d359052cb167b1995c7bc1abefa3f2476",
+  "verified_at": 1784758596,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/jetton_master.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/jetton_master.tact",
+      "content_hash": "7773f76c275d3b775e15a5c3fc07d0d5cd0f926c67a38788400a79ba577e1aa2"
+    },
+    {
+      "path": "contract/contracts/jetton_wallet.tact",
+      "content_hash": "80b5b18139cec903f5bfd30a4e99c3aeabe759cd2761b38ea80d62b25f3a3dee"
+    },
+    {
+      "path": "contract/contracts/messages.tact",
+      "content_hash": "fb638266a2e78dd962c7cd7c1c5ffe098fc446d6c91a7e4ad16c0c4d959cd11e"
+    },
+    {
+      "path": "output/JettonMaster.abi.json",
+      "content_hash": "ab7bcd8a4e3e00a07e7ede05e22883f029a694b8d4826e4bc6cbebb7c668671c"
+    },
+    {
+      "path": "output/JettonMaster.types.tolk",
+      "content_hash": "0eebd232d1dd41c58cea935674162db0b3e21701b0c5cf032ba4e8d0ce4955fa"
+    },
+    {
+      "path": "output/verifier_JettonMaster.abi",
+      "content_hash": "9d0a522538ede9b505ce0ee1f7b59675fe799c1715afb23f44b1cb9808e2919e"
+    },
+    {
+      "path": "output/verifier_JettonMaster.pkg",
+      "content_hash": "30abfa2c49563657d2586ae7a6b2c68631b6e72ba2d23435e0641246b4f9f7c0"
+    },
+    {
+      "path": "output/verifier_JettonWallet.abi",
+      "content_hash": "be22b24dae15df592fb246315d9283e8172725c06a475a35be0cfab9905b3892"
+    },
+    {
+      "path": "output/verifier_JettonWallet.pkg",
+      "content_hash": "4d2eaf96083bb9c6e8969f1fb3b4a4e45d7827b9d6b68ebfb82a69146867e590"
+    },
+    {
+      "path": "tact_JettonMaster.pkg",
+      "content_hash": "fd18f1e45433aaddb99db3f6b378fc337766a4fbf81879ade05155ba01a93f1d"
+    }
+  ]
+}
