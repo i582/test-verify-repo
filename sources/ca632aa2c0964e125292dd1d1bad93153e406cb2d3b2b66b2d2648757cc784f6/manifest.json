@@ -1,0 +1,37 @@
+{
+  "code_hash": "ca632aa2c0964e125292dd1d1bad93153e406cb2d3b2b66b2d2648757cc784f6",
+  "source_bundle_hash": "9bd86cae2d8bd2d4a199a7c6657555f9d414041efcc538dea29bbb655ef3acbb",
+  "verified_at": 1784758699,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6",
+    "entrypoint": "bsx_wallet.fc",
+    "params": {
+      "compiler_version": "0.4.6"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "bsx_wallet.fc",
+      "content_hash": "c26a4c057da90dc8b44f0fb3dd91b844f64a1c10470b95c51ea406b8a992ae30",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "helpers.fc",
+      "content_hash": "638f6ace9627289d38de63ea5df0b7dbac2d2ed06490247f32d88d3e77974d4e",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "imports/stdlib.fc",
+      "content_hash": "1c510f50d92d2a8d012a96baea1af06a2aa00e2c169f2e3f9d65a95f94c24131",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
