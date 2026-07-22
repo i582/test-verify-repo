@@ -1,0 +1,40 @@
+{
+  "code_hash": "c902408e89ad519cee324ea3ea98da2438450e50fca9e3adc51595cdc9731fb9",
+  "source_bundle_hash": "5ddec6d0ff79f92a5865a8a983e4ad6374294c7ef5a5c37f27201d89c6b2fc0e",
+  "verified_at": 1784758607,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.5",
+    "entrypoint": "contracts/ANO_KTO.tact",
+    "params": {
+      "compiler_version": "1.6.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/ANO_KTO.tact",
+      "content_hash": "cff8d37b110f983daa455a377595966d0d4f701bfd3fab8f564b01efa23827f1"
+    },
+    {
+      "path": "output/AnoKto.abi.json",
+      "content_hash": "f80036e637674464034c51e86a437e3e4fe77004a1e3f8e27685e7eaf8699496"
+    },
+    {
+      "path": "output/AnoKto.types.tolk",
+      "content_hash": "56c0343d2f229dbdf94c75ed7a231c15c5f760344d595afee82c4535702063b4"
+    },
+    {
+      "path": "output/verifier_AnoKto.abi",
+      "content_hash": "527d832f93a098c283db4262aac89307ab895508f96dba73db13a62eb2957f52"
+    },
+    {
+      "path": "output/verifier_AnoKto.pkg",
+      "content_hash": "2494adfa81ba4247386664c0f383b4339607d7555aeb7876907b9417a78c0c86"
+    },
+    {
+      "path": "tact_AnoKto.pkg",
+      "content_hash": "b0c93ec7ead4c51bc4191188fc7ff6045f435f22d3f8890ac3e754f5db88ca23"
+    }
+  ]
+}
