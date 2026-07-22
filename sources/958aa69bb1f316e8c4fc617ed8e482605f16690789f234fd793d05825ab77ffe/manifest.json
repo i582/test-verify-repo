@@ -1,0 +1,40 @@
+{
+  "code_hash": "958aa69bb1f316e8c4fc617ed8e482605f16690789f234fd793d05825ab77ffe",
+  "source_bundle_hash": "2d0e1b9f96d5db93d4fdd2f9fe7e8c31571fba44cafb186b3ca772c5a653004f",
+  "verified_at": 1784756901,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.0",
+    "entrypoint": "contracts/ton_three_space_contract.tact",
+    "params": {
+      "compiler_version": "1.4.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/ton_three_space_contract.tact",
+      "content_hash": "5c5e529d2bba277e3becc7fe6d54aa1015af22059c8df8531ecc7919ebc7bab0"
+    },
+    {
+      "path": "output/TonThreeSpaceContract.abi.json",
+      "content_hash": "be196123de25ecc7d46bceee4783ac51c732484faf7470c5fb28ac0136aa2b83"
+    },
+    {
+      "path": "output/TonThreeSpaceContract.types.tolk",
+      "content_hash": "c5a663b60aac4b4c39af4ca647d334f0ba4798a2b582ced1deb3d610e7b233de"
+    },
+    {
+      "path": "output/verifier_TonThreeSpaceContract.abi",
+      "content_hash": "3cf8220ba42eb52668c3e94496489f32503682ea1bcb94db5c11ef78970c3742"
+    },
+    {
+      "path": "output/verifier_TonThreeSpaceContract.pkg",
+      "content_hash": "599f65069860c2c0857ee64d8b2a8fa5036d494740fe1416257dbed4b450848e"
+    },
+    {
+      "path": "tact_TonThreeSpaceContract.pkg",
+      "content_hash": "700c299cb8254ea06e7313b9ed3b31d28bad366fbb8bd867810c13fd9a426167"
+    }
+  ]
+}
