@@ -1,0 +1,44 @@
+{
+  "code_hash": "f330c69bb576164796965e1f90a728fb9333cdec42fbdef04dcd20b39674c2e7",
+  "source_bundle_hash": "7c3609d831d3b10aa036c78580278d25eef74abf71d2087de31a44e17561270c",
+  "verified_at": 1784758503,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.4",
+    "entrypoint": "contracts/skate_gateway.tact",
+    "params": {
+      "compiler_version": "1.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/skate_gateway.tact",
+      "content_hash": "41458dbbe8224804d119fe34830afde7de29c4ad09a311f2f9843006dd689568"
+    },
+    {
+      "path": "contract/contracts/traits/skate/ISkate.tact",
+      "content_hash": "863a178724ac53a36f94c615c60d317856931101049c3bfabeffed88dbc34055"
+    },
+    {
+      "path": "output/SkateGateway.abi.json",
+      "content_hash": "135c3eba53bd36cb9de4171fec5fbfc8e90ef7453a9f0adeb97802069be9257c"
+    },
+    {
+      "path": "output/SkateGateway.types.tolk",
+      "content_hash": "c622a837af97c5a094dc96f75e353caa76f1aadbe42f366fb29c792369c77134"
+    },
+    {
+      "path": "output/verifier_SkateGateway.abi",
+      "content_hash": "a99ce01ab93cb73c219848b475e1f1ba66a5906cc8a58058ae25012d7b7c5c81"
+    },
+    {
+      "path": "output/verifier_SkateGateway.pkg",
+      "content_hash": "4f72f720c8e2c9b72a448f7fa43998d4b843d9186e147f5d95a9298f00698ff9"
+    },
+    {
+      "path": "tact_SkateGateway.pkg",
+      "content_hash": "33580cbbf6e5e6c5e5766d2a6ec4b09e5f1421c4d7294344d9703e5098125b4e"
+    }
+  ]
+}
