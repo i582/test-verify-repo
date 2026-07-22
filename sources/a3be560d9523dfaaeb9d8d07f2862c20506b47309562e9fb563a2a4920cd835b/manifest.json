@@ -1,0 +1,52 @@
+{
+  "code_hash": "a3be560d9523dfaaeb9d8d07f2862c20506b47309562e9fb563a2a4920cd835b",
+  "source_bundle_hash": "58bf996ff6c2bb8a0763507d2142eb78ff7f3c7d3963bfc1b7316c4f9f3c01fd",
+  "verified_at": 1784757478,
+  "compiler": {
+    "language": "tact",
+    "version": "1.4.1",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.4.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "AttestParent.pkg",
+      "content_hash": "154d31ebb84b3e3790fe18a3ac5b4d0451f9799600ebb7ebc625ec672dcfab28"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "6be16b5b9d89dca10d74d020520fbb658421cecfce4b0669d1335b484d56ad4d"
+    },
+    {
+      "path": "contract/sources/structs.tact",
+      "content_hash": "2111c9210daf9be850990bd0343a1968bd5663cfdd693c8df199b130ad9dbff0"
+    },
+    {
+      "path": "output/AttestParent.abi.json",
+      "content_hash": "357cd204c5e0800541fce1354c1404a5a285e9d27c1ca127997275523774ba5e"
+    },
+    {
+      "path": "output/AttestParent.types.tolk",
+      "content_hash": "f026797e341a0b0781be7414c995722cfad118381650837e9f0d4e35731e6fb3"
+    },
+    {
+      "path": "output/verifier_AttestChild.abi",
+      "content_hash": "1c62ee25ec26c911dbd8ae9460e1a0c487e7b8aad26956cc149eb76f495dbc1f"
+    },
+    {
+      "path": "output/verifier_AttestChild.pkg",
+      "content_hash": "1a013194a3fd8dcbd30c9b79fd73d96cc13e5e2246f4c24269955ebd4743343b"
+    },
+    {
+      "path": "output/verifier_AttestParent.abi",
+      "content_hash": "ba397b8bdcf73000ba0751c93e418f86f90222209d9e72d8cdb8e6ec0a923746"
+    },
+    {
+      "path": "output/verifier_AttestParent.pkg",
+      "content_hash": "dbd12f144b9f58dea29fc35c815e485a5f54e2bd4d6d58b2b7855ad866687417"
+    }
+  ]
+}
