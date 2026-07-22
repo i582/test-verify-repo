@@ -1,0 +1,40 @@
+{
+  "code_hash": "bea6be4c6542c50bae3bb90bd1b290081a16ee52d524766847be882bc842f139",
+  "source_bundle_hash": "4b96afd942d12e0a5ff3f6d9b327732045cdecb020fd2477b7ace6cec4cc00de",
+  "verified_at": 1784757639,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/banks_crowd_sale.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/banks_crowd_sale.tact",
+      "content_hash": "83877eddbbcac13ff4de7ecc0088d161e64a8fef5031d2bc4ba009b385f8c425"
+    },
+    {
+      "path": "output/BanksCrowdSale.abi.json",
+      "content_hash": "ed142c58b9dc900e327703150a197f7062492c3945f8c26bb08007bada0c2ec8"
+    },
+    {
+      "path": "output/BanksCrowdSale.types.tolk",
+      "content_hash": "f398ec1fb7c5d5b85908523da571083d1bb5ee8bc6bbb4ab12f1600dddc1062c"
+    },
+    {
+      "path": "output/verifier_BanksCrowdSale.abi",
+      "content_hash": "d0925d490325db638993dda10e27c3dba4b3429a8cc552a5cf1810dd1a4710b5"
+    },
+    {
+      "path": "output/verifier_BanksCrowdSale.pkg",
+      "content_hash": "f91f3a37e293486c4e7409d5e9f459b92ab2811ab572506ebe7d40ebc7243a45"
+    },
+    {
+      "path": "tact_BanksCrowdSale.pkg",
+      "content_hash": "4930cece9660e550d91825811dbc3848ec3e17abc2d8f9a08f8fb6f08e4553b3"
+    }
+  ]
+}
