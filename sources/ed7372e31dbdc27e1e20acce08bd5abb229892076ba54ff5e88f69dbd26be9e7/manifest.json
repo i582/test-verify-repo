@@ -1,0 +1,56 @@
+{
+  "code_hash": "ed7372e31dbdc27e1e20acce08bd5abb229892076ba54ff5e88f69dbd26be9e7",
+  "source_bundle_hash": "c5f68e4d0d74e4710201aac6d1397e5a3a8ac4c24f6aa65375a2398de88316f0",
+  "verified_at": 1784758762,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.1",
+    "entrypoint": "sources/master.tact",
+    "params": {
+      "compiler_version": "1.1.1"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TokenMaster.pkg",
+      "content_hash": "e463cdefcfff74dd2c31b2c01978098e06e09ccff0f5e93bf801417febcd26ba"
+    },
+    {
+      "path": "contract/sources/master.tact",
+      "content_hash": "f693c83dd65eabfb88f6f24c616c7c28e10225ccd8ae8e0b240dd407b2724204"
+    },
+    {
+      "path": "contract/sources/messages.tact",
+      "content_hash": "61a0d27d5be9002e28787bac7614664ba5fe976a1900b85d4fa6e38d61138e6a"
+    },
+    {
+      "path": "contract/sources/wallet.tact",
+      "content_hash": "59fdcf7b4b1ea14787747da9ad6d772bc3bc84d33ea25c6f1eb7c623ee254505"
+    },
+    {
+      "path": "output/TokenMaster.abi.json",
+      "content_hash": "641e543ecd263be0b416e0fe228c012dc4df5ff5fb1f33ad37e1d3027e08cac5"
+    },
+    {
+      "path": "output/TokenMaster.types.tolk",
+      "content_hash": "77c50086f86dba6605a1a762d2b9a23c8b88d720aa20a1b06137966872ce3578"
+    },
+    {
+      "path": "output/verifier_TokenMaster.abi",
+      "content_hash": "211b0874812b30ca90150538034661d6e5ed11ed2f507fb89a39024d1120fde8"
+    },
+    {
+      "path": "output/verifier_TokenMaster.pkg",
+      "content_hash": "7ed87a7d46b50a426873e2016c8e2106ef002a0fac1457847dd4b1058f30132a"
+    },
+    {
+      "path": "output/verifier_TokenWallet.abi",
+      "content_hash": "89fe70d4fe06176a23ab6ffd968c595a7a14ddd869f2f9bba429688b0d76d8fd"
+    },
+    {
+      "path": "output/verifier_TokenWallet.pkg",
+      "content_hash": "914ac91b407c3120da49b151f2440d816e34e30a3ccf0f6cc3b416b42245a6a7"
+    }
+  ]
+}
