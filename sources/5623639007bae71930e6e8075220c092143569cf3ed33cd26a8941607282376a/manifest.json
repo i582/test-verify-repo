@@ -1,0 +1,40 @@
+{
+  "code_hash": "5623639007bae71930e6e8075220c092143569cf3ed33cd26a8941607282376a",
+  "source_bundle_hash": "7c25ea16d641f9c38b7f6100b7dc58a9380fb21801e8d6f3c5af13cc65ba5b2b",
+  "verified_at": 1784757181,
+  "compiler": {
+    "language": "tact",
+    "version": "1.6.13",
+    "entrypoint": "sources/referral.tact",
+    "params": {
+      "compiler_version": "1.6.13"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "SignalHash_Referral.pkg",
+      "content_hash": "a5f60f5ebb822678cfe03c1cfc6ffabc61aa878d5ab152afa1710005eed601c4"
+    },
+    {
+      "path": "contract/sources/referral.tact",
+      "content_hash": "2f31fde192a817aac899075b6493b699d1c5f2b382a5ce24370b2abfaaee8fdc"
+    },
+    {
+      "path": "output/SignalHash_Referral.abi.json",
+      "content_hash": "0f4b859271410c8a077f981a18e29b9e0fe092f3cc819d1a18ac91a13430c357"
+    },
+    {
+      "path": "output/SignalHash_Referral.types.tolk",
+      "content_hash": "981857db9af1ff65451b5e37af673b2c8ed176032658a707f00321d3364ab78a"
+    },
+    {
+      "path": "output/verifier_SignalHash_Referral.abi",
+      "content_hash": "630777aa999b10ce51f0c274363394159e4c5fb4168ab5dbe9e285e23244d08e"
+    },
+    {
+      "path": "output/verifier_SignalHash_Referral.pkg",
+      "content_hash": "f2cb64c9bc947dda6bdffc44170066742ad477a7a6cea0a3f69b290d1cc40990"
+    }
+  ]
+}
