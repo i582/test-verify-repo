@@ -1,0 +1,40 @@
+{
+  "code_hash": "dffcb09ba6ce6676ad379a03b4ee01b7364464ecf4858b7cf41edf5bb34ad122",
+  "source_bundle_hash": "f58f32b00cc0906f6a7e9733eb0c54ee741a1acdabcd5e99c47eb36a5e48301b",
+  "verified_at": 1784757666,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.3",
+    "entrypoint": "contracts/jetton_train.tact",
+    "params": {
+      "compiler_version": "1.5.3"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TrainJetton.pkg",
+      "content_hash": "f3b69ed66cc3cb838b66489aaa977852d4e2ad615262f2ec7e1337e5f688bca9"
+    },
+    {
+      "path": "contract/contracts/jetton_train.tact",
+      "content_hash": "1d6fd5bc5326ffa9e566bfcfaa2dc2be8530d1231f7d505759c2ccee6333fc45"
+    },
+    {
+      "path": "output/TrainJetton.abi.json",
+      "content_hash": "6e42e1b82b85c03fa215814d969e9b4ca8fd2158220a988fe8b52092561345c1"
+    },
+    {
+      "path": "output/TrainJetton.types.tolk",
+      "content_hash": "253cbe1b5b86ae14aa54efc6d7048831ebee746157a2106b271a1c156225ac9c"
+    },
+    {
+      "path": "output/verifier_TrainJetton.abi",
+      "content_hash": "b9c1e64003a6706871162b0efa2719faa010cc837f974b546f677514a3c5d8f3"
+    },
+    {
+      "path": "output/verifier_TrainJetton.pkg",
+      "content_hash": "87b8556bde1158f34648e55a1122528a7b911211873b3c893264b8e28ce47b49"
+    }
+  ]
+}
