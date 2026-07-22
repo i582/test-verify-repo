@@ -1,0 +1,56 @@
+{
+  "code_hash": "45f99e717173f80754380738336b41b417c7ee36ed70f1777055cbbfa7f0e537",
+  "source_bundle_hash": "7e2efe24f985414db1cb849f0f50b7ea30a729b3af16b1bf2d530c752cc8b57b",
+  "verified_at": 1784758974,
+  "compiler": {
+    "language": "tact",
+    "version": "1.2.0",
+    "entrypoint": "contracts/test_ton_token.tact",
+    "params": {
+      "compiler_version": "1.2.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/jetton.tact",
+      "content_hash": "d0de9f1afd26fb0c62b9a518f84a2569016c7890383570bce0caedb74559cb78"
+    },
+    {
+      "path": "contract/contracts/messages.tact",
+      "content_hash": "fd8132f71871cf0b77a067d5d292ecb2992b7761db3e78305ec9286918c3cf5c"
+    },
+    {
+      "path": "contract/contracts/test_ton_token.tact",
+      "content_hash": "f76648ecfd657b4303337b267e2e4556cfbc2c46683383fd36f86fe7a5e90bf3"
+    },
+    {
+      "path": "output/JettonDefaultWallet.abi.json",
+      "content_hash": "4e4d733d8ba1883cb445208b9c540c67e0e5edeb1c6b743bf34a5db4a187cb8d"
+    },
+    {
+      "path": "output/JettonDefaultWallet.types.tolk",
+      "content_hash": "9e9e8da32e4aa474a2b458126f7b215af756041769f2c2d5083b1383b4080db7"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.abi",
+      "content_hash": "59918514a7f1040a0b44ce8d4f41673545f08ecccd4b734a018e53915cf66497"
+    },
+    {
+      "path": "output/verifier_JettonDefaultWallet.pkg",
+      "content_hash": "444e4c823fafa26e87c43b7d0d6fc55944f15af669a8d1882cef8d50b8ee0be3"
+    },
+    {
+      "path": "output/verifier_TestTonToken.abi",
+      "content_hash": "79c8de6d351c34672c45faaaeb44fa7531c68d59628a199d6953b1bba4c21d35"
+    },
+    {
+      "path": "output/verifier_TestTonToken.pkg",
+      "content_hash": "2fc3e2d2a726e7125672a2587b8a4bc6d14f8ec0ff635c2e3fc4ec5fa03eee6a"
+    },
+    {
+      "path": "tact_JettonDefaultWallet.pkg",
+      "content_hash": "ab65bcb6452867d29357abc67ecf5611aaee226ab5a18c9897f765da80477edc"
+    }
+  ]
+}
