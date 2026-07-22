@@ -1,0 +1,40 @@
+{
+  "code_hash": "27e2bd1cd5a6a52f9139e8d6993bb909ec751bb9d807b0de1e018fd1f20fb1cc",
+  "source_bundle_hash": "8fd8e3ebaa5b3ca78bc431ffeb8b2baa698205c3f3b5442d6d4f1f7de9cf7008",
+  "verified_at": 1784758853,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.2",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.5.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "MimiappContract.pkg",
+      "content_hash": "0c656fc175543a3ccccf76117fecc9a8df7a1bdca3f37adfe3b24373ce3d9f52"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "9b32288c9cf0bc4aab01baea2fe7ebf8103647f17c79e00a7d192153b2cdd51c"
+    },
+    {
+      "path": "output/MimiappContract.abi.json",
+      "content_hash": "cfb285ea896a209ee39496b51b54b4f102fe0fd20ecff7e67fd5381c681ca7cc"
+    },
+    {
+      "path": "output/MimiappContract.types.tolk",
+      "content_hash": "9145188e6de482f7b6b50b06922650464cbc890b52d7913ba85fa358a66435f3"
+    },
+    {
+      "path": "output/verifier_MimiappContract.abi",
+      "content_hash": "4b2aa22a05164f0e941f50a2d5eada0bc9624b0d89966e1fcc229eaf83e4ba4e"
+    },
+    {
+      "path": "output/verifier_MimiappContract.pkg",
+      "content_hash": "4f3587feff1790571d63e396dc43b8d1b832c6d2026505a556be1f24ca88287b"
+    }
+  ]
+}
