@@ -1,0 +1,40 @@
+{
+  "code_hash": "9e0d4872c3727f22c9b1a1c8739e019cc49f45ff331fcd68085703c4b71bbc68",
+  "source_bundle_hash": "159e108adb559d7e92830ee013db5a3bd6ec5c2c223a6daf9d486d25cc4ec712",
+  "verified_at": 1784757077,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.5",
+    "entrypoint": "sources/contract.tact",
+    "params": {
+      "compiler_version": "1.1.5"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "LootBoxContract.pkg",
+      "content_hash": "23058841a755994a3a5dbb9810e8d14a64e35ecd161648408260f83ec4e3af10"
+    },
+    {
+      "path": "contract/sources/contract.tact",
+      "content_hash": "85aff907dbdafff53a647b4a13ad0eb5f440e59e0fdb063ca5a1a43aea5d94c6"
+    },
+    {
+      "path": "output/LootBoxContract.abi.json",
+      "content_hash": "1280a9f3ce78daa514a3f19d7a1de08b609ab8e51631943379e1a8cc8ce719d3"
+    },
+    {
+      "path": "output/LootBoxContract.types.tolk",
+      "content_hash": "c135d2656df094eb298ebe7f7a2e4644d1fe4d2796eceb65e52546b87b4639e9"
+    },
+    {
+      "path": "output/verifier_LootBoxContract.abi",
+      "content_hash": "33261ce119f621b7c67d05cf9ca3dbf5e05f7e49eb4e5d83a530bc5551d61e41"
+    },
+    {
+      "path": "output/verifier_LootBoxContract.pkg",
+      "content_hash": "18f1e3fbeaa8718c94f7af4f2bc640b53fbe90231abefe4f6528fd2325fca065"
+    }
+  ]
+}
