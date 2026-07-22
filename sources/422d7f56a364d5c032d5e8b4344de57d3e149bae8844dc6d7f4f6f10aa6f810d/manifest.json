@@ -1,0 +1,64 @@
+{
+  "code_hash": "422d7f56a364d5c032d5e8b4344de57d3e149bae8844dc6d7f4f6f10aa6f810d",
+  "source_bundle_hash": "e2b5c89549b2a96864a2eb81b2b85852683ee3b5b7479c4909ad06f92f3a4291",
+  "verified_at": 1784758947,
+  "compiler": {
+    "language": "tact",
+    "version": "1.1.4",
+    "entrypoint": "contracts/nft.tact",
+    "params": {
+      "compiler_version": "1.1.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "TONNFTCollection.pkg",
+      "content_hash": "2264a1220afb2d0f8f02d3a5aa3775bbe47221e6b841bc76b292fccb557b1765"
+    },
+    {
+      "path": "contract/contracts/nft.tact",
+      "content_hash": "bc599391cc1552596f77da10e959014ab619589fe208c1edb1df7ae685b7691c"
+    },
+    {
+      "path": "contract/contracts/packages/token/nft/NFTCollection.tact",
+      "content_hash": "62dd802cda34984b3d7a1c4b4e5c89f05dc194d853e268c5b9740e7c8c409ebc"
+    },
+    {
+      "path": "contract/contracts/packages/token/nft/NFTItem.tact",
+      "content_hash": "a5c89288253746e9a80d7391feb0691d07778ff36e5ead0772f78fc2713fc7dc"
+    },
+    {
+      "path": "contract/contracts/packages/token/nft/extensions/NFTRoyalty.tact",
+      "content_hash": "c4712ee6c09f94bf640b9b25ef5d157ac5bf8abdce011c17b4b78cdf0cc2a976"
+    },
+    {
+      "path": "contract/contracts/packages/utils/Estimatable.tact",
+      "content_hash": "e10f41461c2038818f0b683c4fe6131cf5ca46827e32e560cd8cf02c867feaff"
+    },
+    {
+      "path": "output/TONNFTCollection.abi.json",
+      "content_hash": "88e9baefd80615f20b266ec1dbf7b278ebccc3ffc33432e2f17b1802ce32d249"
+    },
+    {
+      "path": "output/TONNFTCollection.types.tolk",
+      "content_hash": "f8574fff1b762973346225057949cf772a29276de5bf12bac92fc63ef1c73db6"
+    },
+    {
+      "path": "output/verifier_ExampleNFTItem.abi",
+      "content_hash": "3edee64125e428497bb619821cbbc7b94195462633aff03c73ae5f3fb0012f9b"
+    },
+    {
+      "path": "output/verifier_ExampleNFTItem.pkg",
+      "content_hash": "47c9fc7c423c69494805810dc62fac1bcec872217b623c3cb06cabe101eb279c"
+    },
+    {
+      "path": "output/verifier_TONNFTCollection.abi",
+      "content_hash": "4da9b15e554e57be37fd90db093b380a5330cdfede24e73bd7c4f9065967391f"
+    },
+    {
+      "path": "output/verifier_TONNFTCollection.pkg",
+      "content_hash": "ea9e4638c1a74fe2305957e0fa7b1b0a8d00658f34f472e3694088b95ff8b15c"
+    }
+  ]
+}
