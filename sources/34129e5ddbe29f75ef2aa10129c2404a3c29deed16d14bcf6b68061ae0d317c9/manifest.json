@@ -1,0 +1,44 @@
+{
+  "code_hash": "34129e5ddbe29f75ef2aa10129c2404a3c29deed16d14bcf6b68061ae0d317c9",
+  "source_bundle_hash": "8de35cf1a456cf0d4bdb139727f5b74aa076a2f014aeb4bfc6a2e5fd3fd04775",
+  "verified_at": 1784762490,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.4",
+    "entrypoint": "nft-collection.fc",
+    "params": {
+      "compiler_version": "0.4.4"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "nft-collection.fc",
+      "content_hash": "44b355f3d2d2b84eb1c2e310da8043b05d84cffc2a093be4282bf8e42d79fdb5",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "op-codes.fc",
+      "content_hash": "600be21de53a4cdf8f53f369215e1df56572e7d9e9eb127d3036767c6121ef34",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "params.fc",
+      "content_hash": "9d044e014dd18d0051f0da59e303f9aac3eb51c271ed53c829c4fbb41cd8aeda",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "67b941b5fd9b900ad2b7f0259e98f8c359521f75107ade4bfc10a7676ada516d",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
