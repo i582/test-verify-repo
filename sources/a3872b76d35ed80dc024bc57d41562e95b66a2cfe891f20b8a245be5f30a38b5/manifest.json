@@ -1,0 +1,40 @@
+{
+  "code_hash": "a3872b76d35ed80dc024bc57d41562e95b66a2cfe891f20b8a245be5f30a38b5",
+  "source_bundle_hash": "495b4d71c5e317401462a46e940de32c690a8bfb1e7f74acb370878192af4eb4",
+  "verified_at": 1784757486,
+  "compiler": {
+    "language": "tact",
+    "version": "1.5.2",
+    "entrypoint": "contracts/stake_contract.tact",
+    "params": {
+      "compiler_version": "1.5.2"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "contract/contracts/stake_contract.tact",
+      "content_hash": "b7d7357c2c721944f612c4fd49b4e189674eb0686bca67a13c22f61357f8c08f"
+    },
+    {
+      "path": "output/StakeContract.abi.json",
+      "content_hash": "bfa035e1713ba13468dc78eb1ee4cb9dda3b2398927bc8abcae1f679cb3bb106"
+    },
+    {
+      "path": "output/StakeContract.types.tolk",
+      "content_hash": "4b24c34708b5c33ab5788140e869f4330f1fefb14dc6827f2d61297cd21c76f7"
+    },
+    {
+      "path": "output/verifier_StakeContract.abi",
+      "content_hash": "2da06f824d1b8913c42b9ad6647bb04551b4248bae3babb1125f454eeb3cf4ca"
+    },
+    {
+      "path": "output/verifier_StakeContract.pkg",
+      "content_hash": "39ddb3bb1ae54643b29515463e8850437b48c67d47087d0c37edaef434ceb41b"
+    },
+    {
+      "path": "tact_StakeContract.pkg",
+      "content_hash": "92e89788361fe6951e962c89820f7d78a4f086daf6e29dadf98c110088895c67"
+    }
+  ]
+}
