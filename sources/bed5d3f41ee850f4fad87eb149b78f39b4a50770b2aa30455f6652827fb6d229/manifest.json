@@ -1,0 +1,44 @@
+{
+  "code_hash": "bed5d3f41ee850f4fad87eb149b78f39b4a50770b2aa30455f6652827fb6d229",
+  "source_bundle_hash": "76954789f0a359a895b429a16ab901a96922c3ab552772e0779c5d3392120378",
+  "verified_at": 1784762765,
+  "compiler": {
+    "language": "func",
+    "version": "0.4.6-wasmfix.0",
+    "entrypoint": "FixedSale.fc",
+    "params": {
+      "compiler_version": "0.4.6-wasmfix.0"
+    }
+  },
+  "source_map": null,
+  "files": [
+    {
+      "path": "FixedSale.fc",
+      "content_hash": "64a20900946d794810177dcd2115bc79cc8c81ccc0a9667dca5951bfd7967c94",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": true
+    },
+    {
+      "path": "op-codes.fc",
+      "content_hash": "2c0facdb5c86c106ce977e85352ebaf69466396d3dfa3a6ee99a4a3384651e86",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "params.fc",
+      "content_hash": "8fdea5f6a5e841361e69ff60bc2dac912d5aed2922bb6a29d15a82ccc020efce",
+      "include_in_command": true,
+      "is_stdlib": false,
+      "has_include_directives": false
+    },
+    {
+      "path": "stdlib.fc",
+      "content_hash": "8ae79b3c571669c60281273d7846664c8b90f93c4aa2c53f882fa537db6f6231",
+      "include_in_command": true,
+      "is_stdlib": true,
+      "has_include_directives": false
+    }
+  ]
+}
